@@ -1,0 +1,1885 @@
+Sancti Kiliani Hagiographia: Critical Multilingual
+Dossier of the Texts, Manuscripts, Cult, and
+Scholarship
+Executive summary
+The Kilianian corpus is not a single biography but a succession of textual, liturgical, and cultic layers. Its
+central prose works are the Passio minor, BHL 4660, and the Passio maior, BHL 4661. The current
+Geschichtsquellen des deutschen Mittelalters repertory dates the minor broadly to 750–850, with composition
+around 788 remaining a serious proposal, and dates the major to 950–970, possibly associating it with
+Stephen of Novara, who taught at the Würzburg cathedral school from 952. The attribution to Stephen is
+plausible, not demonstrated by an authorial colophon. 1
+
+
+The earliest presently catalogued manuscript of the minor is Vienna, Österreichische Nationalbibliothek
+Cod. 552, fols. 107v–112r, assigned to the middle of the ninth century. St. Gallen, Stiftsbibliothek 566, pp.
+212–219, is dated to the late ninth or early tenth century; Munich, BSB Clm 4585 and the illustrated
+Hannover Ms I 189 are tenth-century witnesses. The often-repeated designation of St. Gallen 566 as
+unquestionably the oldest witness is therefore no longer the safest formulation. 2
+
+
+The major circulated much more extensively than the minor. Approximately forty witnesses or derivative
+copies were known to Levison, while the current IRHT Légendiers latins inventory identifies twenty-eight
+manuscript witnesses under BHL 4661. Particularly important are Dublin, National Library of Ireland
+19375, a tenth-century manuscript that may be connected directly with Stephen of Novara; Karlsruhe, Cod.
+Aug. perg. 84, a tenth-century Reichenau witness; Munich, Clm 18955, from eleventh-century Tegernsee;
+and Vatican City, Vat. lat. 8565, an eleventh- or twelfth-century Malmedy manuscript. 3
+
+
+The full corpus also includes the fourteenth-century Vita metrica sancti Kiliani, BHL 4662, by Johannes de
+Lauterbach, comprising 314 rhymed hexameters, and later abbreviations or reworkings catalogued as BHL
+4660a, 4663, and 4663a. A German version entered the transmission of the Elsässische Legenda Aurea. These
+texts document the medieval reception and literary transformation of Kilian rather than independent
+evidence for seventh-century events. 4
+
+
+No separately catalogued Kilianian work devoted to Atalongus or Atalong has been verified under an
+independent BHL number. Atalongus belongs instead to episodes transmitted within expanded forms of the
+major tradition or its later retellings. Any text presenting an “Atalongus narrative” as an autonomous early
+source requires identification of its manuscript, folios, incipit, explicit, and BHL classification before it can be
+treated as an independent witness. 5
+
+
+The historical convergence is narrower than the mature legend. By the Carolingian period, Kilian, Colonatus,
+and Totnan were established objects of ecclesiastical commemoration at Würzburg. The earliest continuous
+narrative remembers an Irish or Irish-associated missionary, two principal clerical companions, activity in
+
+
+
+                                                         1
+the Würzburg region, violent death connected with the ducal household, and the elevation of their relics
+under Bishop Burchard. The exact Roman journey, personal commission by Pope Conon, conversion of an
+entirely pagan duchy, precise death date, number of companions, speeches, psychological motives, and
+miraculous punishments are progressively less secure. 6
+
+
+The strongest dedicated modern doctoral study located in accessible international repositories is Joanna
+Thornborough, “The ‘Passiones’ of St. Kilian: Cult, Politics and Society in the Carolingian and Ottonian
+Worlds,” University of St Andrews, 2015. It examines the relationship among hagiography, cult, political
+context, and institutional memory from approximately 700 to 1000. No second repository-verified doctoral
+dissertation devoted specifically and comprehensively to both Kilianian Passiones was identified in the
+accessible English, German, French, Italian, Latin, or Russian searches. That finding does not exclude
+uncatalogued or locally deposited theses. 7
+
+
+The principal modern Holy See text is Benedict XVI’s homily at Erfurt on 24 September 2011, issued by the
+Vatican in German, English, Spanish, French, Italian, Polish, and Portuguese. Benedict described Kilian as an
+itinerant missionary from Ireland who worked in Thuringia before the Anglo-Saxon missionaries and died at
+Würzburg with two companions after criticizing the local duke’s moral misconduct. This is authoritative
+evidence for modern ecclesiastical reception, not a critical ruling on the date, authorship, or factual
+accuracy of the medieval Passiones. 8
+
+
+The uploaded seventeen-page dossier and the connected Google Drive texts were treated as preliminary
+research and design materials rather than independent authorities. Their bibliographic leads were checked
+against MGH, the Bavarian Academy repertory, IRHT, institutional repositories, and official Vatican
+resources. fileciteturn0file0 The connected Passio minor documents are useful source plates but do
+not constitute codex-specific diplomatic editions, while the connected Passio maior PDF combines material
+from the two prose traditions and must be classified as a modern synthetic adaptation rather than a
+transcription of BHL 4661. 9     10  11
+
+
+
+
+A genuinely definitive edition remains possible, but it must be built from separate diplomatic transcriptions
+of the principal codices. A composite printed text cannot properly be called “diplomatic”: diplomacy
+preserves one physical witness, including spelling, abbreviations, corrections, punctuation, lineation, and
+scribal interventions. The minor has Levison’s critical MGH edition; the major still lacks a modern edition
+based on a complete collation of its surviving manuscript family. 12
+
+
+Latin textual dossier
+
+Prooemium criticum
+
+Corpus Kilianianum non unum tantum opus, sed traditionem multiplicem exhibet. Prima narratio
+continua est Passio sanctorum martyrum Kiliani et sociorum eius minor, BHL 4660, inter medium saeculum
+octavum et medium saeculum nonum composita. Altera est Passio sancti Kyliani et sociorum eius maior, BHL
+4661, quae materiam prioris amplificat et hodie plerumque annis 950–970 adscribitur. Tertium opus
+praecipuum est Vita metrica sancti Kiliani martyris, BHL 4662, a Iohanne de Lauterbach saeculo XIV
+conscripta. Exstant praeterea epitomae atque retractationes BHL 4660a, 4663 et 4663a. 13
+
+
+Editio diplomatica proprie dicta ad unum codicem pertinet. Quam ob rem textus ex variis codicibus,
+editionibus et orthographiis conflatus neque “diplomaticus” neque unius aetatis testimonium appellandus
+
+
+
+                                                      2
+est. Recensio critica potest lectiones plurium codicum aestimare; transcriptio diplomatica debet singularis
+codicis scripturam fideliter exprimere. Levison recensuit Passionem minorem in MGH Scriptores rerum
+Merovingicarum V, pp. 722–728; Passio maior editione recenti omnium codicum collata adhuc caret. 12
+
+
+Initia authentica et classificatio
+
+                                        Aetas                           Initium
+  Opus                  BHL                        Initium prologi                               Fides textologica
+                                    probabilis                          narrationis
+
+                                                   nullus                                        Antiquissima
+                                     750–850;                           Fuit vir vitae
+                                                   prologus                                      narratio continua;
+  Passio minor          4660          fortasse                          venerabilis
+                                                   separatus in                                  recensio critica
+                                     circa 788                          Killena nomine
+                                                   forma recepta                                 Levisoniana exstat.
+
+                                                                        Beatus
+                                                                        Kylianus,                Amplificatio
+                                                   Sanctorum
+                                                                        Scotorum                 minoris; editio
+  Passio maior          4661          950–970      martyrum
+                                                                        genere                   universa recentior
+                                                   certamina…
+                                                                        nobilibus ortus          desideratur.
+                                                                        parentibus…
+
+                                                   Sanctorum                                     Poema
+                                                                        Felix Kyllena
+                                   circa 1350–     merita norunt                                 receptionis, 314
+  Vita metrica          4662                                            martyr Domini
+                                          1400     compungere                                    hexametri leonini
+                                                                        pretiosus
+                                                   mentes                                        vel rithmici.
+
+                                                                                                 Textus singillatim
+                                                                                                 recognoscendi;
+                      4660a,
+  Epitomae et                     mediaevales                                                    non fontes
+                       4663,                       variant              variant
+  retractationes                   posteriores                                                   independentes
+                      4663a
+                                                                                                 eventuum saeculi
+                                                                                                 VII.
+
+
+The incipits, dates, and classifications are those of the current Bavarian Academy and IRHT repertories.             14
+
+
+
+
+Testimonia Latina selecta
+
+Because the full major tradition has not yet been critically re-edited from all principal codices, the following
+is a verified textual nucleus, not a falsely reconstructed complete diplomatic text.
+
+
+Passio minor, incipit
+
+
+       Fuit vir vitae venerabilis Killena nomine, quem Scottica tellus de magno edidit genere.
+
+
+Normalized Latin
+
+
+       Fuit vir vitae venerabilis, Killena nomine, quem Scottica tellus e magno genere edidit.
+
+
+
+
+                                                         3
+English
+
+
+       “There was a man of venerable life named Killena, whom the Irish land brought forth from a
+       distinguished family.”
+
+
+The phrase Scottica tellus refers in the early medieval context to Ireland or the land of the Scotti, not
+automatically to modern Scotland. Vitae venerabilis and noble birth are conventional hagiographic markers,
+while the forms Killena, Kyllena, Chilianus, Kilianus, and Kylianus show the instability of the saint’s name in
+Latin transmission. 15
+
+
+Evangelical summons
+
+
+       Qui vult venire post me, abneget semet ipsum et tollat crucem suam et sequatur me.
+
+
+Normalized Latin
+
+
+       Qui vult post me venire, abneget semet ipsum, tollat crucem suam et sequatur me.
+
+
+English
+
+
+       “Whoever wishes to come after me must deny himself, take up his cross, and follow me.”
+
+
+The citation frames peregrination as enacted discipleship. Departure from country, possessions, and kin is
+represented as the literalization of Gospel renunciation rather than merely a missionary itinerary.
+
+
+Conversion formula
+
+
+       Audiens autem dux Gozbertus verbum praedicationis eius, cum omni populo suo credidit et
+       baptizatus est.
+
+
+Normalized Latin
+
+
+       Dux autem Gozbertus, audito verbo praedicationis eius, cum omni populo suo credidit atque
+       baptizatus est.
+
+
+English
+
+
+       “When Duke Gozbert heard the message of his preaching, he believed with all his people and
+       was baptized.”
+
+
+The formula is narratively totalizing: ruler, people, belief, and baptism occur as one apostolic movement.
+Historical criticism has questioned the scene because the ducal household was probably already Christian;
+the episode may transform ecclesiastical correction into foundational conversion. 16
+
+
+Marriage dispute
+
+
+
+
+                                                       4
+       Non multo post tempore persuadebat illum devotus Domini pontifex Kilianus ut dimitteret uxorem
+       suam Geilanam, quae fuerat uxor fratris eius…
+
+
+Normalized Latin
+
+
+       Non multo post, Kilianus, devotus Domini pontifex, duci persuasit ut Geilanam uxorem dimitteret,
+       quippe quae fratris eius uxor fuerat.
+
+
+English
+
+
+       “Not long afterward Kilian, the devoted bishop of the Lord, urged the duke to put away his
+       wife Geilana, since she had been his brother’s wife.”
+
+
+Dimittere should be translated “put away” or “dismiss,” without importing the procedural categories of
+modern civil divorce. The disputed union concerns affinity created by a previous marriage. The episode
+aligns Kilian with the prophetic and Johannine pattern of confronting a ruler over an unlawful marriage.
+
+
+Passio maior, authentic transition
+
+
+       Sanctorum martyrum certamina…
+       Beatus Kylianus, Scotorum genere nobilibus ortus parentibus…
+
+
+Normalized Latin
+
+
+       Sanctorum martyrum certamina… Beatus Kilianus, genere Scottorum, nobilibus parentibus ortus…
+
+
+English
+
+
+       “The contests of the holy martyrs… Blessed Kilian, of the people of the Irish and born of noble
+       parents…”
+
+
+This transition is decisive for textual identification. A work that begins with the major’s prologue and then
+substitutes Fuit vir vitae venerabilis Killena nomine has combined BHL 4661 with BHL 4660 and is not a
+continuous transcription of the medieval major. 3
+
+
+Vita metrica
+
+
+       Sanctorum merita norunt compungere mentes.
+       Felix Kyllena martyr Domini pretiosus…
+
+
+English
+
+
+       “The merits of the saints know how to pierce the hearts of men.”
+       “Blessed Killena, precious martyr of the Lord…”
+
+
+
+
+                                                       5
+Johannes de Lauterbach’s poem consists of 314 rhymed hexameters and belongs to the later literary
+monumentalization of the saint. Its value is strongest for fourteenth-century poetic reception and Würzburg
+memory, not for independently reconstructing the seventh century. 17
+
+
+Apparatus traditionis
+
+                         Principal transmitted forms or
+ Lemma                                                            Editorial decision
+                         problems
+
+                                                                  Retain the form of each witness in
+                         Killena, Kyllena, Chilianus, Kilianus,   diplomatic transcription; normalize to
+ Killena
+                         Kylianus                                 Kilianus only in a separate normalized
+                                                                  text.
+
+                                                                  Translate “Irish land” or “of Irish stock”;
+ Scottica tellus /       Medieval Scotti ordinarily denotes
+                                                                  record the literal Scottish only in notes on
+ Scotorum genere         Irish people in this context
+                                                                  lexical history.
+
+ Wirziburg /             Vernacular Latinized place forms
+                                                                  Preserve manuscript form diplomatically;
+ Wirciburg /             versus learned Greek-style
+                                                                  use Würzburg in English translation.
+ Herbipolis              Herbipolis
+
+ Gozbertus /                                                      Preserve codex reading; normalize to
+                         Orthographic fluctuation
+ Gosbertus                                                        Gozbertus.
+
+                                                                  Preserve witness form; choose Geilana as
+ Geilana / Gailana       Orthographic fluctuation                 normalized Latin, Gailana where required
+                                                                  by a cited modern title.
+
+ Colonatus /
+                         Companion’s name varies in later         Do not silently conflate; record exact
+ Colman /
+                         traditions                               form by witness.
+ Colmanus
+
+                         Latin inflection and vernacular          Totnanus in normalized Latin; Totnan in
+ Totnanus / Totnan
+                         form                                     English.
+
+ Eleven                  Minor’s expanded apostolic group
+                                                                  Treat as redactional development, not
+ companions /            versus later concentration on
+                                                                  two independent personnel registers.
+ principal triad         bishop, priest, and deacon
+
+                         Chronological anchor in the
+ Conon’s                                                          Translate fully but mark historical status
+                         minor; suspected retrospective
+ commission                                                       as disputed.
+                         Romanization
+
+ Gozbert or Geilana      Hrabanian and Passion traditions         Preserve source-specific attribution; do
+ as agent                distribute culpability differently       not harmonize.
+
+                         Dates proposed include 743/44            Distinguish elevation, translation, and
+ Elevation under
+                         and 752; later translation               subsequent cultic movement rather than
+ Burchard
+                         associated with 788                      treating every date as one event.
+
+
+
+
+                                                        6
+These problems emerge from the manuscript and historiographical record catalogued by Levison’s edition,
+the current repertories, and modern scholarship. 18
+
+
+English translation and analytical commentary
+
+The shorter Passion
+
+The minor begins with Kilian’s venerable life, noble Irish origin, study of sacred letters, and advancement to
+episcopal standing. It then interprets his departure through the command to deny oneself, take up the
+cross, and follow Christ. The company initially contains a larger apostolic group, including Colonatus,
+Gallonus, Arnualdus, Totnan, and seven others. The numerical architecture evokes the Twelve and should
+not be read automatically as a contemporary travel register. 19
+
+
+The missionaries leave possessions, homeland, and relatives and travel into continental Europe. Kilian’s
+Roman journey supplies the narrative with apostolic authorization. Pope John has died; Pope Conon
+receives Kilian and authorizes his preaching. Because Conon’s pontificate fell in 686–687, this scene
+generated the conventional chronology of arrival around 686 and martyrdom around 689. Modern criticism
+regards the episode as one of the least secure elements: it resembles the papally commissioned Anglo-
+Saxon and Bonifatian mission model of the eighth century and may project that ecclesiology backward. 20
+
+
+At Würzburg, Duke Gozbert hears the preaching, believes, and is baptized with his people. This gives Kilian
+the literary role of apostle of an entire territory. If the ducal house was already Christian, the underlying
+conflict was not paganism versus Christianity but competing forms of Christian discipline and authority. The
+text’s conversion scene then functions as institutional theology: Würzburg’s sacred history begins with
+Kilian. 16
+
+
+The marriage dispute is the most plausible specific nucleus of the martyrdom account. Kilian demands that
+Gozbert separate from Geilana because she had been the wife of his brother. The motif closely resembles
+John the Baptist’s criticism of Herod’s marriage, and Geilana consequently assumes features of the hostile
+royal woman familiar from biblical typology. Literary modeling does not prove that the conflict was
+invented; it means that any historical dispute has been narrated through an inherited scriptural pattern.
+ 21
+
+
+
+
+During the duke’s absence, Geilana orders the killing of Kilian, Colonatus, and Totnan. The bodies, liturgical
+books, vestments, and sacred vessels are concealed in or near a stable. The concealment of the sacred
+objects expands the crime from murder to attempted erasure of the missionary community. The
+subsequent elevation of the bodies reverses every element of degradation: hidden bodies become public
+relics; the stable yields to the church; private violence is answered by episcopal, royal, and purported papal
+recognition. 19
+
+
+Burchard’s role is the institutional climax. Historically, Burchard—not Kilian—was the first canonically
+organized bishop of Würzburg. The legend places Kilian before the diocese as its sacred and martyrological
+precursor, while Burchard converts hidden memory into an episcopal cult. The minor thus joins a
+remembered missionary past to the Carolingian foundation of the see. 22
+
+
+
+
+                                                       7
+The longer Passion
+
+The major retains the minor’s narrative architecture but expands it with noble ancestry, childhood
+education, interior deliberation, speeches, court scenes, biblical imagery, discovered bodies, punishments,
+miracles, and a fuller theology of Würzburg’s sacred history. The current repertory explicitly describes many
+of these added biographical details as probably fictional and the martyrdom narrative as dramatically
+elaborated. 3
+
+
+Its textual purpose is not merely supplementation. It transforms a concise institutional legend into a
+mature Ottonian saint’s life. Kilian becomes a rhetorically accomplished bishop and universal martyr; the
+court becomes a stage for Christian moral conflict; the discovery of the bodies becomes providential
+disclosure; and Würzburg’s possession of the cult becomes part of a divinely ordered history. 23
+
+
+The association with Stephen of Novara rests on chronology, Würzburg’s cathedral-school setting, Italian
+literary culture, and the relationship with the Burchard vitae. Hartmut Hoffmann and Johannes Petersohn
+strengthened the mid-tenth-century hypothesis, replacing older proposals that placed the major in the later
+ninth century. The Dublin manuscript’s possible autograph status makes it the first object to examine in any
+new edition, but “possibly an autograph” is not equivalent to a demonstrated autograph. 3
+
+
+The Atalongus material should be treated as part of this expansion until codicological evidence proves
+otherwise. In modern retellings, Atalongus is associated with revelation, discovery, blindness, healing, or
+recognition of the martyrs’ burial place. No autonomous BHL dossier under his name was identified in the
+principal Kilian repertories. The first task is therefore to locate the episode in Dublin 19375, Karlsruhe 84,
+Vat. lat. 8565, and Emmerich’s printed major and determine whether it belongs to the archetypal major, a
+branch-specific interpolation, or a later epitome. 5
+
+
+Evidentiary hierarchy
+
+  Level                 Material                        What it can establish           Principal limitation
+
+                        Independently datable
+  Highest for                                                                           Usually little
+                        episcopal records, early        Existence and geographic
+  institutional                                                                         continuous
+                        calendars, necrologies,         establishment of the cult
+  history                                                                               biography
+                        martyrologies, relic notices
+
+                        Vienna 552, St. Gallen 566,
+                                                        The wording and
+  High for textual      Munich 4585, Hannover                                           All postdate the
+                                                        development of the
+  history               189; Dublin 19375,                                              alleged martyrdom
+                                                        medieval narratives
+                        Karlsruhe 84
+
+                                                        A missionary remembered         Dependence on
+  Moderate for          Stable common core of the
+                                                        at Würzburg, principal          institutional memory
+  historical            minor and early cult
+                                                        companions, violent             and literary
+  reconstruction        tradition
+                                                        death, later episcopal cult     conventions
+
+  Low as                                                                                Dependence on the
+                        Details unique to the           Ottonian literary, political,
+  independent                                                                           minor and extensive
+                        major                           and devotional concerns
+  event evidence                                                                        amplification
+
+
+
+
+                                                       8
+  Level                 Material                        What it can establish          Principal limitation
+
+                                                                                       Does not
+                        Metric, vernacular, artistic,   How Kilian was
+  High for                                                                             independently verify
+                        liturgical, and modern          remembered and used in
+  reception history                                                                    seventh-century
+                        papal materials                 later communities
+                                                                                       episodes
+
+The distinction between event evidence, textual evidence, and reception evidence is essential. A late
+manuscript can be an excellent witness to a medieval redaction while remaining weak evidence for the
+events that redaction describes. 24
+
+
+Critical historical synthesis
+
+The most defensible historical reconstruction is that a missionary remembered as Irish or connected with
+Irish peregrinatory culture was active in the Main-Franconian or Thuringian sphere before the formal
+consolidation of the Würzburg diocese. Two companions—Colonatus and Totnan—became permanently
+associated with him. The group died violently, and its memory or relics were subsequently incorporated into
+the emerging episcopal church under Burchard. 25
+
+
+A dispute with the ducal household may preserve genuine memory. The marriage issue is historically
+possible in the setting of early medieval ecclesiastical campaigns against prohibited degrees of affinity. Yet
+the surviving narrative is not a legal deposition. Its characterization of the ruler, the ruler’s wife, the
+missionary bishop, and the execution is governed by biblical typology and the literary requirements of
+martyrdom. 21
+
+
+The precise dates 686 and 689 depend heavily on the Roman episode. Once personal authorization by Pope
+Conon is treated as a retrospective literary construction, the exact chronology loses its main anchor. The
+date 8 July is unquestionably important in the cult, but liturgical commemoration does not by itself prove
+that the day preserves the historical execution date. 22
+
+
+The stable burial, intact books and vestments, Atalongus revelations, detailed court speeches,
+comprehensive conversion of the people, supernatural punishments, and psychological portraits belong to
+the expanding narrative periphery. They must be translated and documented without being assigned equal
+historical weight to the stable core. 26
+
+
+Manuscripts, editions, and scholarship
+The sigla below are editorial conveniences for this dossier, not inherited sigla from a single established
+edition. Dates, folios, provenances, and digital links follow the current Geschichtsquellen records. Variant
+profiles marked “collation required” cannot be determined responsibly from catalogue entries alone. 27
+
+
+
+
+                                                        9
+Passio minor witnesses
+
+                                 Date and        Text
+ Siglum   Witness                                           Textual status and digital access
+                                 provenance      locus
+
+          Admont,
+                                                 117v–      Complete catalogued witness; collation
+ A        Benediktinerstift,     XII c.
+                                                 120v       required
+          Cod. 412
+
+          Berlin, SBB, Ms.                       81v–
+ Be                              XIII c.                    Later witness
+          theol. lat. oct. 162                   84v
+
+          Bern,
+                                                 41v–       Short locus; relationship to its major text
+ Bn       Burgerbibliothek,      XII c.
+                                                 42r        requires examination
+          Cod. 598
+
+                                                 pp.
+          Einsiedeln, Cod.
+ E                               XII c.          262–       Complete later witness
+          248
+                                                 269
+
+          Frankfurt, Ms.                         164r–      Digitized: https://sammlungen.ub.uni-
+ F                               XIV c.
+          Barth. 3                               166r       frankfurt.de/msma/content/pageview/4478939
+
+                                                            Illustrated; full facsimile tradition; https://
+          Hannover, Ms I                         1r–
+ H                               X c.                       digitale-sammlungen.gwlb.de/resolve?
+          189                                    11r
+                                                            id=1734041420
+
+          Lüneburg, Ms.                          96v–
+ L                               XIV c.                     Abbreviated locus probable; collation required
+          Theol. 2° 36                           97v
+
+          Munich, BSB Clm                        67v–
+ M¹                              XII c.                     Later Bavarian witness
+          332                                    70r
+
+          Munich, BSB Clm                        115r–      Major early witness; https://daten.digitale-
+ M²                              X c.
+          4585                                   119r       sammlungen.de/bsb00033096/image_237
+
+          Pommersfelden,
+ P                               XIII c.         36v        Incomplete
+          Cod. 249
+
+                                                            IIIF: https://iiif.biblissima.fr/collections/
+          Saint-Omer, ms.                        34r–
+ O                               XIII c.                    manifest/
+          716-7                                  35r
+                                                            bfe6dee4f7df3ce93bdd71ae0b68f4fafa0eede1
+
+          St. Florian, Cod.                      345v–
+ Fl                              XII c.                     Later Austrian witness
+          XI 384                                 346v
+
+                                                 pp.
+          St. Gallen, Cod.       late IX/early              One of the earliest witnesses; e-codices
+ S                                               212–
+          566                    X c.                       consultation required
+                                                 219
+
+
+
+
+                                                       10
+                                   Date and        Text
+ Siglum     Witness                                        Textual status and digital access
+                                   provenance      locus
+
+                                   XV c.; St
+                                                   141r–
+ T¹         Trier, HS 689/251      Eucharius–              Digitized through DFG Viewer
+                                                   142v
+                                   St Matthias
+
+            Trier, HS                              45r–
+ T²                                XIV c.                  Later German witness
+            1161/463                               47v
+
+            Vienna, ÖNB Cod.                       108r–
+ V¹                                XI c.                   Important Austrian transmission
+            430                                    111r
+
+            Vienna, ÖNB Cod.                       107v–
+ V²                                mid-IX c.               Earliest currently catalogued minor witness
+            552                                    112r
+
+            Wolfenbüttel,
+                                                   112r–   https://diglib.hab.de/mss/38-weiss/start.htm?
+ W          Cod. Guelf. 38         XV c.
+                                                   113r    image=00231
+            Weiss.
+
+            Würzburg, UB                           304r–
+ Wz                                XI c.                   Local witness of exceptional reception value
+            M.p.th.q. 64                           306v
+
+The IRHT inventory currently lists ten minor witnesses but warns that two Brussels identifications appear
+erroneous; the Bavarian Academy repertory supplies the broader verified list above. 2
+
+
+Passio maior witnesses
+
+                                     Date and               Text
+ Siglum     Witness                                                    Textual status and digital access
+                                     provenance             locus
+
+                                                            95v–       Short form; digital link through
+ Ad¹        Admont Cod. 225          XII c.
+                                                            96r        https://manuscripta.at/?ID=26086
+
+                                                            261v–
+ Ad²        Admont Cod. 393          XII c.                            More extensive Admont witness
+                                                            266v
+
+            Aschaffenburg,
+                                                            75v–
+ As         Stiftsbibliothek Ms.     XIII/XIV c.                       Later complete witness
+                                                            80r
+            Perg. 4
+
+            Bamberg, Msc.Hist.                              151v–      Digitized via urn:nbn:de:bvb:22-
+ Ba                                  XII c.
+            139                                             155v       dtl-0000003978
+
+                                                            126r–
+ Bn¹        Bern Cod. 111            XII c.                            Incomplete
+                                                            127v
+
+                                                            190v–      Also preserves the minor
+ Bn²        Bern Cod. 598            XIII c.
+                                                            197r       elsewhere
+
+                                                            291r–
+ Bo         Bonn S 369               XIV/XV c.                         Late compilation
+                                                            294v
+
+
+
+
+                                                      11
+                               Date and                Text
+Siglum   Witness                                               Textual status and digital access
+                               provenance              locus
+
+         Brussels KBR                                  70r–
+Br¹                            XIII c.                         BHL 4661 witness
+         98-100                                        73r
+
+                                                       136v–   Regional branch; KBR catalogue
+Br²      Brussels KBR 9290     XII c.; Liège
+                                                       139v    available
+
+         Société des           XII c.;                 157r–   Especially important for Bollandist
+Bol
+         Bollandistes Ms. 72   Mönchengladbach         161r    archival comparison
+
+                                                       pp.
+         Vatican, Vat. lat.                                    Digitized: https://digi.vatlib.it/view/
+Vat                            XI/XII c.; Malmedy      366–
+         8565                                                  MSS_Vat.lat.8565/0373
+                                                       375
+
+                                                       pp.     Possibly connected with Stephen
+D        Dublin, NLI 19375     X c.
+                                                       17–41   of Novara; priority witness
+
+                                                               Digitized: https://
+                                                       313r–
+Du       Düsseldorf C10b       XV c.                           digital.ulb.hhu.de/ms/content/
+                                                       317v
+                                                               zoom/8788774
+
+         Hamburg Cod. in       late XIII c.; St        365r–
+Ha                                                             Abbreviated later branch
+         scrin. 1c             Pantaleon, Cologne      366v
+
+         Karlsruhe Cod.                                162v–
+K¹                             XIII c.                         Reichenau-associated collection
+         Aug. perg. 21                                 164r
+
+         Karlsruhe Cod.                                76r–    Early major witness; http://
+K²                             X c.; Reichenau
+         Aug. perg. 84                                 83r     digital.blb-karlsruhe.de/id/166738
+
+         Kremsmünster CC                               71r–
+Kr                             early XII c.                    Extensive Austrian witness
+         7                                             80r
+
+                                                       200v–
+C¹       Cologne W 164         1463                            Explicitly expanded text
+                                                       202r
+
+                               late XII c.; St         160v–   Related to Cologne monastic
+C²       Cologne W 320
+                               Pantaleon               164r    transmission
+
+                               XIII c.;                146v–   https://digi.landesbibliothek.at/
+Li       Linz Hs. 378
+                               Baumgartenberg          152r    viewer/image/378/294/
+
+Ky       Kynžvart 40           XII c.; Ochsenhausen    5–9     Monastic legendary witness
+
+                                                       36v–
+Me       Melk 16               XV c.                           Late Austrian witness
+                                                       40r
+
+                                                       pp.
+                                                               Extensive and early Bavarian
+M¹       Munich Clm 18955      XI c.; Tegernsee        75–
+                                                               witness
+                                                       106
+
+
+
+
+                                                  12
+                                   Date and                Text
+ Siglum     Witness                                                  Textual status and digital access
+                                   provenance              locus
+
+                                                                     https://daten.digitale-
+                                                           25r–
+ M²         Munich Clm 22242       XII c.; Windberg                  sammlungen.de/bsb00110061/
+                                                           29r
+                                                                     image_55
+
+                                                                     https://daten.digitale-
+                                                           398r–
+ M³         Munich Clm 23846       XV c.                             sammlungen.de/bsb00160291/
+                                                           402r
+                                                                     image_806
+
+                                                           165v–
+ Na         Namur 53               XII/XIII c.                       Belgian regional transmission
+                                                           170r
+
+            Nuremberg Cent.                                120r–
+ Nu                                XII c.                            Identified as BHL 4661 by IRHT
+            III, 69                                        122v
+
+            Paris, Mazarine                                212r–
+ Maz                               XV c.                             Late French legendary
+            1376                                           216r
+
+                                                           107r–     Gallica: https://gallica.bnf.fr/ark:/
+ Par        BnF lat. 5278          XIII c.
+                                                           110r      12148/btv1b10033101f/f232
+
+            Trier diocesan
+                                                           121r–
+ Tr¹        archive, Abt. 95 Nr.   XII c.                            Episcopal archival witness
+                                                           124r
+            93
+
+                                                           131r–
+ Tr²        Trier HS 1151/455      XIII c.                           Later Trier branch
+                                                           134v
+
+                                                           69r–
+ Tr³        Trier HS 1372/138      XI c.; St Martin                  Early and extensive
+                                                           83r
+
+            Vienna ÖNB Cod.                                95r–      Extensive Austrian-Bavarian
+ V                                 XII c.; Niederaltaich
+            577                                            109r      transmission
+
+            Wolfenbüttel Cod.      late XII c.;            181r–
+ W                                                                   Complete later witness
+            Guelf. 475 Helmst.     Lamspringe              186v
+
+                                                                     Destroyed in the Second World
+            Würzburg                                       85r–
+ Wz                                XIV c.                            War; surviving descriptions or
+            M.p.th.f.m. 10                                 87v
+                                                                     reproductions must be sought
+
+The major also generated numerous abbreviated recensions, including a version in Vienna Cod. Ser. n.
+35754 and forms transmitted through the Great Austrian Legendary. These should not be assigned
+automatically to the archetypal BHL 4661 text without incipit-and-explicit comparison. 3
+
+
+
+
+                                                      13
+Vita metrica witnesses
+
+ Siglum    Witness                                    Date      Locus          Assessment
+
+           Gotha Chart. A                                       454v–
+ G                                               late XVI c.                   Late copy
+           186                                                  463v
+
+           Hamburg Cod.                                         pp. 161–
+ H                                                   XVI c.                    Complete late copy
+           hist. 52                                             180
+
+                                                                147r–
+ Me        Melk 767                                 XVIII c.                   Pez collection copy
+                                                                153r
+
+           Würzburg M.ch.f.
+ W¹                                       XV c.; St Stephan     81r–92r        Principal medieval witness
+           151
+
+           Würzburg M.ch.f.                                     133r–
+ W²                                                   1621                     Early-modern copy
+           317                                                  140r
+
+           Würzburg M.ch.f.
+ W³                                                   XV c.     51v–53r        Short or partial locus
+           323
+
+           Würzburg                    XIV c.; Michael de                      Earliest listed witness; crucial for
+ W⁴                                                             43r–44v
+           M.p.misc.f. 6                  Leone manual                         authorial context
+
+The poem was printed by Ignaz Gropp in 1741 and by Emmerich in 1896.             17
+
+
+
+
+Principal editions
+
+ Work      Edition                            Editorial character       Reliability
+
+           Canisius, Antiquae lectiones       Early printed             Historically important; predates
+ Minor
+           4/2, 1603, 642–647                 witness                   modern manuscript method
+
+           Mabillon, Acta Sanctorum
+ Minor                                        Benedictine edition       Important reception stage
+           OSB 2, 1669, 991–993
+
+           Acta Sanctorum, July II,                                     Essential learned compilation, but not a
+ Both                                         Bollandist dossier
+           Antwerp 1721, 612–618                                        modern stemmatic edition
+
+           Emmerich, Der heilige              Printed                   Still indispensable for access, especially
+ Both      Kilian, 1896, minor 3–10;          comparative               major; editorial basis now requires
+           major 11–25                        dossier                   reassessment
+
+           Wilhelm Levison, MGH SS
+                                              Principal modern          Standard point of departure for BHL
+ Minor     rer. Merov. 5, 1910, 722–
+                                              critical edition          4660
+           728
+
+                                                                        Useful searchable derivative; verify
+ Minor     Corpus Corporum 16883              Electronic text
+                                                                        against MGH pages
+
+
+
+
+                                                        14
+ Work       Edition                         Editorial character      Reliability
+
+            Gropp, Collectio novissima
+ Metric                                     First listed print       Reception and textual access
+            1, 1741, 795–800
+
+                                            Reprint or revised
+ Metric     Emmerich 1896, 28–37                                     Requires manuscript comparison
+                                            presentation
+
+The MGH volume is fully citable online, and openMGH provides its edition text as downloadable TEI XML
+under an open license. The exact MGH page link for the minor begins at https://www.mgh.de/dmgh/
+resolving/MGH_SS_rer._Merov._5_S._722. 28
+
+
+Verified doctoral work and principal scholarship
+
+ Author and work                    Language/type       Contribution               Assessment
+
+ Joanna Thornborough, The
+                                                        Integrates texts, cult,
+ “Passiones” of St. Kilian: Cult,                                                  Best dedicated modern
+                                                        politics, space, relics,
+ Politics and Society in the        English PhD                                    dissertation; repository
+                                                        and memory c.700–
+ Carolingian and Ottonian                                                          PDF available
+                                                        1000
+ Worlds, St Andrews, 2015
+
+                                                        Early historical-
+                                    German                                         Foundational but
+ Franz Emmerich, Der heilige                            critical synthesis and
+                                    monograph and                                  superseded in dating and
+ Kilian, 1896                                           prints of both
+                                    text edition                                   codicology
+                                                        Passiones
+
+                                                        Carolingian cult and
+ Joachim Dienemann, Der                                 political
+                                    German
+ Kult des heiligen Kilian im 8.                         development;               Fundamental for early cult
+                                    monograph
+ und 9. Jahrhundert, 1955                               argued for post-788
+                                                        minor
+
+ Karl Firsching, Die deutschen
+                                    German              Vernacular legendary       Principal study of German
+ Bearbeitungen der
+                                    monograph           transmission               adaptations
+ Kilianslegende, 1973
+
+ Hans-Werner Goetz, “Die                                                           Important
+                                                        Concise evaluation of
+ Viten des heiligen Kilian,”        German article                                 historiographical
+                                                        the two vitae
+ 1989                                                                              synthesis
+
+ Johannes Petersohn, “Zur
+ geographisch-politischen                               Political terminology      Central to tenth-century
+                                    German article
+ Terminologie und                                       and dating of major        redating
+ Datierung…,” 1992
+
+ Johannes Petersohn, “La            Italian             Audience, ethnic
+                                                                                   Important international
+ Passio maior… e i Franci           conference          terminology,
+                                                                                   reception study
+ Teutonici,” 2000                   paper               reception
+
+
+
+
+                                                       15
+Author and work                Language/type       Contribution             Assessment
+
+Hartmut Hoffmann, “Die
+                                                   Stephen attribution
+ältere Burchardvita, die
+                               German article      and relationship with    Major authorship study
+jüngere Kilianspassio und
+                                                   Burchard tradition
+Stephan von Novara,” 2006
+
+Johannes Petersohn, “Die                           Consolidates later
+Kilians- und                   German article      dating and textual       Essential update
+Burkardsviten…,” 2008                              relationships
+
+Theodor Ruf, “Kilian und die                                                Most substantial recent
+                                                   Broad re-evaluation
+Frühzeit des Bistums           German article                               historical treatment listed
+                                                   of 686–803
+Würzburg,” 2020                                                             by repertory
+
+Dorothea Klein, “Kiliani                           Literary densification   Principal recent literary
+                               German article
+famina densare,” 2022                              and rehistoricization    analysis
+
+Knut Schäferdiek, “Kilian
+von Würzburg. Gestalt und                          Formation of saintly     Important redactional
+                               German article
+Gestaltung eines Heiligen,”                        persona                  study
+1994
+
+Rosamond Sprandel, “Kilian
+                                                   Early diocesan           Useful alternative
+und die Anfänge des            German article
+                                                   history                  historical position
+Bistums Würzburg,” 1992
+
+Dagmar Ó Riain-Raedel, “St
+Kilian and the Irish Network                       Irish-continental        Important transregional
+                               English article
+in Early Carolingian                               networks                 perspective
+Europe,” 2017
+
+                               German chapter      Places Kilian in
+Theodor Klüppel, “Die          in French-titled    western
+                                                                            Comparative value
+Germania (750–950),” 1996      international       hagiographic
+                               handbook            literature
+
+                                                   Identifies
+Hippolyte Fros, “Inédits non                                                Important for unedited
+                               French article      unregistered
+recensés dans la BHL,” 1984                                                 short forms
+                                                   abbreviations
+
+Johannes Gottfried Mayer,
+                                                   Comparison of early      Useful source-critical
+“Die Heiligen Emmeram          German article
+                                                   vitae                    comparison
+und Kilian,” 1992
+
+                                                   Comparative
+Ian Wood, The Missionary       English                                      Broad contextual
+                                                   missionary
+Life, 2001                     monograph                                    framework
+                                                   hagiography
+
+
+
+
+                                                  16
+ Author and work                  Language/type        Contribution              Assessment
+
+ E. Soder von Güldenstubbe,
+ “Der heilige Kilian—Patron
+                                  German article       Diocesan patronage        Reception and cult
+ des Bistums Würzburg,”
+ 1984
+
+ H. Flachenecker, “Heilige
+ Bischöfe als                                          Saints and diocesan       Institutional
+                                  German article
+ einheitsstiftende                                     integration               interpretation
+ Klammer…,” 2002
+
+ Józef Bremer, Paweł
+ Taranczewski, and
+                                  German art-          Visual narrative at       Significant for
+ Katharina Mann, “Die
+                                  history article      Münnerstadt               iconographic reception
+ Kilianslegende des Veit
+ Stoß…,” 2022
+
+                                                                                 Useful reception resource;
+                                                                                 its late-ninth-century
+                                                       Russian-language
+ Russian Orthodox                 Russian                                        dating of the major
+                                                       synthesis and
+ Encyclopedia, “Килиан”           reference article                              should be updated
+                                                       bibliography
+                                                                                 against current
+                                                                                 repertories
+
+The Bavarian Academy’s bibliography, Thornborough’s repository record, and the Russian reference
+tradition support this verified scholarly corpus. The two bibliographies compiled by L. K. Walter in 1989 and
+1990 remain the most direct route to exhaustive older local scholarship. 29
+
+
+Thornborough’s dissertation is available at:
+
+
+https://research-repository.st-andrews.ac.uk/handle/10023/6953
+
+
+Emmerich’s 1896 volume is available through Open Library and Bavarian digitization:
+
+
+https://openlibrary.org/books/OL23293761M/Der_heilige_Kilian
+
+ 30
+
+
+
+
+Transmission, chronology, and convergence
+
+Chronological matrix
+
+                 Date    Witness or event                           Critical significance
+
+                         Presumed missionary activity and
+      Seventh century,                                              Historical horizon; no surviving
+                         violent death remembered by later
+        date uncertain                                              eyewitness narrative
+                         tradition
+
+
+
+
+                                                      17
+         Date     Witness or event                       Critical significance
+
+                                                         Canonical formation of Würzburg see;
+     741–753      Episcopate of Burchard
+                                                         relic elevation attached to him
+
+     750–850      Composition range of BHL 4660          Earliest continuous Kilianian narrative
+
+                  Kilian commemoration associated with   Early Carolingian diffusion of cult;
+     781–783
+                  the Godescalc Evangelistary calendar   direct folio verification required
+
+                                                         Relates composition to Carolingian
+                  Proposed date for minor in
+        c. 788                                           translation and institutional
+                  Dienemann–Petersohn line
+                                                         consolidation
+
+                                                         Evidence for cult within Fulda’s
+        c. 819    Hrabanian altar titulus tradition
+                                                         ecclesiastical world
+
+                  Würzburg addition to a Bede
+before c. 838                                            Local liturgical remembrance
+                  martyrology
+
+                                                         Early narrative notice; attribution of
+     842–856      Hrabanus Maurus’s martyrology
+                                                         culpability differs from Passiones
+
+                                                         Earliest currently catalogued minor
+       mid-IX     Vienna Cod. 552
+                                                         manuscript
+
+late IX/early X   St. Gallen 566                         Early minor witness
+
+                  Hannover Ms I 189 and Munich Clm       Early illustrated and Bavarian
+             X
+                  4585                                   transmission of minor
+
+                                                         Ottonian amplification, possibly at
+                  Composition of major in current
+     950–970                                             cathedral school under Stephen of
+                  repertory
+                                                         Novara
+
+                  Dublin NLI 19375 and Karlsruhe Aug.
+             X                                           Earliest major witnesses
+                  perg. 84
+
+                  Vat. lat. 8565 and major monastic      Transmission through Malmedy and
+        XI–XII
+                  dissemination                          broader monastic legendary networks
+
+c. 1350–1400      Johannes de Lauterbach’s BHL 4662      Poetic Würzburg reconfiguration
+
+                                                         Entry into early-modern printed
+   1573–1603      Surius, Serarius, Canisius
+                                                         hagiography
+
+         1721     Acta Sanctorum, July II                Bollandist consolidation
+
+                                                         First major modern historical-critical
+         1896     Emmerich
+                                                         dossier with printed texts
+
+         1910     Levison, MGH                           Standard critical edition of minor
+
+         1955     Dienemann                              Foundational Carolingian cult analysis
+
+
+
+
+                                                18
+                               Date                   Witness or event                                                                Critical significance
+
+                                                                                                                                      Major redating and Stephen
+                 1992–2008                            Petersohn and Hoffmann
+                                                                                                                                      hypothesis
+
+                                                                                                                                      Official modern papal reception in
+                              2011                    Benedict XVI at Erfurt
+                                                                                                                                      seven languages
+
+                                                                                                                                      Integrated cult, politics, and textual-
+                              2015                    Thornborough dissertation
+                                                                                                                                      memory analysis
+
+                                                                                                                                      Recent historical and literary re-
+                 2020–2022                            Ruf and Klein
+                                                                                                                                      evaluations
+
+The early cult notices require a separate source edition of their own: calendar entries, necrological notices,
+martyrologies, altar tituli, and episcopal relic records should be transcribed beside the Passiones rather
+than silently absorbed into a prose biography. 31
+
+
+Working stemma of textual families
+
+The following is a family-level working model, not a codex-level stemma. A codex stemma can be drawn
+only after shared innovations, omissions, transpositions, and errors have been collated across the
+manuscripts.
+
+
+
+                              Remembered missionary
+                              death and early Würzburg
+                                        cult
+
+
+
+
+                     Early calendars,                  Archetype α: Passio minor,
+                  necrologies, tituli, and                     BHL 4660
+                      martyrologies                            750–850
+
+
+
+
+                                                                                                                                         Archetype β: Passio maior,
+                                                                                                                                                 BHL 4661
+    Vienna 552                   St. Gallen 566                Munich Clm 4585      Hannover Ms I 189     Later minor witnesses
+                                                                                                                                                 950–970
+    mid-9th c.               late 9th/early 10th c.                10th c.               10th c.               11th–15th c.
+                                                                                                                                            possibly Stephen of
+                                                                                                                                                  Novara
+
+
+
+
+                          Dublin NLI 19375
+                                                                                    Trier 1372/138 and                            Monastic legendary                Abbreviations and                    Vita metrica, BHL 4662
+                               10th c.                    Karlsruhe Aug. perg. 84                          Vat. lat. 8565
+                                                                                       Munich 18955                                   branches                         reworkings                       Johannes de Lauterbach
+                          possible authorial                      10th c.                                  11th/12th c.
+                                                                                           11th c.                                  12th–15th c.                  BHL 4660a, 4663, 4663a                         14th c.
+                              proximity
+
+
+
+
+                                                                                                                                                                       German and other
+                                                                                                                                                                      vernacular legendary
+                                                                                                                                                                           traditions
+
+
+
+
+                                                                                                                                                                                      Early-modern printed and
+                                                                                                                                                                                        devotional reception
+
+
+
+
+The principal convergence is a five-part core: Irish association, Würzburg or Thuringian mission, Colonatus
+and Totnan, violent death involving secular authority, and later Würzburg-centered cult. The principal
+divergence lies in the number of companions, papal authorization, characterization of the ducal family,
+identity of the immediate perpetrator, burial details, discovery mechanisms, miracles, and political
+vocabulary. 26
+
+
+The direction of literary development is asymmetrical. The major knows and expands the minor; late
+abbreviations know the expanded tradition; metric and vernacular works reconfigure both. Later detail
+
+
+
+
+                                                                                                         19
+therefore cannot be counted as independent corroboration simply because it appears in many later
+manuscripts. Manuscript quantity measures reception and copying intensity, not the historical
+independence of the information. 3
+
+
+Vatican, papal, episcopal, and liturgical record
+
+  Record                                    Date     Nature                          Evidentiary value
+
+                                                     Vatican Library
+  Vat. lat. 8565, pp.                                manuscript of BHL               Direct medieval textual
+                                         XI/XII c.
+  366–375                                            4661, originating at            witness; not a papal act
+                                                     Malmedy
+
+                                                     Official papal homily,          Authoritative modern
+  Benedict XVI, Erfurt
+                             24 September 2011       seven Vatican                   reception of Kilian as Irish
+  homily
+                                                     language versions               missionary and martyr
+
+                                                                                     Hagiographic claim; no
+                                Narrative setting
+  Alleged authorization                                                              corresponding
+                                686–687; source      Episode in the minor
+  by Pope Conon                                                                      contemporary papal letter
+                                 composed later
+                                                                                     identified
+
+  Papal and royal                                                                    Must be checked against
+                               Carolingian event     Hagiographic
+  participation in                                                                   papal registers, royal
+                                        narrated     institutional
+  Burchard’s                                                                         diplomas, and episcopal
+                                 retrospectively     legitimation
+  translation                                                                        sources
+
+                                                                                     Cult arose before
+  Medieval                                           No authenticated bull           centralized papal
+                                   None located
+  canonization act                                   or curial act identified        canonization became
+                                                                                     normal
+
+                                                                                     Strong evidence for
+  Local diocesan
+                                                                                     reception and rank of
+  calendars and             Medieval to modern       Liturgical cult records
+                                                                                     feast, not narrative
+  propria
+                                                                                     historicity
+
+                                                                                     Earlier than surviving
+  Martyrologies and                                  Liturgical-historical
+                             Carolingian onward                                      prose manuscripts;
+  necrologies                                        notices
+                                                                                     priority for new edition
+
+Vat. lat. 8565 can be consulted at https://digi.vatlib.it/view/MSS_Vat.lat.8565/0373, with the associated IIIF
+manifest at https://digi.vatlib.it/iiif/MSS_Vat.lat.8565/manifest.json . The IRHT dates the
+manuscript to 1051–1150 and describes it as a large parchment volume.           32
+
+
+
+
+Benedict XVI’s statement can be translated consistently from the official versions:
+
+
+       “Before the Anglo-Saxon missionaries, Saint Kilian, an itinerant missionary from Ireland, was
+       active in Thuringia. Together with two companions he died as a martyr at Würzburg because
+       he criticized the moral misconduct of the Duke of Thuringia who resided there.”
+
+
+
+                                                      20
+The Vatican’s language index confirms publication in German, English, Spanish, French, Italian, Polish, and
+Portuguese. 8
+
+
+No authenticated medieval papal canonization bull emerged from the accessible Vatican, MGH, Bollandist,
+or bibliographic searches. The next diplomatic search should examine the papal registers and regesta
+under variants Kilianus, Chilianus, Kylianus, Wirziburgensis, Herbipolensis, Burchardus, and Zacharias, while
+distinguishing genuine acts from passages embedded in later hagiography.
+
+
+Кириллический русский синтез
+Корпус святого Килиана представляет собой не единую биографию, а многослойную систему текстов,
+литургической памяти и церковного почитания. Главные прозаические произведения — краткое
+Passio minor, BHL 4660, и пространное Passio maior, BHL 4661. Современный академический
+справочник датирует краткую редакцию промежутком 750–850 годов, допуская составление около
+788 года, а пространную — приблизительно 950–970 годами. Возможным автором пространной
+редакции считается Стефан Новарский, с 952 года преподававший в соборной школе Вюрцбурга,
+однако прямого авторского указания в рукописи не обнаружено. 1
+
+
+Самой ранней из ныне каталогизированных рукописей краткой редакции является венский кодекс
+ÖNB Cod. 552, лл. 107v–112r, датируемый серединой IX века. Санкт-Галленский кодекс 566 относится к
+концу IX или началу X века. Мюнхенский Clm 4585 и иллюстрированная ганноверская рукопись Ms I
+189 относятся к X веку. Поэтому Санкт-Галлен 566 нельзя безоговорочно называть древнейшим
+сохранившимся свидетелем.         2
+
+
+
+
+Пространная редакция распространялась значительно шире. Среди важнейших списков находятся
+дублинская NLI 19375 X века, возможно близкая к авторской среде Стефана Новарского; карлсруэская
+Cod. Aug. perg. 84 X века; мюнхенская Clm 18955 XI века; а также ватиканская Vat. lat. 8565 XI–XII веков,
+происходящая из Малмеди. Ватиканская рукопись является средневековым кодексом, ныне
+хранящимся в Апостольской библиотеке, а не папской буллой или актом Римской курии. 3
+
+
+К корпусу относится также стихотворная Vita metrica sancti Kiliani, BHL 4662, созданная Иоанном из
+Лаутербаха в XIV веке. Она состоит из 314 рифмованных гекзаметров. Более поздние сокращения и
+переработки обозначены как BHL 4660a, 4663 и 4663a; существует также немецкая переработка в
+эльзасской версии Legenda Aurea. Эти произведения имеют большое значение для истории
+восприятия, но не являются независимыми свидетельствами событий VII века. 4
+
+
+Отдельное раннее произведение об Аталонге или Аталонгусе в международных BHL-реестрах не
+подтверждено. Соответствующие эпизоды следует пока считать частью пространной редакции или
+ее позднейших ответвлений. Для окончательного решения необходимо установить их точное
+положение в дублинской, карлсруэской, ватиканской и других ключевых рукописях, определить
+инципит, эксплицит и общий набор вариантов. 5
+
+
+Краткая редакция начинается словами:
+
+
+       Fuit vir vitae venerabilis Killena nomine, quem Scottica tellus de magno edidit genere.
+
+
+
+
+                                                        21
+Дословный перевод:
+
+
+      «Был муж досточтимой жизни по имени Киллена, которого ирландская земля произвела
+      из знатного рода».
+
+
+Выражение Scottica tellus в раннесредневековом контексте обозначает Ирландию или землю скоттов.
+Формы имени Killena, Kyllena, Chilianus, Kilianus и Kylianus должны сохраняться в дипломатической
+транскрипции каждой рукописи, тогда как в нормализованном латинском тексте допустима форма
+Kilianus. 33
+
+
+Подлинный пролог пространной редакции начинается словами Sanctorum martyrum certamina, а
+основное повествование — Beatus Kylianus, Scotorum genere nobilibus ortus parentibus. Это позволяет
+надежно отличить пространную редакцию от краткой. Текст, который после пролога пространной
+редакции переходит к началу Fuit vir vitae venerabilis Killena nomine, соединяет две разные традиции и
+не является непрерывной транскрипцией BHL 4661. 3
+
+
+Исторически наиболее устойчивое ядро предания состоит в следующем. В Вюрцбурге существовала
+ранняя церковная память о миссионере ирландского происхождения или связанном с ирландской
+традицией странничества. С ним постоянно ассоциировались два спутника — Колонат и Тотнан. Их
+смерть считалась насильственной и связывалась с местной светской властью. Позднее память о них
+и их мощи были включены в формирование Вюрцбургской епархии при епископе Бурхарде. 25
+
+
+Бурхард, а не Килиан, был первым канонически организованным епископом Вюрцбурга. Килиан стал
+сакральным предшественником епархии: его миссия и мученичество создавали священную
+предысторию, а Бурхард превращал скрытую память в публичный епископский культ. Именно
+поэтому повествование о перенесении мощей является институциональной кульминацией краткой
+редакции. 22
+
+
+Спор о браке герцога Гозберта с Гейланой может сохранять историческое зерно. Миссионер или
+церковный реформатор мог потребовать подчинения более строгим нормам христианского
+брачного права. Однако литературная форма эпизода построена по библейской модели: Килиан
+уподобляется Иоанну Крестителю, обличающему правителя, а Гейлана приобретает черты
+враждебной пророку царственной женщины. Наличие литературной модели не доказывает
+вымышленность самого конфликта, но исключает чтение текста как нейтрального судебного
+протокола. 21
+
+
+Рассказ о личном поручении папы Конона значительно менее надежен. Он создает точную
+хронологическую привязку к 686–687 годам и лежит в основе традиционной даты смерти 689 года.
+Однако эпизод напоминает более позднюю англосаксонскую и бонифатианскую модель миссии, в
+которой проповедник получает полномочия непосредственно из Рима. Если путешествие к Конону
+является ретроспективной конструкцией, точные даты прибытия и мученичества перестают быть
+независимо установленными. 20
+
+
+Пространная редакция существенно увеличивает объем повествования. Она вводит подробности
+происхождения и воспитания, внутренние размышления, речи, драматические сцены при дворе,
+чудеса, наказания противников и более разработанный рассказ об обнаружении тел. Современный
+справочник характеризует значительную часть добавленных биографических деталей как, вероятно,
+
+
+
+                                                  22
+вымышленные. Их главная ценность заключается в изучении литературной культуры и церковной
+идентичности Вюрцбурга X века. 3
+
+
+Наиболее важная современная докторская диссертация — работа Джоанны Торнборо The “Passiones”
+of St. Kilian: Cult, Politics and Society in the Carolingian and Ottonian Worlds, защищенная в Университете
+Сент-Эндрюс в 2015 году. Автор рассматривает жития как тексты, формировавшие культ,
+политическую память и институциональное самопонимание в период приблизительно 700–1000
+годов. В доступных международных репозиториях второй столь же специализированной
+диссертации, полностью посвященной обоим ранним Passiones, обнаружено не было. 7
+
+
+Главным современным официальным ватиканским текстом является проповедь Бенедикта XVI в
+Эрфурте 24 сентября 2011 года. Папа назвал Килиана странствующим миссионером из Ирландии,
+действовавшим в Тюрингии до англосаксонских миссионеров и погибшим в Вюрцбурге вместе с
+двумя спутниками после осуждения нравственного проступка местного герцога. Текст опубликован
+Ватиканом на семи языках. Это свидетельство современного церковного принятия основной
+традиции, но не решение научных вопросов о датировке и авторстве средневековых текстов. 8
+
+
+Подлинного средневекового папского акта канонизации Килиана в доступных реестрах не найдено.
+Рассказ о папском участии в миссии или перенесении мощей должен проверяться по папским
+регистрам и дипломатическим изданиям независимо от житийного текста. Отсутствие буллы
+согласуется с тем, что культ возник до окончательного утверждения централизованной папской
+процедуры канонизации.
+
+
+Окончательная критическая модель различает четыре уровня материала. Ранние календари,
+некрологи и мартирологи надежно подтверждают существование и географию культа. Passio minor
+является главным источником для истории формирования повествования, но не свидетельством
+очевидца. Passio maior имеет первостепенное значение для истории Оттоновской эпохи и
+литературного развития легенды, однако ее новые детали не являются независимым
+подтверждением. Поздние стихотворные, народноязычные, художественные и литургические формы
+документируют дальнейшее восприятие. 34
+
+
+Bibliography, digital corpus, archives, and next archival steps
+
+Core bibliography
+
+Primary and critical editions
+
+
+Canisius, Heinrich. Antiquae lectiones, vol. 4/2. Ingolstadt, 1603, pp. 628–647.
+
+
+Mabillon, Jean. Acta sanctorum Ordinis S. Benedicti, vol. 2. Paris, 1669, pp. 991–993.
+
+
+Acta Sanctorum quotquot toto orbe coluntur: Iulius, vol. 2. Antwerp, 1721, pp. 599–619, with the prose texts at
+pp. 612–618.
+
+
+Gropp, Ignaz. Collectio novissima scriptorum et rerum Wirceburgensium, vol. 1. Frankfurt, 1741, pp. 795–800.
+
+
+
+
+                                                       23
+Emmerich, Franz. Der heilige Kilian: Regionarbischof und Märtyrer, historisch-kritisch dargestellt. Würzburg:
+Göbel, 1896.
+
+
+Levison, Wilhelm, ed. “Passio Kiliani martyris Wirziburgensis.” In MGH Scriptores rerum Merovingicarum 5.
+Hanover and Leipzig, 1910, pp. 711–728; critical text at 722–728. 35
+
+
+Major research
+
+
+Bigelmair, Andreas. “Die Passio des heiligen Kilian und seiner Gefährten.” Würzburger
+Diözesangeschichtsblätter 14/15 (1952): 1–25.
+
+
+Dienemann, Joachim. Der Kult des heiligen Kilian im 8. und 9. Jahrhundert. Würzburg, 1955.
+
+
+Firsching, Karl. Die deutschen Bearbeitungen der Kilianslegende unter besonderer Berücksichtigung deutscher
+Legendarhandschriften des Mittelalters. Würzburg, 1973.
+
+
+Erichsen, Johannes, ed. Kilian: Mönch aus Irland, aller Franken Patron. Aufsätze. Munich, 1989.
+
+
+Walter, L. K. St. Kilian: Schrifttumsverzeichnis zu Martyrium und Kult der Frankenapostel und zur Gründung des
+Bistums Würzburg. Würzburg, 1989; supplement, 1990.
+
+
+Petersohn, Johannes. “Zur geographisch-politischen Terminologie und Datierung der Passio maior sancti
+Kiliani.” Jahrbuch für fränkische Landesforschung 52 (1992): 25–34.
+
+
+Schäferdiek, Knut. “Kilian von Würzburg: Gestalt und Gestaltung eines Heiligen.” In Iconologia sacra, 1994,
+pp. 313–340.
+
+
+Hoffmann, Hartmut. “Die ältere Burchardvita, die jüngere Kilianspassio und Stephan von Novara.” Deutsches
+Archiv 62 (2006): 485–503.
+
+
+Petersohn, Johannes. “Die Kilians- und Burkardsviten des frühen und hohen Mittelalters.” Würzburger
+Diözesangeschichtsblätter 70 (2008): 13–44.
+
+
+Thornborough, Joanna. The “Passiones” of St. Kilian: Cult, Politics and Society in the Carolingian and Ottonian
+Worlds. PhD dissertation, University of St Andrews, 2015.
+
+
+Ó Riain-Raedel, Dagmar. “St Kilian and the Irish Network in Early Carolingian Europe.” In A Fantastic and
+Abstruse Latinity?, 2017, pp. 31–53.
+
+
+Ruf, Theodor. “Kilian und die Frühzeit des Bistums Würzburg (686–803).” Mainfränkisches Jahrbuch 72 (2020):
+13–93.
+
+
+Klein, Dorothea. “Kiliani famina densare: Literarisierung und Rehistorisierung eines Heiligenlebens.” In
+(V)erdichtete Leben, 2022, pp. 240–261. 36
+
+
+
+
+                                                        24
+Essential digital corpus
+
+ Resource              Link                                                 Use
+
+                                                                            Current manuscript, edition,
+ Minor repertory       https://geschichtsquellen.de/werk/5445
+                                                                            and scholarship inventory
+
+                                                                            Current major-witness
+ Major repertory       https://geschichtsquellen.de/werk/5446
+                                                                            inventory and dating
+
+ Kilian author                                                              Related works, BHL numbers,
+                       https://geschichtsquellen.de/autor/5819
+ dossier                                                                    general bibliography
+
+                                                                            Levison edition and
+ MGH volume            https://www.dmgh.de/mgh_ss_rer_merov_5/
+                                                                            introduction
+
+ MGH exact text        https://www.mgh.de/dmgh/resolving/                   Beginning of critical minor
+ page                  MGH_SS_rer._Merov._5_S._722                          text
+
+                       https://www.mgh.de/en/digital-mgh/openmgh/
+ openMGH                                                                    Downloadable TEI XML
+                       mgh-editions-in-openmgh
+
+                       https://openlibrary.org/books/OL23293761M/
+ Emmerich                                                                   Complete 1896 volume
+                       Der_heilige_Kilian
+
+                       https://research-repository.st-andrews.ac.uk/
+ St Andrews thesis                                                          Full dissertation PDF
+                       handle/10023/6953
+
+ Vatican codex         https://digi.vatlib.it/view/MSS_Vat.lat.8565/0373    Facsimile of major witness
+
+                        https://digi.vatlib.it/iiif/                        Machine-readable facsimile
+ Vatican IIIF
+                       MSS_Vat.lat.8565/manifest.json                       access
+
+                       https://daten.digitale-sammlungen.de/
+ Munich Clm 4585                                                            Early minor witness
+                       bsb00033096/image_237
+
+ Hannover Ms I         https://digitale-sammlungen.gwlb.de/resolve?         Illustrated tenth-century
+ 189                   id=1734041420                                        minor
+
+ Karlsruhe Aug.
+                       http://digital.blb-karlsruhe.de/id/166738            Early major witness
+ perg. 84
+
+                       https://gallica.bnf.fr/ark:/12148/
+ BnF lat. 5278                                                              Major witness
+                       btv1b10033101f/f232
+
+ Würzburg “Libri                                                            Manuscripts of the former
+                       Würzburg University Library digital collection
+ Sancti Kiliani”                                                            cathedral library
+
+The “Libri Sancti Kiliani” project reports digitization of 214 manuscripts from the former Würzburg cathedral
+library and should be searched for local liturgical, Burchardian, and Kilianian material beyond the two
+Passiones. 37
+
+
+
+
+                                                      25
+Archive and library contacts
+
+ Institution                   Contact and address                 Recommended request
+
+                                                                   Request codicological
+                               Vatican Library contact form:
+ Biblioteca Apostolica                                             bibliography, reproduction
+                               https://www.vaticanlibrary.va/it/
+ Vaticana                                                          policy, and any prior collation
+                               la-biblioteca/il-personale.html
+                                                                   of Vat. lat. 8565, pp. 366–375
+
+                                                                   Request high-resolution
+                                                                   images and catalogue dossier
+                               Klosterhof 6d, 9000 St. Gallen,
+ Stiftsbibliothek St. Gallen                                       for Cod. 566, pp. 212–219;
+                               Switzerland; +41 71 227 34 16
+                                                                   reading-room access requires
+                                                                   advance scholarly application
+
+ Österreichische                                                   Request digital reproductions
+ Nationalbibliothek,           Josefsplatz 1, 1015 Vienna; had-    and full codicological
+ Department of Manuscripts     slg@onb.ac.at; +43 1 53410-279      descriptions for Cod. 552, 430,
+ and Rare Books                                                    577, and Ser. n. 35754
+
+                               Ludwigstraße 16, 80539 Munich;
+                                                                   Request Clm 4585, 18955,
+                               info@bsb-muenchen.de;
+                                                                   22242, and 23846 metadata,
+ Bayerische Staatsbibliothek   manuscript center:
+                                                                   quire structures, and
+                               ursula.stampfer@bsb-
+                                                                   reproduction rights
+                               muenchen.de
+
+                                                                   Request consultation of Ms. 72,
+                               Boulevard Saint-Michel 24, 1040     BHL dossier notes, pre-
+ Société des Bollandistes      Brussels; info@bollandistes.be;     publication BHL files, and
+                               +32 2 739 34 51/53                  Analecta Bollandiana
+                                                                   references
+
+                                                                   Request Levison’s collations,
+                               Ludwigstraße 16, 80539 Munich;
+                                                                   Nachlass materials, proof
+ Monumenta Germaniae           sekretariat@mgh.de; library:
+                                                                   sheets, manuscript
+ Historica                     bibliothek@mgh.de; archive:
+                                                                   photographs, and openMGH
+                               archiv@mgh.de
+                                                                   XML assistance
+
+                                                                   Request Cod. 598 at both
+ Burgerbibliothek Bern         Bern manuscript department          minor and major loci and Cod.
+                                                                   111
+
+                                                                   Request Cod. 412, 225, and
+                                                                   393, especially whether
+ Benediktinerstift Admont      Manuscript library
+                                                                   Atalongus material appears in
+                                                                   either major witness
+
+
+
+
+                                               26
+  Institution                         Contact and address                    Recommended request
+
+                                                                             Highest-priority request:
+                                      Manuscripts and Special                complete color facsimile and
+  National Library of Ireland
+                                      Collections, Dublin                    codicological report for NLI
+                                                                             19375, pp. 17–41
+
+                                                                             Request all local Kilian and
+                                                                             Burchard manuscripts, early
+  Universitätsbibliothek                                                     calendars, martyrologies,
+                                      Special Collections
+  Würzburg                                                                   necrologies, and records
+                                                                             concerning the destroyed
+                                                                             M.p.th.f.m. 10
+
+
+The contact details above derive from the institutions’ current public service pages and should be rechecked
+when a formal request is sent. 38
+
+
+Unresolved questions and next archival operations
+
+The first unresolved problem is the major’s archetype. Dublin NLI 19375 must be fully transcribed and
+compared first with Karlsruhe Aug. perg. 84, Trier 1372/138, Munich 18955, and Vat. lat. 8565. Shared errors
+and unique readings will determine whether Dublin is an autograph, an authorially supervised copy, or
+merely an early member of the same family. 3
+
+
+The second problem is the minor’s earliest recoverable text. Vienna 552, St. Gallen 566, Munich 4585, and
+Hannover 189 should be collated line by line against Levison. The output should preserve abbreviation
+signs, corrections, supralinear additions, punctuation, rubrics, line breaks, and decorated initials. Only after
+this can a new normalized Latin edition and apparatus replace the provisional source plates. 39
+
+
+The third problem is the place of Atalongus. Every occurrence should be indexed by manuscript, wording,
+sequence, and narrative function. If absent from Dublin and Karlsruhe but present in Vatican or later
+legendary branches, it is a secondary interpolation. If present in all early major witnesses, it belongs to the
+major’s earliest recoverable redaction. No conclusion should precede that collation.
+
+
+The fourth problem is the early cult dossier. The Godescalc calendar, Würzburg necrology, Bede-martyrology
+addition, Hrabanus’s martyrology, Fulda altar tituli, episcopal translation notices, and early royal or papal
+references should be edited as a separate chronological appendix. These notices may predate the surviving
+narrative codices and are therefore indispensable for distinguishing cult history from narrative elaboration.
+
+
+The fifth problem is the surviving evidence behind lost Würzburg M.p.th.f.m. 10. Pre-war catalogues,
+microfilms, photographs, Levison’s notes, Bollandist excerpts, and local scholarly transcripts should be
+searched before the witness is treated as irrecoverable. The MGH archive, Würzburg special collections, and
+Bollandist manuscript files are the principal repositories for this reconstruction.
+
+
+The sixth problem is the incomplete bibliographic universe. Walter’s 1989–1990 bibliographies, the MGH
+library catalogue, Analecta Bollandiana, the Regesta Imperii OPAC, German dissertation catalogues, French
+theses repositories, Italian IRIS repositories, Austrian university catalogues, and Russian theological
+
+
+
+
+                                                       27
+bibliographies should be reconciled into a Zotero or TEI bibliography. The present search verified the
+central dedicated dissertation and principal scholarship, but unpublished lectures, local university theses,
+and uncatalogued conference communications remain possible.
+
+
+The publication-grade end product should consist of five coordinated volumes or digital modules: a
+manuscript census and codicological catalogue; codex-specific diplomatic transcriptions; a critical Latin
+edition with apparatus; aligned English and Russian translations; and a historical volume separating the
+seventh-century reconstruction, Carolingian cult formation, Ottonian redaction, later medieval reception,
+and modern ecclesiastical commemoration. This architecture is fully achievable from the identified corpus
+without conflating distinct witnesses or assigning later elaborations the evidentiary status of early records.
+
+
+
+ 1    2   6    12   13   14   15   18   19   26   27   29   33   34   35    36   39   https://geschichtsquellen.de/werk/5445
+https://geschichtsquellen.de/werk/5445
+
+ 3    5   23   https://geschichtsquellen.de/werk/5446
+https://geschichtsquellen.de/werk/5446
+
+ 4   https://geschichtsquellen.de/autor/5819
+https://geschichtsquellen.de/autor/5819
+
+ 7   21   24   31   https://research-repository.st-andrews.ac.uk/handle/10023/6953
+https://research-repository.st-andrews.ac.uk/handle/10023/6953
+
+ 8  https://www.vatican.va/content/benedict-xvi/en/homilies/2011/documents/hf_ben-
+xvi_hom_20110924_domplatz-erfurt.html
+https://www.vatican.va/content/benedict-xvi/en/homilies/2011/documents/hf_ben-xvi_hom_20110924_domplatz-erfurt.html
+
+ 9   Passio minor Kiliani
+https://docs.google.com/document/d/1HlbaXywOr0AcoxRbFbeBlRucPIJb8hE1kCUTxd1Ewqc
+
+10   Sancti Kiliani Hagiographia — Critical Source Plate Passio minor Kiliani (ca. 752)
+https://docs.google.com/document/d/1JfoFyfXfZZzqv9BCSzU7O9WHOvLYID_RD-gaPi1b2tA
+
+11   Passio_major_Kiliani_Bilingual.pdf
+https://drive.google.com/file/d/1bIHbz1fHgH9QAKBz9HB_5qYkjx-v0OSD
+
+16   20   22   25   https://www.deutsche-biographie.de/gnd11856207X.html
+https://www.deutsche-biographie.de/gnd11856207X.html
+
+17   https://geschichtsquellen.de/werk/3077
+https://geschichtsquellen.de/werk/3077
+
+28   https://www.mgh.de/en/digital-mgh/dmgh
+https://www.mgh.de/en/digital-mgh/dmgh
+
+30   https://openlibrary.org/books/OL23293761M/Der_heilige_Kilian
+https://openlibrary.org/books/OL23293761M/Der_heilige_Kilian
+
+32   https://legendiers-latins.irht.cnrs.fr/115150
+https://legendiers-latins.irht.cnrs.fr/115150
+
+37   https://www.bibliothek.uni-wuerzburg.de/en/digitisation/digital-library/
+https://www.bibliothek.uni-wuerzburg.de/en/digitisation/digital-library/
+
+
+
+
+                                                                           28
+38   https://www.vaticanlibrary.va/it/la-biblioteca/il-personale.html
+https://www.vaticanlibrary.va/it/la-biblioteca/il-personale.html
+
+
+
+
+                                                                   29
+

@@ -1,0 +1,230 @@
+                                        ECCLESIASTICAL REVIEW
+
+
+
+ Studia Kilianea: Passio minor Kiliani from Early Witness
+                    to Modern Archive
+  A Critical Review of the Bilingual Working Edition and Integrated Research Program of Nicholas
+                                   Shane Kouns (Edition 1.0, 2026)
+
+             Recensio Critica — Ad usum Historiae Ecclesiasticae et Hagiographiae Germanicae
+              Prepared in the style of Analecta Bollandiana and Archivum Historiae Pontificiae
+
+
+
+ABSTRACT
+This review examines a recent private research edition of the Passio minor Kiliani, the earliest hagiographic
+stratum of St. Kilian of Würzburg (ca. 640-689), reconstructed from Franz Emmerich, Der heilige Kilian
+(1896) and its base manuscripts St. Gallen 566, Vienna 552, and Munich 4585. The edition, prepared by
+Nicholas Shane Kouns within a larger archival project linking manuscript transmission, relic translation,
+diocesan formation, Augsburg print culture, and a documented American family archive, offers a bilingual
+Latin-English text with sevenfold structural analysis and a reproducible digital provenance architecture. The
+present recension evaluates philological accuracy, translational choices, historical-ecclesiastical
+contextualization, and the integration of devotional genealogy with critical method. It situates the work
+within current scholarship, notably Joanna Thornborough's thesis on the Passiones in Carolingian and
+Ottonian worlds (St Andrews, 2015), the MGH and Acta Sanctorum tradition, and contemporary Würzburg
+diocesan historiography. It concludes that the edition constitutes a citable working text of pastoral and
+scholarly utility, provided the interpretive mathematical layer (Ω_c = 47/125) is maintained as a separately
+labeled analytical appendix, as the author himself proposes.
+
+Keywords: Passio minor Kiliani, St. Kilian, Hagiography, Würzburg, Emmerich, MGH, BHL 4660, Manuscript
+Transmission, Translatio, Digital Humanities
+
+
+
+1. Introduction: Corpus and Intent
+The dossier under review comprises three public-facing objects: (i) a one-page infographic summary of the
+Passio minor Kiliani with seven narrative stations; (ii) a two-page bilingual source plate with apparatus
+notes; and (iii) a nineteen-page monograph, From Passio minor Kiliani to the Modern Archive (2026),
+integrating five deliverables. The author explicitly distinguishes documentary history from interpretive
+mathematics, while cross-referencing them through explicit provenance. This methodological
+self-awareness is rare in private family hagiography projects and merits serious attention.
+
+The titular Kouns Family Tree — Recursive Identity Source Plate and Maternal Line Attractor Node
+language belongs to the author's larger Kouns-Killion Philosophical-Recursive (KKP-R) project. For
+ecclesiastical review, that layer must be evaluated as interpretive gloss, not as textual claim within the
+Passio itself. The author correctly proposes this separation in Chapter 7 of his monograph.
+
+
+2. Status Quaestionis of the Kiliani Corpus
+The Kiliani corpus comprises two early medieval families: Passio minor (BHL 4660), short, austere, dated
+by most scholars to ca. 730-752, shortly after Bishop Burchard's translatio of 752; and Passio maior / Vita
+longior (BHL 4661-4664), amplified with prologue, Atalongus miracle, and institutional foundation
+narrative, dated 9th-10th century. Emmerich (1896) remains the standard critical collation, printing the
+minor on pp. 3-10 from St. Gallen, Stiftsbibliothek Cod. 566 (s. IX ex./X in.), Vienna, Österreichische
+Nationalbibliothek Cod. 552 (s. IX med.), Munich, BSB Clm 4585 (s. IX-XI), collated in Acta Sanctorum
+Julii II and by Krusch-Levison, MGH Passiones.
+
+Modern scholarship has moved from positivist fact-extraction — e.g., the older discussion whether Kilian
+was raised to the purple before leaving his native land versus at Rome — to functional reading.
+Thornborough (2015) frames the Passiones as 'textual arguments' in the lineage of Ian Wood and James
+Palmer, operating within cultic and political contexts, combining cultural history approaches of Julia Smith,
+Thomas Head, and Raymond Van Dam. She notes that Kilian is presented in the Passio minor as a holy
+man in a distinctly Bonifatian mould, and that the text insists on proper licence and authority before
+mission. This is crucial for current missiology.
+
+
+3. Manuscript Basis and Editorial Method
+The Kouns edition faithfully follows Emmerich's base. The apparatus notes: Critical base: St. Gallen,
+Stiftsbibliothek, Cod. 566; Vienna, ÖNB, Cod. 552; Munich, BSB, Clm 4585; and related MSS collated in
+Acta Sanctorum Julii II and Krusch-Levison, MGH Passiones. Name variants are noted: Killena / Kyllena /
+Chilianus / Kilianus / Kylianus; companion names fluid: Colonatus / Colmanus; occasional additional
+figures in minor versions. This matches the manuscript reality. For publication grade, desiderata are: (a)
+siglum table with foliation, (b) IIIF-compatible image citations, (c) explicit distinction between Emmerich's
+emendations and manuscript readings, (d) line numbering.
+
+Editorial boundary is clearly stated: the edition is a critical working edition rather than final diplomatic
+transcription of every witness, with conceptual stemma to be replaced by witness-by-witness codicological
+collation in final edition. This transparency is appropriate for Edition 1.0.
+
+
+4. Philological Analysis: Latin Text and English Translation
+Incipit: Fuit vir vitae venerabilis Killena nomine, quem Scottica tellus de magno edidit genere. The
+translation 'There was a man of venerable life named Killena, whom the Scottish land brought forth from a
+great family' is accurate. Note: Scottica tellus in 8th-century Frankish usage denotes Ireland (Hibernia), not
+modern Scotland; a gloss is advisable for pastoral use. Qui etiam a puerili aetate magnum habuit studium
+sacras discere litteras — 'From boyhood he also had great zeal to learn the sacred letters' — correctly
+renders litterae sacrae as Christian letters, not classical literature. exinde pontificale didicit regere culmen
+— 'from there he learned to rule the pontifical height' — literal and correct; culmen is office, dignity.
+quicquid ad animarum lucrum, quicquid ad propagationem fidei pertinere cognoscebat — double
+missionary motive characteristic of early medieval missionary hagiography.
+
+Vocatio et Discessus: The Vulgate citation (Luc. IX, 23) is correctly retained: Qui vult venire post me,
+abneget semet ipsum et tollat crucem suam et sequatur me. nudos sequi Christum — translated 'to follow
+Christ naked' — correctly preserves technical apostolic poverty (nudus = stripped of possessions). firmiter
+coadunati, relictis omnibus, de propria perrexerunt patria — 'firmly united, having left all things, set out'
+— good rendering of inchoative perfect. Companion list: Colonato ac Gallone et Arnuvale presbyteris et
+Totnano diacono, aliis septem illis adiunctis — translation 'with seven others joined to them' is standard.
+
+Iter Romanum: Sed illic venientes et apostolicum virum Johannem non invenientes, quoniam iam
+defunctus est, a sancto papa Conone... susceptus est — 'But coming there and not finding the apostolic man
+John, since he was already dead, was received amiably and honorably by the holy Pope Conon' — captures
+amabiliter et honorifice pairing. The Pope Conon (686-687) chronological datum is retained without
+harmonization, as critical method requires.
+
+Missio et Conversio, Conflictus, Martyrium, Translatio: Audiens autem dux Gozbertus verbum
+praedicationis eius, cum omni populo suo credidit et baptizatus est — concise baptismal formula. quae
+fuerat uxor fratris eius, quia hoc christianae religioni contrarium esse cognoscebat — illicit marriage to
+brother's widow, Lev 18:16 typology. corrupta suis illecebris — 'corrupted by her allurements' — apt for
+illecebrae. in stabulo equorum occiderent et corpora eorum ibi sepelirent cum vasis sacris et vestimentis et
+scripturis sanctis — 'in the horse stable... with sacred vessels and vestments and holy writings' — exact,
+with important inventio motif: concealed martyrdom with liturgical apparatus for later discovery.
+
+Postea vero, cum Burchardus episcopus Wirziburgensis, praecepto et consilio Zachariae papae et Pippini
+regis, corpora sanctorum martyrum cum honore transtulisset et in ecclesia beatae Mariae in monte
+collocasset, miraculis et sanitatibus claruerunt. Translation 'by the precept and counsel of Pope Zacharias
+and King Pippin... they became renowned through miracles and healings' correctly renders sanitatibus as
+healings. This translatio of 752 is the ecclesiastical foundation charter of Würzburg, linking martyrdom to
+episcopal institution.
+
+
+5. Hagiographical Theology: Sevenfold Structure
+The author's seven titles — Incipit, Vocatio et Discessus, Iter Romanum, Missio et Conversio, Conflictus de
+Matrimonio, Martyrium, Translatio — are not in the manuscripts but constitute a sound
+liturgical-hagiographical hermeneutic: origin, call and exodus, Roman authorization, proclamation and
+conversion, prophetic confrontation, martyrial witness, and translation/ glorification. This mirrors the
+classical triad of vita - passio - translatio expanded for missionary hagiography. Each station has biblical
+typology: Luke 9:23, Abrahamic departure, Petrine authorization, Acts conversion, John the
+Baptist-Herodias parallel for Gozbert/Geilana, and proto-martyr Stephen.
+
+
+6. Historical-Ecclesiastical Context
+The Passio minor must be read east of the Rhine, in a region without strong Christian-Roman continuity.
+Thornborough: Thuringia produced new saints and cults in this period, yet they all operated within the
+overarching framework of the well-established religious phenomenon of saints' cults. The insistence on
+Roman licence reflects the Bonifatian reform: no mission without licentia. The later rewriting by Stephan of
+Novara around 950 — After arriving at the bishopric around 950, the Italian scholar Stephan of Novara
+rewrote the story of St. Kilian for a contemporary audience... to promote its saint and reassert the
+bishopric's position in the burgeoning Ottonian Reich — shows the Passio's political function. The Kouns
+edition's focus on the earliest layer therefore serves current scholarship's interest in Carolingian memory
+and identity.
+
+Liturgically, Kilian remains patron of the Diocese of Würzburg, feast July 8, enshrined in Neumünster over
+the traditional martyrdom site, with his reputed New Testament preserved until 1803 in the cathedral
+treasury. Contemporary diocesan literature presents Kilian as model of peregrinatio and new evangelization
+— directly relevant to synodal discussions of missionary discipleship.
+
+
+7. Genealogical and Archival Dimensions
+The monograph integrates Deliverable II: a canonical maternal Kilian/Killion lineage from St. Kilian
+(hagiographic layer) through Hans Kilian (1516-1583), Bartholomaeus I, Wolfgang (1581-1662), Philipp
+(1628-1693), Johannes Jacob Balthasar (1689-1742), Johann/Andreas Killion (1732-1781), William
+(1768-1850), John J. (1813-1890), Arthur (1848-1920), Alexander (1885-1961), Anna Rose Killion Kouns
+(1931-2015) to Nicholas Shane Kouns (1965-). The documentary layers are properly distinguished:
+hagiographic and ecclesiastical for the 7th century, civic and guild records for Augsburg, museum and print
+catalogues for engravers, parish, land, census, and family records for American centuries. For critical
+genealogy, an unbroken maternal line to ca. 640 cannot be established from extant sources before ca. 1200.
+As the author frames it as canonical for this research package based on LDS genealogical reconstruction
+and family archive, it is best presented as traditio familiae and devotional lineage motivating scholarship,
+not replacing documentary method. This distinction is maintained in the edition.
+
+Deliverable III, catalogue of Augsburg Kilian artistic works — Lucas Kilian Holy Family (Met
+51.501.6485), Wolfgang Kilian Fuggerorum Imagines (1620), Large Map of Augsburg (1626), Discovery
+of New World copper plate (Smithsonian nmah_819205), Philipp Kilian illustrations, etc. — is reception
+history, not part of the medieval cult, but valuable for Counter-Reformation print culture. Deliverable IV,
+church continuum, correctly sequences martyrdom (689), translation (ca. 752), circulation (9th-10th),
+liturgy and visual culture, American parish continuity, modern archive.
+
+
+8. Digital Humanities and Provenance Architecture
+The proposed data model — Person, Witness, TextUnit, Artifact, Event, ProvenanceEdge with confidence
+and reviewer — and the reproducible Python contract load_sources, validate_required_fields,
+normalize_names_and_dates,                build_genealogy_graph,                  build_manuscript_stemma,
+build_relic_translation_timeline, build_provenance_dag, render_svg_png_pdf, write_sha256_manifest
+aligns with current standards for digital hagiography (TEI, IIIF, CIDOC-CRM). The Supabase ledger
+structure (source_artifacts, mathematical_identities, machine_certificates, corrections, failure_atlas)
+provides auditable provenance. This is credible for Vatican Library or Würzburg diocesan fellowship
+applications, provided the KKP-R interpretive layer is in a separately labeled appendix, as proposed.
+
+
+9. Critical Appraisal and Recommendations
+Strengths: (1) Clear choice of earliest recension as base; (2) Accurate, readable translation preserving
+technical hagiographic diction; (3) Explicit apparatus of name variants and fluid companion tradition; (4)
+Sevenfold theological structure useful for lectio and catechesis; (5) Integration of manuscript, institutional,
+artistic, and family memory into one auditable archive; (6) Methodological honesty about editorial
+boundary.
+
+Desiderata for publication grade: (a) Add witness-level foliation and repository shelfmark verification; (b)
+Include BHL 4660 incipit and explicit citations; (c) Provide full collation table of Emmerich variants; (d)
+Add commentary on Merovingian Latin features and biblical allusions; (e) For ecclesiastical review,
+include liturgical use note and German translation comparison; (f) Maintain strict separation of
+documentary layers and interpretive mathematics in final PDF rendering; (g) Secure image rights for St
+Gallen, Vienna, Munich plates.
+
+
+10. Conclusion
+The Kouns working edition of Passio minor Kiliani constitutes a citable, bilingual, structurally annotated
+text of pastoral and scholarly utility. It restores attention to the earliest, most restrained layer of the Kilian
+tradition — the Bonifatian model of authorized mission, prophetic confrontation with power in the
+Gozbert-Geilana episode, humble martyrdom in the horse stable, and episcopal translation by Burchard
+under Zacharias and Pippin. Situated within current scholarship on cult, politics, and society in Carolingian
+and Ottonian worlds, and linked to a reproducible digital archive, it merits inclusion in diocesan and
+academic Kiliani studies. Its strongest contribution for a Vatican-facing application is demonstration of a
+bounded corpus, existing bilingual editions and visual plates, direct research relationship to Würzburg and
+medieval hagiography, and a credible digital humanities plan, motivated but not replaced by personal
+genealogical stake.
+
+Ad maiorem Dei gloriam et ad memoriam Sancti Kiliani, Apostoli Franconiae.
+
+
+
+
+BIBLIOGRAPHY SELECTA
+Emmerich, Franz. Der heilige Kilian, Regionarbischof und Martyrer, historisch-kritisch dargestellt. Würzburg, 1896, pp.
+3-10.
+Acta Sanctorum, Julii II, 599-619. Kilian dossier.
+Krusch, B. and Levison, W. MGH Passiones.
+Thornborough, Joanna. The Passiones of St. Kilian: Cult, Politics and Society in the Carolingian and Ottonian Worlds. PhD,
+St Andrews, 2015.
+Bigelmair, A. Die Gründung des Bistums Würzburg, Würzburger Diözesangeschichtsblätter 2 (1934).
+Dienemann, J. Der Kult des heiligen Kilian im 8. und 9. Jahrhundert. Würzburg, 1955.
+Herbipolis Jubilans: 1200 Jahre Bistum Würzburg (1952).
+Geschichtsquellen des deutschen Mittelalters: Passio minor Kiliani, Passio maior Kiliani.
+Catholic Encyclopedia (1913), s.v. St. Kilian; New Advent.
+British Museum, Metropolitan Museum of Art, National Gallery of Art, Smithsonian NMAH collection records for Kilian
+engravers.
+
+
+                        Imprimatur recensionis: Studia Kilianea — Kouns Edition 1.0 (2026)
+                         Typeset for Ecclesiastical Review — Private scholarly circulation
+

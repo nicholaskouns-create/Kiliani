@@ -1,0 +1,21 @@
+name: Archive boundaries
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  boundaries:
+    # The mathematical repositories in this project use CI to check proofs.
+    # A hagiographic archive has no proofs. What it has is labels, and a label
+    # is only worth something if it cannot quietly fall off. This job checks
+    # the labels.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Check that the archive still states what it does not assert
+        run: python3 -I tools/check_boundaries.py

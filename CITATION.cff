@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "Sancti Kiliani: a critical dossier of the Passiones, the Würzburg cult, and the Killion-Kouns family archive"
+message: >-
+  Cite this archive for its editorial apparatus, its recension history and its
+  genealogical analysis. Do NOT cite it for the Latin text of either Passio.
+  For the Passio minor cite Levison, MGH Scriptores rerum Merovingicarum 5
+  (Hannover, 1910). For the Passio maior no modern critical edition exists; see
+  texts/passio-maior/editions.md.
+type: dataset
+authors:
+  - family-names: Kouns
+    given-names: Nicholas Shane
+    name-suffix: DO
+year: 2026
+license: CC-BY-4.0
+keywords:
+  - Passio minor Kiliani
+  - Passio maior Kiliani
+  - BHL 4660
+  - BHL 4661
+  - Kilian of Würzburg
+  - hagiography
+  - manuscript transmission
+  - Augsburg engravers
+  - Germanna migration
+  - genealogy
+references:
+  - type: book
+    title: "Passio Kiliani martyris Wirziburgensis"
+    collection-title: "Monumenta Germaniae Historica, Scriptores rerum Merovingicarum 5"
+    editors:
+      - family-names: Levison
+        given-names: Wilhelm
+    year: 1910
+    publisher:
+      name: Hannover
+    notes: "The standard critical edition of the Passio minor. Cite this, not the reading text in this repository."
+  - type: thesis
+    title: "The 'Passiones' of St. Kilian: Cult, Politics and Society in the Carolingian and Ottonian Worlds"
+    authors:
+      - family-names: Thornborough
+        given-names: Joanna
+    year: 2015
+    institution:
+      name: University of St Andrews
+    thesis-type: "PhD thesis"

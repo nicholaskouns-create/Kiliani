@@ -1,0 +1,135 @@
+FROM PASSIO MINOR KILIANI TO THE MODERN ARCHIVE
+An Integrated Study of Manuscript Transmission, Ecclesiastical Memory, Genealogy, and Historical Continuity
+Nicholas Shane Kouns
+Source-Integrated Research Edition 1.0
+2026
+Passio minor Kiliani source plate from the private research corpus.
+Abstract
+This monograph unifies five research products into one documented package: a bilingual working edition of the Passio minor Kiliani; a canonical maternal Kilian/Killion genealogy; a catalogue of selected artistic and cartographic works associated with the Augsburg Kilian dynasty; a study of relic translation, diocesan formation, parish continuity, and family memory; and a reproducible digital-edition architecture. The work draws on the author's Google Drive monographs and source plates, the Notion Mathematical City and Visual Plate Atlas, the Supabase provenance and certificate ledgers, private family research, supplied images, and public scholarly and museum records. Documentary history and interpretive mathematics are kept as distinct layers while remaining cross-referenced through explicit provenance.
+1. Corpus, Method, and Editorial Boundary
+The private corpus contains multiple editions and exports of the Passio minor, a bilingual Passio major, lineage monographs, artistic catalogues, church-continuum plates, formal provenance systems, and a large structured archive. The public layer adds modern scholarship on the Kilian Passiones and museum records for the Augsburg engravers. The canonical family line used here is the lineage reconstructed directly by Nicholas Shane Kouns and his sister through LDS genealogical records and preserved across the private archive.
+Primary private objects: Passio minor Kiliani Google Doc, DOCX and PDF; Passio major Kiliani bilingual PDF; Kouns Family Tree source plate; Killion Lineage artistic catalogue; genealogy and historical narrative monographs; supplied church-continuum and network plates.
+Notion objects: Mathematical City, Machine Certificates, Visual Plate Atlas, Invariant Grammar, and Kouns-Killion construction pages.
+Supabase objects: source_artifacts, mathematical_identities, machine_certificates, corrections, failure_atlas, agents, agent_runs, handoffs, transit_events, sync_registry, rendering policies, renderer contracts, and related archival tables.
+Public scholarship and repositories: Joanna Thornborough's thesis on the Kilian Passiones; Geschichtsquellen des deutschen Mittelalters; British Museum, Metropolitan Museum of Art, National Gallery of Art, Smithsonian, and other institutional collection records.
+Figure 1. Transmission of Kilian memory from martyrdom to the modern archive.
+Figure 2. Conceptual stemma of the Passio minor and Passio major textual families.
+2. Deliverable I: Critical Bilingual Working Edition of Passio minor Kiliani
+The following edition reproduces the Latin text and English translation preserved in the private source plates. It is a critical working edition rather than a final diplomatic transcription of every manuscript witness. The apparatus records the principal name variants and the relationship between the shorter and longer Passiones.
+Incipit
+Vocatio et Discessus
+Iter Romanum
+Missio et Conversio
+Conflictus de Matrimonio
+Martyrium
+Translatio
+2.1 Apparatus and Editorial Notes
+Name variants preserved in the manuscript tradition include Killena, Kyllena, Chilianus, Kilianus, and Kylianus.
+Companion names vary, especially Colonatus/Colmanus and related spellings; the minor tradition sometimes includes additional companions.
+The Passio major expands the shorter narrative with a prologue, the Atalongus miracle, stronger institutional framing, and an episcopal foundation narrative.
+The conceptual stemma above must be replaced by a witness-by-witness codicological collation in the final edition.
+3. Deliverable II: Documented Genealogy
+The direct maternal line below is treated as canonical for this research package, based on Nicholas Shane Kouns's and his sister's direct inspection and reconstruction in LDS genealogical records, reinforced by the family archive and later American records.
+Figure 3. Canonical maternal Kilian/Killion lineage used in this edition.
+4. Deliverable III: Catalogue of Kilian Artistic and Cartographic Works
+The Augsburg Kilian dynasty created a large corpus of engravings, portraits, thesis broadsheets, devotional images, maps, and book illustrations. The catalogue below is a curated institutional core, designed to expand into a full catalogue raisonné.
+Figure 4. Passio major Kiliani comparison plate from the private visual corpus.
+5. Deliverable IV: Relic Translation, Diocesan Continuity, and Sacred Memory
+The Kilian tradition is transmitted through bodies, relics, churches, episcopal authority, liturgy, images, migration, parish foundations, deeds, chapels, and family archives. The private church-continuum plates model this movement as an institutional sequence: martyrdom, translation, cult formation, diocesan memory, parish continuity, church building, and family preservation.
+Figure 5. Kouns-Kilian Church Continuum.
+Figure 6. Group-theoretic network of sacred memory and church-building continuity.
+5.1 Historical Sequence
+689: Kilian, Colonatus, and Totnan are remembered as martyrs at Würzburg.
+ca. 752: Bishop Burchard translates the martyrs' bodies to the church of Blessed Mary on the mountain.
+9th-10th centuries: the Passio minor circulates and the Passio major amplifies the cult, miracles, and episcopal claims.
+Medieval and early modern centuries: liturgy, reliquaries, diocesan structures, and printed visual culture preserve and renew the tradition.
+American centuries: church records, land donations, chapels, parish participation, and family archives become principal carriers of continuity.
+Modern archive: lineage, textual tradition, visual corpus, mathematical interpretation, and provenance are reunited in a reproducible research environment.
+6. Deliverable V: Digital Scholarly Edition with Reproducible Provenance
+The edition is designed as a layered digital object. Human-readable monographs remain primary for interpretation; TEI-XML, JSON, CSV, SVG, and database records provide reproducibility and machine navigation. Every claim should resolve to a source artifact, a witness, a repository, or an explicit family-attested record.
+Figure 7. Provenance architecture for the digital scholarly edition.
+6.1 Proposed Data Model
+Person(id, canonical_name, variants, birth, death, places, parents, spouses, sources)
+Witness(id, repository, shelfmark, date, recension, folios, images, bibliography)
+TextUnit(id, work, section, latin, english, apparatus, witness_links)
+Artifact(id, title, creator, date, medium, repository, accession, rights, image_uri)
+Event(id, type, date, place, agents, source_links)
+ProvenanceEdge(source_id, target_id, relation, confidence, reviewer, timestamp)
+6.2 Reproducible Python Figure Contract
+# Canonical build sequence
+load_sources()
+validate_required_fields()
+normalize_names_and_dates()
+build_genealogy_graph()
+build_manuscript_stemma()
+build_relic_translation_timeline()
+build_provenance_dag()
+render_svg_png_pdf()
+write_sha256_manifest()
+assert no_orphan_sources
+assert all_figures_reproducible
+7. Relevance to a Vatican Library or Related Fellowship Application
+This package strengthens a Vatican-facing application because it demonstrates a concrete, bounded research program grounded in manuscript transmission, hagiography, ecclesiastical institutions, art history, genealogy, and digital humanities. Its strongest scholarly contribution is the integration of textual, material, institutional, and family memory into one auditable archive. The application should foreground the critical edition, the manuscript and relic-transmission problem, the museum catalogue, and the reproducible digital method. The KKP-R interpretive layer belongs in a separately labeled analytical appendix so historical claims and mathematical interpretation remain distinct but interoperable.
+A defined corpus and deliverables rather than a general statement of interest.
+Existing bilingual editions, source plates, visual models, and archive infrastructure.
+A direct research relationship to Würzburg, the Kilian cult, medieval hagiography, and ecclesiastical memory.
+A credible digital-humanities plan using TEI, IIIF-compatible image references, provenance graphs, and reproducible figures.
+A personal genealogical stake that motivates the project without replacing documentary scholarship.
+8. Selected Bibliography and Repositories
+Emmerich, Der heilige Kilian, Regionarbischof und Martyrer. Würzburg, 1896, pp. 3-10.
+Acta Sanctorum, Julii II, Kilian dossier.
+Krusch and Levison, Monumenta Germaniae Historica, Passiones.
+Thornborough, Joanna. The Passiones of St. Kilian: Cult, Politics and Society in the Carolingian and Ottonian Worlds. PhD thesis, University of St Andrews, 2015.
+Geschichtsquellen des deutschen Mittelalters, entries for the Passio minor Kiliani and Passio maior Kiliani.
+British Museum Collections Online: Wolfgang Kilian, Philipp Kilian, Philipp Andreas Kilian.
+Metropolitan Museum of Art: Lucas Kilian, The Holy Family, object 51.501.6485.
+National Gallery of Art: Lucas Kilian, Wolfgang Kilian, Wolfgang Philipp Kilian artist and object records.
+Smithsonian National Museum of American History: engraved copper plate, Discovery of the New World, nmah_819205.
+Private Google Drive corpus: Passio minor Kiliani; Passio major Kiliani Bilingual; Kouns Family Tree - Recursive Identity Source Plate; Killion Lineage: Artistic Outputs Cataloged.
+Private Notion corpus: Mathematical City, Visual Plate Atlas, Machine Certificates, Invariant Grammar, and related pages.
+Private Supabase corpus: source artifacts, certificates, corrections, agent runs, renderer contracts, and synchronization ledgers.
+Appendix A. Private Corpus Manifest Used in Edition 1.0
+Google Drive: Passio minor Kiliani; Kouns Family Tree - Recursive Identity Source Plate; Passio major Kiliani Bilingual; Killion Lineage: Artistic Outputs Cataloged and archival exports.
+Notion: Mathematical City, Visual Plate Atlas, Machine Certificates, Invariant Grammar, Kouns-Killion Construction, agent-control and provenance pages.
+Supabase: structured source, identity, certificate, correction, failure, agent, transit, sync, renderer, and specialized formalism tables.
+Gmail: correspondence, shared monographs, attachments, genealogy notices, and publication-history evidence; only germane items enter a public release.
+Images: supplied Passio minor and major plates, bilingual source pages, church-continuum plates, and group-theoretic continuity diagrams.
+Appendix B. Editorial Status
+Edition 1.0 is a source-integrated scholarly monograph and reproducible research package. The next critical-edition pass adds witness-level folio references, full variant collation, normalized repository identifiers, image-rights status, and a signed provenance manifest for every imported artifact.
+LATIN | ENGLISH
+Fuit vir vitae venerabilis Killena nomine, quem Scottica tellus de magno edidit genere. Qui etiam a puerili aetate magnum habuit studium sacras discere litteras et in eis tam perfecte proficiens, ut exinde pontificale didicit regere culmen. Et tunc iam alio vocabatur nomine Chilianus, habens gratiam ad clerum et ad omnem populum. Qui etiam in tantum amore christianae religionis impletus, ut quicquid ad animarum lucrum, quicquid ad propagationem fidei pertinere cognoscebat, devota mente et pio operari studio non cessabat. | There was a man of venerable life named Killena, whom the Scottish land brought forth from a great family. From boyhood he had great zeal to learn the sacred letters and advanced so perfectly in them that from there he learned to rule the pontifical height. He was then called by another name, Chilianus, having grace toward the clergy and all the people. He was so filled with love of the Christian religion that whatever he knew pertained to the gain of souls or the propagation of the faith, he pursued with devoted mind and pious effort without ceasing.
+LATIN | ENGLISH
+Contigit autem, ut quadam die evangelica simul et voce dominica admonitus esset, ubi dicitur (Luc. IX, 23): “Qui vult venire post me, abneget semet ipsum et tollat crucem suam et sequatur me.” Haec secum beatissimus vir toto cordis ac mentis affectu pertractans, congregatis in unum suis consociis atque discipulis, id est Colonatio ac Gallone et Arnuvuale presbyteris et Totnano diacono, aliis septem illis adiunctis, coepit eos persuadere: propria contemni patriamque et parentes secundum Domini evangelium relinquere et nudos sequi Christum. Illi namque statim sacrae admonitioni beati viri obtemperantes firmiter coadunati, relictis omnibus, de propria perrexerunt patria et venerunt in Australium partem ad castellum, quod nominatur Wirziburg. | It happened that on a certain day he was admonished by the evangelical and dominical voice where it says in Luke 9:23: “Whoever wishes to come after me, let him deny himself and take up his cross and follow me.” Pondering these things with his whole heart and mind, the blessed man gathered his companions and disciples, Colonatus, Gallonus, Arnualdus, Totnan, and others, and persuaded them to despise their possessions, leave homeland and parents according to the Gospel, and follow Christ naked. Firmly united, they left all things, departed their homeland, and came to the southern fortress called Würzburg.
+LATIN | ENGLISH
+Sed illic venientes et apostolicum virum Johannem non invenientes, quoniam iam defunctus est, a sancto papa Conone praedictus Dei pontifex Killena amabiliter et honorifice susceptus est et, quod ad praedicandum verbum Dei petierat, cum omni benignitate consecutus est. | Coming there and not finding the apostolic man John, since he was already dead, the pontiff of God, Killena, was received amiably and honorably by Pope Conon and obtained with all benevolence what he had sought for preaching the word of God.
+LATIN | ENGLISH
+Revertens igitur cum suis sociis ad praedictum castellum Wirziburg, coepit ibi verbum Dei fiducialiter praedicare. Audiens autem dux Gozbertus verbum praedicationis eius, cum omni populo suo credidit et baptizatus est. | Returning with his companions to Würzburg, he began to preach the word of God confidently. Hearing his preaching, Duke Gozbert believed with all his people and was baptized.
+LATIN | ENGLISH
+Non multo post tempore persuadebat illum devotus Domini pontifex Kilianus ut dimitteret uxorem suam Geilanam, quae fuerat uxor fratris eius, quia hoc christianae religioni contrarium esse cognoscebat. Cui dux promittens se facturum quod ei praeciperet. | Not long after, Kilian persuaded the duke to dismiss Geilana, who had been the wife of his brother, because he understood this union to be contrary to Christian religion. The duke promised to do what he commanded.
+LATIN | ENGLISH
+Geilana autem, corrupta suis illecebris, cum audisset haec, irata est valde et, dux in venatione abesset, misit servos suos qui beatum Kilianum cum sociis suis Colonatio presbytero et Totnano diacono in stabulo equorum occiderent et corpora eorum ibi sepelirent cum vasis sacris et vestimentis et scripturis sanctis. | Geilana, greatly angered, sent servants while the duke was away hunting. They killed Kilian with Colonatus and Totnan in the horse stable and buried their bodies there with sacred vessels, vestments, and holy writings.
+LATIN | ENGLISH
+Postea vero, cum Burchardus episcopus Wirziburgensis, praecepto et consilio Zachariae papae et Pippini regis, corpora sanctorum martyrum cum honore transtulisset et in ecclesia beatae Mariae in monte collocasset, miraculis et sanitatibus claruerunt. | Afterward, when Bishop Burchard of Würzburg, by the counsel of Pope Zacharias and King Pippin, translated the bodies of the holy martyrs with honor and placed them in the church of Blessed Mary on the mountain, they became renowned through miracles and healings.
+Gen. | Person | Dates | Place | Documentary layer
+1 | St. Kilian (Ceallach) | c. 640-689 | Ireland / Würzburg | Hagiographic and ecclesiastical tradition
+2 | Hans Kilian | 1516-1583 | Augsburg | Printer, musician, civic records
+3 | Bartholomaeus Kilian I | 1548-1588 | Silesia / Augsburg | Goldsmith; Augsburg guild context
+4 | Wolfgang Kilian | 1581-1662 | Augsburg / Italy | Engraver; museum and print catalogues
+5 | Philipp Kilian | 1628-1693 | Augsburg / Italy | Engraver; museum catalogues
+6 | Johannes Jacob Balthasar Kilian | 1689-1742 | Augsburg / Königsberg | Parish and family records
+7 | Johann / Andreas Killion | 1732-1781 | Germany / North Carolina | Migration and family records
+8 | William Killion | 1768-1850 | North Carolina / Tennessee | Land and family records; spouse Alley Coleman
+9 | John J. Killion | 1813-1890 | Tennessee / Laurel County, Kentucky | Land, marriage, census; Matilda Lanham / Sally Hodge
+10 | Arthur Killion | 1848-1920 | Laurel County, Kentucky | Census and family records
+11 | Alexander Killion | 1885-1961 | Kentucky | Census and draft records; Edna E. Hill
+12 | Anna Rose Killion Kouns | 1931-2015 | Kentucky | Civil and family archive; spouse Donald Ray Kouns
+13 | Nicholas Shane Kouns | 1965- | Danville, Kentucky / United States | Medical, academic, and research record
+Artist | Work | Date | Medium | Repository | ID
+Lucas Kilian | The Holy Family | 1599-1637 | Engraving | Metropolitan Museum of Art | 51.501.6485
+Lucas Kilian | Philip IV, King of Spain | 1624 | Engraving | National Gallery of Art | 1950.14.998
+Wolfgang Kilian | Fuggerorum et Fuggerarum Imagines portraits | 1620 | Engravings | British Museum and other collections | multiple accessions
+Wolfgang Kilian | Large Map of Augsburg | 1626 | Six-plate city view | Augsburg collections | catalogue reference pending
+Wolfgang Kilian | Discovery of the New World copper plate | 1621 context | Engraved copper plate | Smithsonian NMAH | nmah_819205
+Philipp Kilian | L’Academia Todesca della Architectura, Scultura & Pittura | 1675 | Book illustration / engraving | British Museum | 1974,1207.30
+Wolfgang Philipp Kilian | Robert Duglass, Swedish General | 17th century | Engraving | National Gallery of Art | 1950.14.362
+Georg Christoph Kilian | Africae compendiosa representatio | c. 1760 | Map | European map collections | catalogue reference pending
