@@ -21,43 +21,59 @@ Four specific defects, in priority order:
 - [ ] **n. 6** — resolve *Cui dux promittens*, which has no finite verb.
 - [ ] **n. 7** — confirm the conjunction supplied as ⟨dum⟩.
 
-Also: [ ] recover the authentic closing formula (the saints raised from the tomb
-under Pippin, ending *Amen*), which this archive's text does not carry.
+⚠ **And the closing chapter, which is worse than an abridgement.** Partly
+recovered: c. 15 begins
 
-### 2. Settle which witness is earliest
+> *Inlustrante autem Domino merita eorum, cum consilio et praecepto Zachariae
+> papae **mediante Bonifatio archiepiscopo**, a Burchardo **primo
+> Wirziburegensium episcopo** de tumulo honorifice sublevati sunt…*
 
-- [ ] Inspect the **Vienna, ÖNB Cod. 552** catalogue entry and confirm or refute
-      "s. IX med."
-- [ ] Confirm the **St Gallen, Cod. Sang. 566** dating (c. 870 vs s. IX ex./X in.)
-- [ ] Confirm the **Munich, BSB Clm 4585** shelfmark and date
+**This archive's closing sentence is a different sentence**, missing Boniface,
+missing "first bishop", and reducing *Pippino primo orientalium Francorum rege*
+to a bare *Pippini regis*.
 
-The sources in this archive contradict each other. See [witnesses.md](witnesses.md).
+- [ ] Recover the **full** closing sentence and its *Amen* doxology from p. 728.
+      Only the fragment above is in hand, and at second hand.
 
-### 3. Confirm the BHL number
+### ✅ 2. Which witness is earliest — RESOLVED
 
-- [ ] **BHL 4660** for the *minor*. Used throughout this archive, never verified
-      against the *Bibliotheca Hagiographica Latina* itself.
+**Vienna, ÖNB, Cod. 552, s. ix med.**, per *Geschichtsquellen* werk/5445.
+St Gallen 566 is s. ix ex./x in.; Munich Clm 4585 is s. x, fols 115r–119r.
 
-(For the *maior* the archive variously gives BHL 4661 and "BHL 4661–4664". The
-narrower form is the one the current repertory uses.)
+Remaining: [ ] confirm the Vienna date in the **ÖNB catalogue itself**, since the
+repertory is at one remove.
 
-### 4. Confirm Emmerich's page range for the minor
+A **full 19-manuscript list** with foliation now stands at
+[witnesses.md](witnesses.md).
 
-- [ ] **pp. 3–10** is unconfirmed and has propagated into three documents. The
-      *maior* at pp. 11–25 is confirmed.
+### 3. Confirm the BHL number — partly done
 
-### 5. Resolve the Levison page range
+- [x] **BHL 4660** and **4661** confirmed via the Bavarian Academy repertory and
+      the *Index scriptorum novus Mediae Latinitatis*.
+- [ ] **BHL 4660a** — a sub-variant the *Index scriptorum* cites. Not yet
+      characterised.
+- [ ] **BHL 4662–4664**, which the ecclesiastical review attaches to the *maior*,
+      remain **unverified**. The *BHL* itself has not been consulted.
 
-- [ ] **711–728** or **722–728**. Two documents in this archive disagree. See
-      [editions.md](editions.md).
+### ✅ 4. Emmerich's page range — DONE
+
+**pp. 3–10 confirmed.** Manuscripts at p. 2; *maior* at pp. 11–25.
+
+### ✅ 5. The Levison page range — DONE, and both were right
+
+**711–728** the whole section; **722–728** the edited text. Not a contradiction.
 
 ### 6. Verify foliation at the repositories
 
-- [ ] Vienna 552, fols 107v–112r
-- [ ] St Gallen 566, pp. 212–219
-- [ ] Munich Clm 4585, fols 115r–119r
-- [ ] Hannover Ms I 189, fols 1r–11r
-- [ ] Würzburg M.p.th.q. 64, fols 304r–306v
+Foliation for all nineteen witnesses is now recorded from the repertory. What
+remains is confirming it **at the repositories themselves**.
+
+- [ ] Vienna 552, f. 107v–112r
+- [ ] St Gallen 566, p. 212–219
+- [ ] Munich Clm 4585, f. 115r–119r
+- [ ] Hannover Ms I 189, f. 1r–11r — and consult the **Hahn facsimile**, which
+      reproduces the earliest picture cycle of the legend
+- [ ] Würzburg M.p.th.q. 64, f. 304r–306v (s. xi)
 
 ### 7. Separate Emmerich's emendations from manuscript readings
 
@@ -82,3 +98,21 @@ Kept so the corrections are not silently absorbed. Detail in
   trace of the maternal Kilian line", "coherence-lock moment") removed from the
   text apparatus
 - ✅ Emmerich identified as a monograph author, not the critical editor
+- ✅ Nineteen witnesses recorded, replacing a five-item list with two unverified
+  entries
+- ✅ The dating positions attributed to their advocates: Bigelmair c. 752,
+  Dienemann and Petersohn c. 788, Thornborough late 8th c., Levison c. 840
+
+
+## New since October 2026
+
+### 8. Follow the Vita Corbiniani lead
+
+- [ ] The repertory notes the *minor* **may be modelled on Arbeo of Freising's
+      *Vita Corbiniani***. A demonstrated textual dependence would constrain the
+      date far better than the anachronistic royal title does, and would be
+      original work.
+
+### 9. Characterise BHL 4660a
+
+- [ ] The *Index scriptorum* cites "BHL 4660-4660a". What is the sub-variant?

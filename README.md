@@ -65,9 +65,20 @@ and nothing crosses the walls between them without saying so.
 | [`recensions/`](recensions/) | The history of this archive's own editions — what was printed, what was wrong, what was corrected | Editorial history |
 | [`scholarship/`](scholarship/) | Research reports, the ecclesiastical review, bibliography | Secondary literature |
 | [`family/`](family/) | The maternal Killion and paternal Kouns lines, graded by confidence; the Augsburg artistic corpus | Genealogical record, mixed confidence, explicitly labelled |
+| [`saints/`](saints/) | The **other** saints named Kilian — Aubigny, Iona | Medieval sources and scholarship |
+| [`cult/`](cult/) | Relics, pilgrimage, the Kilian Gospels, dedications worldwide | Institutional and material record |
 | [`interpretive/`](interpretive/) | The KKP-R layer | Interpretation, not historical claim |
 
 [`STATUS.md`](STATUS.md) gives the editorial status of every file in one table.
+
+## The surname
+
+**Polygenetic.** Irish Killian and Killion descend from **Ó Cillín / Ó Cilleáin**,
+a diminutive of *Ceallach*; German **Kilian** from the saint's name used as a
+baptismal name, which spread through Franconia *because* of the Würzburg cult.
+Two unrelated roots, one spelling. Bearers of the name were never one kin group
+and were never expected to be — which is how a chain of the name crosses fourteen
+centuries without a chain of bodies. See [family/surname.md](family/surname.md).
 
 ## The texts
 
@@ -83,24 +94,51 @@ and nothing crosses the walls between them without saying so.
 Cite the *Passio minor* from Levison, *MGH Scriptores rerum Merovingicarum* 5
 (Hannover, 1910). Nothing in this repository is a substitute for that edition.
 
+## There is more than one Saint Kilian
+
+At least three bearing the name have a documented cult, and devotional sources
+routinely merge them:
+
+| Saint | Died | Feast |
+|---|---|---|
+| **Kilian of Würzburg** | trad. 689 | 8 July |
+| **Kilian (Chillien) of Aubigny** | c. 670 | 13 November |
+| **Cillíne Droichtech of Iona** | 752 | 3 July |
+
+The *Passio minor* says its subject "was called by another name, **Chilianus**" —
+which is the Aubigny saint's own name. See [`saints/`](saints/).
+
 ## Open questions
 
 This archive keeps its unresolved problems in the open rather than tidying them
-away. The standing ones:
+away. After the October 2026 research pass, five earlier questions are closed and
+the standing ones are:
 
-- The dating of the *Passio minor*: c. 752 or c. 840 or the repertory's 750–850.
-  See [texts/passio-minor/README.md](texts/passio-minor/README.md).
-- Whether Vienna ÖNB 552 or St Gallen 566 is the earliest witness. The sources in
-  this archive disagree with each other. See
-  [texts/passio-minor/witnesses.md](texts/passio-minor/witnesses.md).
-- "St Clegwallabog Killian" (1490–1555), which no authority corroborates.
-- Whether "Hans Kilian (1516–1583)" is an Augsburg progenitor or a conflation
-  with the Neuburg/Passau printer.
+- ⚠⚠ **Two irreconcilable paternal lines.** The *Documented Family Tree* plate
+  gives a completely different Kouns ancestry, with different dates for Nick's
+  father. **Donald Ray Kouns's death certificate settles it.**
+  See [family/paternal-kouns-line.md](family/paternal-kouns-line.md).
+- ⚠ **The closing chapter of the *Passio minor*.** This archive's text is not an
+  abridgement of the genuine c. 15 — it is a different sentence, missing Boniface,
+  "first bishop", and the royal title that carries the dating evidence.
+  **Read p. 728 of Levison in dMGH.** See
+  [texts/passio-minor/apparatus.md](texts/passio-minor/apparatus.md) n. 8.
+- The dating of the *Passio minor*: c. 752, c. 788, c. 840, or the repertory's
+  750–850 — and the lead that the text may be **modelled on Arbeo's *Vita
+  Corbiniani***, which would constrain it better than the royal title does.
+- **Georg Christoph Kilian's family chronicle** in the Staats- und Stadtbibliothek
+  Augsburg, which has no known shelfmark and has never been read for this project.
+  The family wrote its own archive once already.
 - George W. Kouns (1863–1939), where same-name confusion is already visible.
 
-These are listed with their next archival steps in
-[family/open-questions.md](family/open-questions.md) and
-[texts/passio-minor/verification-queue.md](texts/passio-minor/verification-queue.md).
+**Closed in October 2026:** Levison's page range (both figures were right);
+Emmerich's page range (confirmed); the earliest witness (Vienna ÖNB 552);
+"St Clegwallabog Killian" (fiction); "Hans Kilian 1516" (a conflation of two
+other men).
+
+Queues: [family/open-questions.md](family/open-questions.md),
+[texts/passio-minor/verification-queue.md](texts/passio-minor/verification-queue.md),
+and [scholarship/web-survey-2026-10.md](scholarship/web-survey-2026-10.md).
 
 ## Conventions
 

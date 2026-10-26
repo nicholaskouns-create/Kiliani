@@ -108,15 +108,27 @@ through children, a sceptic's blindness, a rustic guide and a healing. The
 The weld between martyr cult and the founding of the bishopric, and the clearest
 statement of why these texts mattered politically.
 
-## De translatione per Burchardum **[minor + maior]**
+## De translatione per Burchardum **[minor — including the Boniface mediation]**
 
 | Latin | English |
 |---|---|
 | Postea vero, cum Burchardus episcopus Wirziburgensis, praecepto et consilio Zachariae papae et Pippini regis, *mediante sancto archiepiscopo Bonifatio*, corpora sanctorum martyrum cum omni honore *de loco indigno* transtulisset, ea in ecclesia beatae Mariae in monte collocavit. Ibi cum reverentia condita sunt. Ex illo tempore martyres per multa miracula et sanitates claruerunt. *Caeci visum, claudi gressum receperunt, et omnes qui fide ad eorum tumulum accesserunt, remedia quae petierunt obtinuerunt.* | Afterward, when Burchard, bishop of Würzburg, by the command and counsel of Pope Zacharias and King Pippin, *and with the mediation of the holy archbishop Boniface*, had translated the bodies of the holy martyrs with all honour *from their unworthy resting place*, he placed them in the church of blessed Mary on the hill. There they were enshrined with reverence. From that time the martyrs became renowned through many miracles and healings. *The blind received sight, the lame walked, and all who came in faith to their tomb obtained the remedies they sought.* |
 
-Note the bare *Pippini regis* again, with no royal title — the same abridgement
+Two notes here, and the second is a reversal.
+
+**The bare *Pippini regis* appears again**, with no royal title — the same defect
 that removed Levison's dating evidence from the *minor*. See
 [../passio-minor/apparatus.md](../passio-minor/apparatus.md) n. 8.
+
+**But *mediante sancto archiepiscopo Bonifatio* is not a *maior* addition.** The
+genuine closing chapter of the *minor* reads *mediante Bonifatio archiepiscopo*.
+This archive previously marked the Boniface mediation as material the *maior*
+adds; that was wrong, and it is corrected here.
+
+The consequence is worth stating plainly: on this one clause the **modern
+conflation preserves the medieval *minor* better than this archive's own text of
+the *minor* does**, because the archive's closing sentence drops Boniface
+altogether. A conflated text can still carry a true reading its source lost.
 
 ## Conclusio **[modern]**
 

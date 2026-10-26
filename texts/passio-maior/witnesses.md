@@ -1,15 +1,17 @@
 # Passio maior — manuscript witnesses
 
-Approximately **forty** manuscripts or references at that scale. None has been
+**The counts differ by source:** Levison counted c. **40**; *Geschichtsquellen* gives shelfmarks for **33**; the IRHT *Légendiers latins* database lists **28**. None has been
 inspected for this archive. The four below are the ones the current repertory
 treats as especially important.
 
 | Repository and shelfmark | Date | Pages | Note |
 |---|---|---|---|
-| **Dublin, National Library of Ireland, 19375** | s. X | pp. 17–41 | May be **Stephen of Novara's autograph** |
-| **Karlsruhe, Cod. Aug. perg. 84** | s. X | — | Reichenau |
-| **Munich, BSB, Clm 18955** | s. XI | — | Tegernsee |
-| **Vatican City, BAV, Vat. lat. 8565** | s. XI–XII | pp. 366–375 | Associated with Malmedy |
+| **Dublin, National Library of Ireland, 19375** | s. x | pp. 17–41 | ⭐ **perhaps Stephen of Novara's autograph** |
+| **Karlsruhe, BLB, Aug. perg. 84** | s. x | f. 76r–83r | Reichenau |
+| **München, BSB, Clm 18955** | s. xi | — | Tegernsee |
+| **Vatican City, BAV, Vat. lat. 8565** | s. xi/xii | pp. 366–375 | Malmedy |
+| **Wien, ÖNB, Cod. 577** | s. xii | — | Niederaltaich |
+| **Würzburg, UB, M.p.th.f.m. 10** | — | — | ⚠ **burned in the Second World War** |
 
 ## On the Vatican manuscript
 
@@ -33,3 +35,33 @@ If the attribution to Stephen holds, NLI 19375 may be the author's own copy. Tha
 makes it the single most consequential witness in the dossier and the obvious
 first target for any serious codicological pass — and it is in Dublin, which is
 a pleasing symmetry for a text about an Irishman at Würzburg.
+
+
+## Short versions
+
+The *maior* generated numerous abbreviated recensions:
+
+- **Wien, Cod. Ser. n. 35754**, in the **Kreuzenstein legendary**
+  (Jaroschka–Wendehorst, *MIÖG* 65, 1957, no. 127)
+- Further unrecorded versions noted by **H. Fros**, "Inédits non recensés dans la
+  BHL", *Analecta Bollandiana* 102 (1984), 355
+- **Three manuscripts of the Great Austrian Legendary**
+
+## Structure
+
+The *maior* has **23 chapters**; the *minor* has **15**. **[B, Thornborough]**
+
+## What the Dublin manuscript actually contains
+
+Not the *Passio maior* alone: **[B]**
+
+| Pages | Contents |
+|---|---|
+| 1–13 | *Vita antiquior Burchardi* |
+| 13–16 | An All Saints sermon |
+| **17–41** | ***Passio maior*** |
+
+**Hartmut Hoffmann's argument for shared authorship rests on this manuscript** —
+the same hand, or the same circle, producing both the older Burchard life and the
+younger Kilian passion. If NLI 19375 is Stephen's autograph, it is the single
+most consequential witness in the whole dossier.

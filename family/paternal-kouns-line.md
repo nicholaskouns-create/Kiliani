@@ -73,6 +73,65 @@ Christian → George → Edgar sequence stays provisional. Work outward from Edg
 census households, probate and cemetery records in Greenup, Boyd, Lawrence and
 neighbouring counties.
 
+## ⚠⚠ A second, incompatible paternal line
+
+The plate [documented-family-tree-alternate-paternal.jpg](plates/documented-family-tree-alternate-paternal.jpg),
+titled *Nicholas Shane Kouns — Documented Family Tree*, gives a **completely
+different paternal line** from every other plate in this archive. Not a variant
+reading — a different set of people.
+
+| # | Person | Dates | Spouse |
+|---|---|---|---|
+| 1 | **Johann Conrad Cuntze** | 1710–1780 | Anna Maria (c. 1715–1787) |
+| 2 | **Johann Phillip Kuntz** | 1741–1824 | Anna Catharina (1745–1815) |
+| 3 | **George Kuntz** | 1775–1858 | Eva Barbara Ficke (1780–1826) |
+| 4 | **Frederick August Koontz** | 1807–1881 | Maria Barbara Weller (1810–1893) |
+| 5 | **Christian Koontz** | 1840–1917 | Mary Ann Lepley (1843–1918) |
+| 6 | **Albert Franklin Koontz** | 1871–1940 | Cora Lee Bachtel (1873–1953) |
+| 7 | **Raymond Earl Koontz** | 1900–1985 | Pauline Lucille Cook (1904–1983) |
+| 8 | **Donald Ray Kouns** | **1935–2011** | Anna Rose Killion Broadus |
+
+### The two lines cannot both be right
+
+| | Other plates | *Documented Family Tree* |
+|---|---|---|
+| Earliest ancestor | Henchin Cuntze, c. 1500 | Johann Conrad Cuntze, 1710 |
+| The 1714 Germanna migrant | **Joseph Jost Cuntze, 1674–1731** | **absent entirely** |
+| Generation before Donald Ray | **Edgar Kouns, 1902–1967** | **Raymond Earl Koontz, 1900–1985** |
+| **Donald Ray Kouns** | **1932–2003** | **1935–2011** |
+
+**Nothing overlaps between the two reconstructions except the surname and the
+endpoint.** The *Documented* plate has no Joseph Jost, no Georg Heinrich, no
+Balthasar, no John Lamp, no George W. — and it gives Nick's father three
+different years and a different father of his own.
+
+### Why this is the most important open question in the family archive
+
+Every other problem here is a date to confirm or a generation to bridge. This one
+is a **fork**: two mutually exclusive accounts of the same man's ancestry, both
+circulating in the archive under confident titles, one of them labelled
+*Documented*.
+
+**The discriminating record is Donald Ray Kouns's death certificate.** It will
+name his father. That single document eliminates one of the two lines entirely.
+
+Secondary discriminators: his obituary; Social Security records; the 1940 census
+household he appears in as a child.
+
+**Until that is done, neither line should be presented as the paternal
+genealogy.** This archive takes no position between them.
+
+### A note on the surnames
+
+Koontz and Kouns are both in the Cuntze/Kuntze variant family — see the variant
+list below — so the two lines are not distinguishable by surname alone. A
+Pennsylvania-German **Koontz** line (Lepley, Bachtel, Weller, Ficke are all
+Pennsylvania-German names) and a Virginia **Germanna Kouns** line are two
+different migration streams that both produce the modern spelling.
+
+That is probably the shape of the error: **two real families, one surname, merged
+at the endpoint.**
+
 ## Name variants
 
 Cuntze · Kuntze · Kuntz · Kunz · Koontz · Coons · Counts · Coontz · Kouns

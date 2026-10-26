@@ -55,7 +55,11 @@ Used identically everywhere in this directory.
 | File | Holds |
 |---|---|
 | [maternal-killion-line.md](maternal-killion-line.md) | Killion / Kilian, generation by generation, graded |
-| [paternal-kouns-line.md](paternal-kouns-line.md) | Cuntze / Kuntze / Kouns, generation by generation, graded |
+| [reynolds-hill-branch.md](reynolds-hill-branch.md) | ⭐ The Kentucky generations — Reynolds, Hill, Killion. The best-evidenced stretch |
+| [paternal-kouns-line.md](paternal-kouns-line.md) | Cuntze / Kuntze / Kouns — and ⚠⚠ **two irreconcilable versions of it** |
+| [surname.md](surname.md) | The name's origins, distribution and bearers worldwide. **Polygenetic** |
+| [irish-leads.md](irish-leads.md) | The five Irish leads, with three corrections and a record set for each |
+| [plates/](plates/) | The family's own charts, kept as issued, with their errors listed |
 | [augsburg-artistic-corpus.md](augsburg-artistic-corpus.md) | The engravings, maps and portraits, with accession numbers |
 | [discrepancies.md](discrepancies.md) | Where the archive's own documents contradict each other |
 | [open-questions.md](open-questions.md) | The prioritised archival checklist |

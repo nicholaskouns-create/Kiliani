@@ -68,21 +68,90 @@ dedicated doctorate in the accessible international corpus.
   dissertation**. His honorary theological doctorate the same year was not earned
   through the Kilian study.
 
-## Monographs and studies
+## Monographs and studies — full citations
 
-- **Joachim Dienemann**, *Der Kult des heiligen Kilian im 8. und 9. Jahrhundert*
-  (Würzburg, 1955).
-- **Hans-Werner Goetz** — on the *vitae*.
-- **Johannes Petersohn** — on the date and political terminology of the *maior*.
-- **Hartmut Hoffmann** — on Stephen of Novara and the Burchard tradition.
-- **Theodor Ruf** — on Kilian and the early diocese.
-- **Dorothea Klein** — on the literary rehistoricisation of the saint's life.
+- **Joachim Dienemann**, *Der Kult des heiligen Kilian im 8. und 9. Jahrhundert*,
+  Quellen und Forschungen zur Geschichte des Bistums und Hochstifts Würzburg 10
+  (Würzburg, 1955), 111–192.
+- **Hans-Werner Goetz**, "Die Viten des heiligen Kilian", in J. Erichsen (ed.),
+  *Kilian. Mönch aus Irland, aller Franken Patron. Aufsätze* (München, 1989),
+  287–289.
+- **Johannes Petersohn**:
+  - "Zur geographisch-politischen Terminologie und Datierung der Passio maior
+    sancti Kiliani", *Jahrbuch für fränkische Landesforschung* 52 (1992), 25–34.
+  - "La *Passio maior sancti Kiliani* e i *Franci Teutonici*", in P. Golinelli
+    (ed.), *Il pubblico dei santi* (Roma, 2000), 53–64.
+  - "Die Kilians- und Burkardsviten des frühen und hohen Mittelalters",
+    *Würzburger Diözesangeschichtsblätter* 70 (2008), 13–44.
+- **Hartmut Hoffmann**, "Die ältere Burchardvita, die jüngere Kilianspassio und
+  Stephan von Novara", *Deutsches Archiv* 62 (2006), 485–503.
+- **Theodor Ruf**:
+  - "Kilian und die Frühzeit des Bistums Würzburg (686–803)", *Mainfränkisches
+    Jahrbuch* 72 (2020), 13–93. **Post-2015.**
+  - "Die Reliquien der Heiligen Kilian, Kolonat und Totnan", *Mainfränkisches
+    Jahrbuch* 73 (2021), 171–195. **Post-2015.** The authority on the relics; not
+    yet read directly for this archive.
+- **Dorothea Klein**, "*Kiliani famina densare*. Literarisierung und
+  Rehistorisierung eines Heiligenlebens", *Jahrbuch der Oswald von
+  Wolkenstein-Gesellschaft* 23 (2022), 240–261. **Post-2015.**
 - **A. Bigelmair**, *Die Gründung des Bistums Würzburg*, *Würzburger
   Diözesangeschichtsblätter* 2 (1934).
 - *Herbipolis Jubilans: 1200 Jahre Bistum Würzburg* (1952).
 
+### Further studies
+
+- **S. Riezler**, *Neues Archiv* 28 (1903), 232–234.
+- **A. Mentz**, on the Tironian notes in the Kilian Gospels, *Archiv für
+  Urkundenforschung* 8 (1923).
+- **A. Wendehorst**, "Kilian", *Fränkische Lebensbilder* 3 (1969), 1–19.
+- **J. G. Mayer** (1992), on Emmeram and Kilian.
+- **K. Schäferdiek**, "Kilian von Würzburg: Gestalt und Gestaltung eines
+  Heiligen", in *Iconologia sacra* (Festschrift Hauck, 1994), 313–340.
+- **Th. Klüppel**, in *Hagiographies* 2 (1996), 177–178.
+- **I. Wood**, *The Missionary Life* (2001), 160–162.
+- **D. Barlava**, MGH SS rer. Germ. 76 (2005), 30–47, on the Burchard vitae.
+- **H. Fros**, "Inédits non recensés dans la BHL", *Analecta Bollandiana* 102
+  (1984), 355 — records further short versions of the *maior*.
+- **Jaroschka–Wendehorst**, *MIÖG* 65 (1957), no. 127 — the Kreuzenstein
+  legendary short version.
+
 The **Petersohn–Hoffmann** line of analysis is what moved the *maior* to the
-mid-tenth-century Würzburg cathedral school and to Stephen of Novara.
+mid-tenth-century Würzburg cathedral school and to Stephen of Novara. Hoffmann's
+argument rests on **Dublin NL 19375**, which carries the *Vita antiquior
+Burchardi* (pp. 1–13), an All Saints sermon (pp. 13–16) and the *Passio maior*
+(pp. 17–41) together.
+
+## The Augsburg family
+
+- **Albert Hämmerle**, *Die Augsburger Künstlerfamilie Kilian* (1922). **The
+  fullest study, and probably the only one to have used Georg Christoph's family
+  chronicle.** Unread for this archive; highest priority.
+- **E. Wengenmayr**, *Lukas Kilian*, Diss. Würzburg (1922).
+- **P. von Stetten** (1779/88).
+- *Allgemeines Lexikon der bildenden Künstler* 20 (1927), 288–305.
+- **Augsburger Stadtlexikon**, ed. R. Biedermann and G. Krämer, 2nd ed., article
+  *Kilian* — the principal reference.
+- **J. Telle**, "Kilian, Ottheinrich und Paracelsus", *Heidelberger Jahrbücher*
+  18 (1974) — on **Hans Kilian the printer**, who is *not* an ancestor of the
+  engravers.
+
+## Later and vernacular tradition
+
+- **Johannes of Lauterbach**, *Vita metrica s. Kiliani* (late medieval). **[A]**
+- **Karl Firsching**, *Die deutschen Bearbeitungen der Kilianslegende unter
+  besonderer Berücksichtigung deutscher Legendarhandschriften des Mittelalters*,
+  QFW 26 (Würzburg, 1973).
+- The *maior* was the basis for "numerous different short versions", including
+  three manuscripts of the **Great Austrian Legendary**.
+
+Liturgical offices, hymns and breviary lessons have not been catalogued.
+**Firsching and Dienemann are the starting points.**
+
+## Onomastics
+
+- **Patrick Woulfe**, *Irish Names and Surnames* (1923) — Ó Cillín, Ó Cilleáin.
+- **Edward MacLysaght**, *More Irish Families* — Killeen, Killian, Killen.
+- **John Grenham**, surname distribution from Griffith's Valuation.
 
 ## Repertories
 
@@ -109,11 +178,19 @@ The homily **receives the devotional core** of the tradition. It does **not**
 pronounce on the authorship or dating of either *Passio*, the historicity of the
 Roman journey, the date 689, or the guilt of Geilana rather than Gozbert.
 
-**No authentic medieval papal canonisation bull for Kilian has been located.**
-That absence is historically coherent: the cult developed centuries before
-centralised papal canonisation became the normal juridical procedure. Claims that
-a named pope canonised Kilian on a precise date should not be used without
-production of an authentic act, register entry or diplomatic edition.
+**No authentic medieval papal canonisation bull for Kilian has been located**,
+and none should be expected. **Formal papal canonisation begins only with Ulrich
+of Augsburg in 993** — some two and a half centuries after Kilian's cult was
+already established. Claims that a named pope canonised Kilian on a precise date
+should not be used without production of an authentic act, register entry or
+diplomatic edition.
+
+⚠ **Correction to an earlier state of this bibliography.** The sentence "Before
+the Anglo-Saxon missionaries, Saint Kilian, an itinerant missionary from
+Ireland…" was attributed here to the official vatican.va text in seven
+languages. It belongs to the **provisional text released through Vatican Radio**.
+The official text names Kilian among the Erfurt patrons but does not carry that
+sentence. See [../cult/worldwide.md](../cult/worldwide.md).
 
 For the distinction between a manuscript held in the Vatican Library and a
 document issued by the Holy See, see

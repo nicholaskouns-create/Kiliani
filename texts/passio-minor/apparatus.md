@@ -73,18 +73,86 @@ marked ⟨…⟩, not filled. Check Levison.
 The plate reads *et, dux in venatione abesset*, which lacks a conjunction.
 **⟨dum⟩** (or *cum*) is supplied. Check Levison.
 
-### n. 8 — *Pippini regis* ⚠
+### n. 8 — *Pippini regis* ⚠⚠ and the closing chapter
 
-This is the crux of the dating question.
+This note has grown. It is now the most serious textual problem in the archive,
+and it is worse than an abridgement.
 
-Levison's date of c. 840 rests on the text calling Pippin **the first king of
-the East Franks** — a title anachronistic for 752, since the East Frankish
-kingdom dates from Louis the German (833). If the plate's bare *Pippini regis*
-abridges a fuller title, **the abridgement has removed the key dating
-evidence**. The full wording must be restored from Levison.
+#### What the genuine closing chapter says
 
-This note is the reason the archive cannot currently adjudicate its own dating
-question. See [README.md](README.md).
+Chapter 15 of the *Passio minor*, at Levison p. 728, reads — recovered verbatim
+through a secondary quotation **[B, secondhand]**:
+
+> *Inlustrante autem Domino merita eorum, cum consilio et praecepto Zachariae
+> papae **mediante Bonifatio archiepiscopo**, a Burchardo **primo
+> Wirziburegensium episcopo** de tumulo honorifice sublevati sunt…*
+
+"The Lord making their merits shine forth, with the counsel and command of Pope
+Zacharias, **through the mediation of Archbishop Boniface**, they were
+honourably raised from the tomb by Burchard, **first bishop of the people of
+Würzburg**…"
+
+Thornborough's thesis supplies the royal formula as a section heading:
+**"Pippino primo orientalium Francorum rege"** — "Pippin, **first king of the
+East Franks**". **[B]**
+
+#### What this archive's text says
+
+> *Postea vero, cum Burchardus episcopus Wirziburgensis, praecepto et consilio
+> Zachariae papae **et Pippini regis**, corpora sanctorum martyrum cum honore
+> transtulisset et in ecclesia beatae Mariae in monte collocasset, miraculis et
+> sanitatibus claruerunt.*
+
+#### The differences, itemised
+
+| Genuine c. 15 | Archive's text |
+|---|---|
+| opens *Inlustrante autem Domino merita eorum* | no such opening |
+| ***mediante Bonifatio archiepiscopo*** | **Boniface is absent** |
+| *a Burchardo **primo Wirziburegensium episcopo*** | *Burchardus episcopus Wirziburgensis* — "first" is gone |
+| *de tumulo honorifice sublevati sunt* — raised from the tomb | *transtulisset … collocasset* — translated and placed |
+| — | adds *in ecclesia beatae Mariae in monte* |
+| **Pippino primo orientalium Francorum rege** | **Pippini regis** |
+
+**This is not an abridgement of the genuine sentence. It is a different
+sentence.** Four substantive elements are missing and two are added.
+
+#### Why it matters
+
+1. **It removes Levison's dating evidence entirely.** The anachronistic title
+   *first king of the East Franks* is the whole basis of the c. 840 dating — the
+   East Frankish kingdom begins with Louis the German in **833**, which is the
+   *terminus post quem*. With the title reduced to *Pippini regis*, nothing in
+   the archive's text bears on the date at all.
+2. **It removes Boniface.** The mediation of Archbishop Boniface is **in the
+   *minor***, not an addition of the *maior*. The archive had it the other way
+   round. See the note in
+   [../passio-maior/modern-conflated-recension-la-en.md](../passio-maior/modern-conflated-recension-la-en.md).
+3. **It removes "first bishop".** *Primus Wirziburegensium episcopus* is the
+   phrase that makes the translation an act of diocesan foundation. Without it
+   the institutional point of the whole chapter is muted.
+
+#### The provenance of the defect
+
+The research behind this note identifies the immediate source. A widely indexed
+"reading text" posted online carries this closing sentence and drops the royal
+title, and it is **the reading text published from this archive** — which says of
+itself that it is "not a critical edition" and has "not yet been collated against
+Levison".
+
+**The disclaimer did its job.** The text declared its own status, a reader
+checked it against the edition, and the defect was found exactly where the text
+said to look. That is the labelling working as designed rather than failing.
+
+What follows is only that the collation is now urgent, and that the published
+page should carry the correction.
+
+#### To settle it
+
+Read **p. 728** in the dMGH viewer or the openMGH TEI download of SS rer. Merov.
+5. The full closing sentence and its *Amen* doxology could not be checked against
+the edition in the research pass behind this note; only the fragment above was
+recovered, and at second hand.
 
 ---
 

@@ -7,13 +7,17 @@ opening for original work in the whole Kilian dossier.
 
 | Editor | Work | Year | Note |
 |---|---|---|---|
-| Laurentius Surius | — | 1573 | **Incomplete** |
-| Serarius | — | 1598 | Republication of Surius |
-| Canisius | *Antiquae lectiones* | 1603 | **First complete printing** |
-| Bollandists | *Acta Sanctorum*, Iulii II | 1721 | |
-| Emmerich | *Der heilige Kilian* | 1896 | **pp. 11–25** — page range confirmed |
+| Surius | vol. 4 | 1573 | 131–135, **incomplete** |
+| Serarius | Würzburg | 1598 | 1–12 |
+| **Canisius** | *Antiquae lectiones* | 1603 | **628–641 — first complete edition** |
+| Ludewig | — | 1713 | 966–969 |
+| Bollandists | *Acta Sanctorum*, Iulii II | 1721 | 614–618; 3rd ed. (1867), 615–619 |
+| Canisius–Basnage | *Thesaurus* | 1725 | 174–179 |
+| Emmerich | *Der heilige Kilian* | 1896 | **11–25 — confirmed** |
 
-German translation: **Bigelmair**.
+**The *maior* has no MGH edition.** That is the gap.
+
+German translation: **Bigelmair** (1952), 4–12. ⚠ The volume is cited as *WDGB* 14/15 (1952) by *Geschichtsquellen* and as 16/17 (1954/55) by Würzburg UB — check in hand.
 
 Compare the *minor*, which has had a modern critical edition since Levison in
 1910. See [../passio-minor/editions.md](../passio-minor/editions.md).

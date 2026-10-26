@@ -5,6 +5,35 @@ Ordered by how much depends on them. Drawn from the prioritised research plan in
 
 ---
 
+## 0. ⚠⚠ Settle which paternal line is real — NEW, outranks everything
+
+Two irreconcilable reconstructions of the Kouns ancestry circulate in this
+archive, with different dates for Donald Ray Kouns himself.
+
+**The discriminating record: Donald Ray Kouns's death certificate**, which names
+his father. Kentucky death certificates are held by the Office of Vital
+Statistics and indexed to 1911.
+
+Secondary: his obituary; Social Security records; the 1940 census household.
+
+One document eliminates one line. Nothing else in this directory is as cheap or
+as decisive. See [paternal-kouns-line.md](paternal-kouns-line.md).
+
+## 0b. Walk two Kentucky cemeteries
+
+The burial notes on the plates name four graves in two cemeteries:
+
+- **Lancaster Cemetery, Lancaster, Ky.** — Alex Killion; Elizabeth "Lizzie" Hill
+  Killion
+- **Wylie Graveyard, near Paint Lick, Madison County, Ky.** — George Thomas Hill;
+  Leanna Reynolds Hill
+- also named: **Salem Christian Church Cemetery, Poosey Ridge, Madison County**
+
+With death certificates from Garrard and Madison counties, several rows in
+[reynolds-hill-branch.md](reynolds-hill-branch.md) move from **likely** to
+**documented** in an afternoon. This is the highest ratio of certainty to effort
+anywhere in the family archive.
+
 ## 1. Resolve the Kilian origin problem ⭐ highest value
 
 **Target repositories:** Stadtarchiv Augsburg; Staats- und Stadtbibliothek
@@ -17,22 +46,28 @@ engraver. **This is the single most important unexamined document for the
 maternal line** — the family already wrote its own archive once, and nobody in
 this project has read it.
 
-**Immediate aim:** test whether "Hans Kilian (1516–1583)" is a real Augsburg
-lineal progenitor or a conflation with the better-documented Hans Kilian, printer
-of Neuburg and Passau, c. 1515?–1595.
+**✅ The immediate aim is already answered.** "Hans Kilian (1516–1583)" is a
+conflation: the printer's birth year welded to Bartholomäus I's *ADB* death year.
+Bartholomäus came from Silesia, which rules out an Augsburg-born father. See
+[maternal-killion-line.md](maternal-killion-line.md).
+
+**The remaining aim is positive, not negative:** what genealogy does the family's
+own chronicle actually record for its origins? And **read Albert Hämmerle, *Die
+Augsburger Künstlerfamilie Kilian* (1922)**, which is probably the only study to
+have used it.
 
 **Search terms:** Kilian · Killian · Hans Kilian · Bartholomäus Kilian ·
 Goldschmied · Bürgerbuch · Meisterbuch · Testament
 
-## 2. Prove or disprove "St Clegwallabog Killian"
+## ✅ 2. "St Clegwallabog Killian" — DONE. It is fiction.
 
-The most fragile name on either plate. Search the exact form, then phonetic and
-orthographic neighbours in German and Latin saint lists and in private
-genealogical deposits.
+No such saint exists in the *BHL*, any martyrology, the Bollandist indexes or any
+Augsburg reference. The string appears only in FamilySearch, Geni, Ancestry member
+content and a **Wikidata snippet that merged the record of the seventh-century
+saint into a placeholder person** — which is where the "Saint" came from.
 
-**If no authoritative saint, parish, guild or civic source emerges, downgrade from
-"ancestor" to "family tradition or unsupported insertion."** Control sources: the
-Würzburg saint materials and the documented Augsburg Kilian references.
+**Disposition: remove from the lineage.** Full verdict in
+[maternal-killion-line.md](maternal-killion-line.md).
 
 ## 3. Close the generation 6–7 gap
 
@@ -56,6 +91,9 @@ admissions for Johannes / Jost and brothers.
 
 **Search all variants:** Cuntze · Kuntze · Kuntz · Koontz · Coons · Counts ·
 Kouns · Kunz · Coontz
+
+⚠ **But do item 0 first.** If the *Documented Family Tree* line is the real one,
+the Niederndorf research is the wrong family.
 
 ## 5. Tighten the Germanna-to-frontier chain
 
@@ -82,6 +120,10 @@ or death register entry for Alex J. Killion — which also settles
 
 **Search variants:** Kilian · Killian · Killion, and phonetic neighbours where
 handwriting is poor.
+
+The Irish end of this is now scoped separately in
+[irish-leads.md](irish-leads.md), with three corrections to how the plate
+transmits the leads.
 
 ## 7. Resolve George W. Kouns (1863–1939)
 
