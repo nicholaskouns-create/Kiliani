@@ -1,4 +1,4 @@
-# Sancti Kiliani
+# Kiliani
 
 A critical dossier of the two medieval *Passiones* of St Kilian of Würzburg, the
 history of their transmission, and the Killion–Kouns family archive that grew up
