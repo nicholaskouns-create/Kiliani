@@ -9,6 +9,7 @@
 | [witnesses.md](witnesses.md) | Manuscripts, and the unresolved question of which is earliest |
 | [editions.md](editions.md) | Levison, *Acta Sanctorum*, Mabillon, Canisius, Emmerich |
 | [verification-queue.md](verification-queue.md) | What is still unchecked |
+| [collation/](collation/) | Emmerich's apparatus as data — 251 entries, 361 readings, 7 witnesses |
 
 ---
 

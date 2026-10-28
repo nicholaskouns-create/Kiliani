@@ -1,0 +1,5851 @@
+[
+  {
+    "variant_id": "PMK-3-1-0",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "1",
+    "verbatim": "1 nomine Killena M¹",
+    "reading": "nomine Killena",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-2-1",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "2",
+    "verbatim": "2 scottorum V; scotica M²; scothica P",
+    "reading": "scottorum",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-2-2",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "2",
+    "verbatim": "2 scottorum V; scotica M²; scothica P",
+    "reading": "scotica",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-2-3",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "2",
+    "verbatim": "2 scottorum V; scotica M²; scothica P",
+    "reading": "scothica",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-3-4",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "3",
+    "verbatim": "3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]",
+    "reading": "disceret",
+    "witnesses": [
+      "W",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-3-5",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "3",
+    "verbatim": "3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]",
+    "reading": "didicit",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": "erit II. m.",
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-3-6",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "3",
+    "verbatim": "3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]",
+    "reading": "didicit",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-3-7",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "3",
+    "verbatim": "3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]",
+    "reading": "didicerit",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-3-8",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "3",
+    "verbatim": "3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]",
+    "reading": "didicisset",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": "isset II. m.",
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-4-9",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "4",
+    "verbatim": "4 „iam\" deest VM²AdP",
+    "reading": "„iam\" deest",
+    "witnesses": [
+      "V",
+      "M2",
+      "Ad",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-5-10",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "5",
+    "verbatim": "5 ita SgM²; Kilianus VM¹W; Kylianus AdP",
+    "reading": "ita",
+    "witnesses": [
+      "Sg",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-5-11",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "5",
+    "verbatim": "5 ita SgM²; Kilianus VM¹W; Kylianus AdP",
+    "reading": "Kilianus",
+    "witnesses": [
+      "V",
+      "M1",
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-5-12",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "5",
+    "verbatim": "5 ita SgM²; Kilianus VM¹W; Kylianus AdP",
+    "reading": "Kylianus",
+    "witnesses": [
+      "Ad",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-6-13",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "6",
+    "verbatim": "6 Hic M²",
+    "reading": "Hic",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-7-14",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "7",
+    "verbatim": "7 e = est, a. m. II ad marg. SgM¹; erat ut W; est ut M²; „ut\" deest P",
+    "reading": "e = est, a. m. II ad marg.",
+    "witnesses": [
+      "Sg",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-7-15",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "7",
+    "verbatim": "7 e = est, a. m. II ad marg. SgM¹; erat ut W; est ut M²; „ut\" deest P",
+    "reading": "erat ut",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-7-16",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "7",
+    "verbatim": "7 e = est, a. m. II ad marg. SgM¹; erat ut W; est ut M²; „ut\" deest P",
+    "reading": "est ut",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-7-17",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "7",
+    "verbatim": "7 e = est, a. m. II ad marg. SgM¹; erat ut W; est ut M²; „ut\" deest P",
+    "reading": "„ut\" deest",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-8-18",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "8",
+    "verbatim": "8 operi Ad",
+    "reading": "operi",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-9-19",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "9",
+    "verbatim": "9 „cessa\" in rasura „ret\" II m. M¹ [ret II. m.]; cessabat W; cessaret P",
+    "reading": "„cessa\" in rasura „ret\" II m.",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": "ret II. m.",
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-9-20",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "9",
+    "verbatim": "9 „cessa\" in rasura „ret\" II m. M¹ [ret II. m.]; cessabat W; cessaret P",
+    "reading": "cessabat",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-9-21",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "9",
+    "verbatim": "9 „cessa\" in rasura „ret\" II m. M¹ [ret II. m.]; cessabat W; cessaret P",
+    "reading": "cessaret",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-10-22",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "10",
+    "verbatim": "10 „esset\" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹",
+    "reading": "„esset\" deest",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-10-23",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "10",
+    "verbatim": "10 „esset\" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹",
+    "reading": "admonitus fieret",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-10-24",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "10",
+    "verbatim": "10 „esset\" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹",
+    "reading": "admoneretur",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-10-25",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "10",
+    "verbatim": "10 „esset\" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹",
+    "reading": "moneretur",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-10-26",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "10",
+    "verbatim": "10 „esset\" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹",
+    "reading": "audiret",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-11-27",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "11",
+    "verbatim": "11 Post me venire VM¹W",
+    "reading": "Post me venire",
+    "witnesses": [
+      "V",
+      "M1",
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-12-28",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "12",
+    "verbatim": "12 hoc P",
+    "reading": "hoc",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-13-29",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "13",
+    "verbatim": "13 beatissimus vir secum P",
+    "reading": "beatissimus vir secum",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-14-30",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "14",
+    "verbatim": "14 mentis ac cordis Ad",
+    "reading": "mentis ac cordis",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-15-31",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "15",
+    "verbatim": "15 pertransiens Ad [pertractans m. aequ.]",
+    "reading": "pertransiens",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": "pertractans m. aequ.",
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-16-32",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "16",
+    "verbatim": "16 sociis Sg [con m. aeq.]; „suis\" loco sociis P",
+    "reading": "sociis",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": "con m. aeq.",
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-16-33",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "16",
+    "verbatim": "16 sociis Sg [con m. aeq.]; „suis\" loco sociis P",
+    "reading": "„suis\" loco sociis",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-3-17-34",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 3,
+    "lemma_no": "17",
+    "verbatim": "17 scilicet l. id est P",
+    "reading": "scilicet l. id est",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-1-35",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "1",
+    "verbatim": "1 colonato atque W; colomanno atque P",
+    "reading": "colonato atque",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-1-36",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "1",
+    "verbatim": "1 colonato atque W; colomanno atque P",
+    "reading": "colomanno atque",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-2-37",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "2",
+    "verbatim": "2 „gallo\" in Sg syllaba „ne\" rasura deleta est; gallo Ad",
+    "reading": "„gallo\" in Sg syllaba „ne\" rasura deleta est",
+    "witnesses": [],
+    "marginal_note": null,
+    "type": "scribal_correction",
+    "parsed": false,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-2-38",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "2",
+    "verbatim": "2 „gallo\" in Sg syllaba „ne\" rasura deleta est; gallo Ad",
+    "reading": "gallo",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-3-39",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "3",
+    "verbatim": "3 arnuuale SgM¹AdP; aruuale M²; atque arnuuale V",
+    "reading": "arnuuale",
+    "witnesses": [
+      "Sg",
+      "M1",
+      "Ad",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-3-40",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "3",
+    "verbatim": "3 arnuuale SgM¹AdP; aruuale M²; atque arnuuale V",
+    "reading": "aruuale",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-3-41",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "3",
+    "verbatim": "3 arnuuale SgM¹AdP; aruuale M²; atque arnuuale V",
+    "reading": "atque arnuuale",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-4-42",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "4",
+    "verbatim": "4 thotmanno P",
+    "reading": "thotmanno",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-5-43",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "5",
+    "verbatim": "5 et aliis WM²; aliisque P",
+    "reading": "et aliis",
+    "witnesses": [
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-5-44",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "5",
+    "verbatim": "5 et aliis WM²; aliisque P",
+    "reading": "aliisque",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-6-45",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "6",
+    "verbatim": "6 „illis\" deest WM²",
+    "reading": "„illis\" deest",
+    "witnesses": [
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-7-46",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "7",
+    "verbatim": "7 eis P",
+    "reading": "eis",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-8-47",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "8",
+    "verbatim": "8 contempni Sg; contempnere W; propriam contempnere P; contemnere M²",
+    "reading": "contempni",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-8-48",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "8",
+    "verbatim": "8 contempni Sg; contempnere W; propriam contempnere P; contemnere M²",
+    "reading": "contempnere",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-8-49",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "8",
+    "verbatim": "8 contempni Sg; contempnere W; propriam contempnere P; contemnere M²",
+    "reading": "propriam contempnere",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-8-50",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "8",
+    "verbatim": "8 contempni Sg; contempnere W; propriam contempnere P; contemnere M²",
+    "reading": "contemnere",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-9-51",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "9",
+    "verbatim": "9 patriam parentesque WAdP",
+    "reading": "patriam parentesque",
+    "witnesses": [
+      "W",
+      "Ad",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-10-52",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "10",
+    "verbatim": "10 secundum evangelium domini nudosque Christum sequi Ad",
+    "reading": "secundum evangelium domini nudosque Christum sequi",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-11-53",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "11",
+    "verbatim": "11 namque sacrae statim VP",
+    "reading": "namque sacrae statim",
+    "witnesses": [
+      "V",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-12-54",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "12",
+    "verbatim": "12 ammonitioni Sg",
+    "reading": "ammonitioni",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-13-55",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "13",
+    "verbatim": "13 obtemperantes beati viri M¹",
+    "reading": "obtemperantes beati viri",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-14-56",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "14",
+    "verbatim": "14 australem partem WP; ad australium partium finem Ad",
+    "reading": "australem partem",
+    "witnesses": [
+      "W",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-14-57",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "14",
+    "verbatim": "14 australem partem WP; ad australium partium finem Ad",
+    "reading": "ad australium partium finem",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-15-58",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "15",
+    "verbatim": "15 vocatur SgM¹",
+    "reading": "vocatur",
+    "witnesses": [
+      "Sg",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-16-59",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "16",
+    "verbatim": "16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P",
+    "reading": "uuirziburc",
+    "witnesses": [
+      "Sg",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-16-60",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "16",
+    "verbatim": "16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P",
+    "reading": "uuirziburch",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-16-61",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "16",
+    "verbatim": "16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P",
+    "reading": "uuirziburg",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-16-62",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "16",
+    "verbatim": "16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P",
+    "reading": "wirzipurch",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-16-63",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "16",
+    "verbatim": "16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P",
+    "reading": "uuirzpurch",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-16-64",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "16",
+    "verbatim": "16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P",
+    "reading": "wirzeburg",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-17-65",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "17",
+    "verbatim": "17 aliquot M¹",
+    "reading": "aliquot",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-18-66",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "18",
+    "verbatim": "18 „ibi\" deest P",
+    "reading": "„ibi\" deest",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-19-67",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "19",
+    "verbatim": "19 Gozperto M¹M²",
+    "reading": "Gozperto",
+    "witnesses": [
+      "M1",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-20-68",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "20",
+    "verbatim": "20 hetanis M²; baethenis P",
+    "reading": "hetanis",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-20-69",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "20",
+    "verbatim": "20 hetanis M²; baethenis P",
+    "reading": "baethenis",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-21-70",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "21",
+    "verbatim": "21 „filius\" deest P",
+    "reading": "„filius\" deest",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-22-71",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "22",
+    "verbatim": "22 herodis V; ruodis WP",
+    "reading": "herodis",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-22-72",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "22",
+    "verbatim": "22 herodis V; ruodis WP",
+    "reading": "ruodis",
+    "witnesses": [
+      "W",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-23-73",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "23",
+    "verbatim": "23 „ipse\" deest W",
+    "reading": "„ipse\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-24-74",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "24",
+    "verbatim": "24 plebs sibi subiecta Ad",
+    "reading": "plebs sibi subiecta",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-25-75",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "25",
+    "verbatim": "25 vivebant ritu Ad",
+    "reading": "vivebant ritu",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-26-76",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "26",
+    "verbatim": "26 ydola P",
+    "reading": "ydola",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-27-77",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "27",
+    "verbatim": "27 adque V",
+    "reading": "adque",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-28-78",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "28",
+    "verbatim": "28 non agnoscentes Ad",
+    "reading": "non agnoscentes",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-29-79",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "29",
+    "verbatim": "29 vero l. autem W",
+    "reading": "vero l. autem",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-30-80",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "30",
+    "verbatim": "30 vir sanctissimus P",
+    "reading": "vir sanctissimus",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-31-81",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "31",
+    "verbatim": "31 illic locum Ad",
+    "reading": "illic locum",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-32-82",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "32",
+    "verbatim": "32 pulcherrimum populum ... obsessum WP",
+    "reading": "pulcherrimum populum ... obsessum",
+    "witnesses": [
+      "W",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "transposition_or_lacuna",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-33-83",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "33",
+    "verbatim": "33 ultra quod VM²",
+    "reading": "ultra quod",
+    "witnesses": [
+      "V",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-34-84",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "34",
+    "verbatim": "34 illorum dolebat Ad",
+    "reading": "illorum dolebat",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-35-85",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "35",
+    "verbatim": "35 initque consilium V; et inlit P",
+    "reading": "initque consilium",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-35-86",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "35",
+    "verbatim": "35 initque consilium V; et inlit P",
+    "reading": "et inlit",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-36-87",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "36",
+    "verbatim": "36 elegantem M¹; eligantem M²",
+    "reading": "elegantem",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-36-88",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "36",
+    "verbatim": "36 elegantem M¹; eligantem M²",
+    "reading": "eligantem",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-37-89",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "37",
+    "verbatim": "37 ut W",
+    "reading": "ut",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-38-90",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "38",
+    "verbatim": "38 diximus Ad",
+    "reading": "diximus",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-39-91",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "39",
+    "verbatim": "39 fuimus in regione vel patria nostra WP",
+    "reading": "fuimus in regione vel patria nostra",
+    "witnesses": [
+      "W",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-40-92",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "40",
+    "verbatim": "40 principis WAd; principum apostolorum M²",
+    "reading": "principis",
+    "witnesses": [
+      "W",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-40-93",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "40",
+    "verbatim": "40 principis WAd; principum apostolorum M²",
+    "reading": "principum apostolorum",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-41-94",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "41",
+    "verbatim": "41 ita SgM¹",
+    "reading": "ita",
+    "witnesses": [
+      "Sg",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-42-95",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "42",
+    "verbatim": "42 „papae\" deest V; iohannis WM²",
+    "reading": "„papae\" deest",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-4-42-96",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 4,
+    "lemma_no": "42",
+    "verbatim": "42 „papae\" deest V; iohannis WM²",
+    "reading": "iohannis",
+    "witnesses": [
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-1-97",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "1",
+    "verbatim": "1 consulto P",
+    "reading": "consulto",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-2-98",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "2",
+    "verbatim": "2 revertamus M¹",
+    "reading": "revertamus",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-3-99",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "3",
+    "verbatim": "3 nec W",
+    "reading": "nec",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-4-100",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "4",
+    "verbatim": "4 compleverunt M¹; dicta compleverunt Ad",
+    "reading": "compleverunt",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-4-101",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "4",
+    "verbatim": "4 compleverunt M¹; dicta compleverunt Ad",
+    "reading": "dicta compleverunt",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-5-102",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "5",
+    "verbatim": "5 apostoli, l. principis apostolorum W",
+    "reading": "apostoli, l. principis apostolorum",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-6-103",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "6",
+    "verbatim": "6 illuc M²P; Romam autem Ad",
+    "reading": "illuc",
+    "witnesses": [
+      "M2",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-6-104",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "6",
+    "verbatim": "6 illuc M²P; Romam autem Ad",
+    "reading": "Romam autem",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-7-105",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "7",
+    "verbatim": "7 „iohannem\" deest VWM²; et apostolicum invenientes P",
+    "reading": "„iohannem\" deest",
+    "witnesses": [
+      "V",
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-7-106",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "7",
+    "verbatim": "7 „iohannem\" deest VWM²; et apostolicum invenientes P",
+    "reading": "et apostolicum invenientes",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-8-107",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "8",
+    "verbatim": "8 quoniam iam defunctus erat W; iohannem, qui defunctus erat, non invenientes Ad; defunctus est iohannes papa P",
+    "reading": "quoniam iam defunctus erat",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-8-108",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "8",
+    "verbatim": "8 quoniam iam defunctus erat W; iohannem, qui defunctus erat, non invenientes Ad; defunctus est iohannes papa P",
+    "reading": "iohannem, qui defunctus erat, non invenientes",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-8-109",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "8",
+    "verbatim": "8 quoniam iam defunctus erat W; iohannem, qui defunctus erat, non invenientes Ad; defunctus est iohannes papa P",
+    "reading": "defunctus est iohannes papa",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-9-110",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "9",
+    "verbatim": "9 canone Sg [o II. m.]; castore Ad",
+    "reading": "canone",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": "o II. m.",
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-9-111",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "9",
+    "verbatim": "9 canone Sg [o II. m.]; castore Ad",
+    "reading": "castore",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-10-112",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "10",
+    "verbatim": "10 Kyllena AdP; „praedictus Dei pontifex Kilianus\" deest W",
+    "reading": "Kyllena",
+    "witnesses": [
+      "Ad",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-10-113",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "10",
+    "verbatim": "10 Kyllena AdP; „praedictus Dei pontifex Kilianus\" deest W",
+    "reading": "„praedictus Dei pontifex Kilianus\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-11-114",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "11",
+    "verbatim": "11 atque W",
+    "reading": "atque",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-12-115",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "12",
+    "verbatim": "12 in margine: temporibus iustiniani imperatoris primi Sg [e II. m.]",
+    "reading": "in margine: temporibus iustiniani imperatoris primi",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": "e II. m.",
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-13-116",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "13",
+    "verbatim": "13 canon Sg",
+    "reading": "canon",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-14-117",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "14",
+    "verbatim": "14 audiret W",
+    "reading": "audiret",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-15-118",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "15",
+    "verbatim": "15 „et ad quod venerat\" deest P",
+    "reading": "„et ad quod venerat\" deest",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-16-119",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "16",
+    "verbatim": "16 „ad quem\" deest M²",
+    "reading": "„ad quem\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-17-120",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "17",
+    "verbatim": "17 „exinde\" deest V; inde Ad",
+    "reading": "„exinde\" deest",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-17-121",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "17",
+    "verbatim": "17 „exinde\" deest V; inde Ad",
+    "reading": "inde",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-18-122",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "18",
+    "verbatim": "18 erat WAd",
+    "reading": "erat",
+    "witnesses": [
+      "W",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-19-123",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "19",
+    "verbatim": "19 „pariter\" deest W",
+    "reading": "„pariter\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-20-124",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "20",
+    "verbatim": "20 atque W",
+    "reading": "atque",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-21-125",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "21",
+    "verbatim": "21 „a\" deest Sg",
+    "reading": "„a\" deest",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-22-126",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "22",
+    "verbatim": "22 „principe apostolorum\" deest WM²",
+    "reading": "„principe apostolorum\" deest",
+    "witnesses": [
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-23-127",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "23",
+    "verbatim": "23 „et quoscunque faceret\" deest W",
+    "reading": "„et quoscunque faceret\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-24-128",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "24",
+    "verbatim": "24 posset Ad",
+    "reading": "posset",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-25-129",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "25",
+    "verbatim": "25 adque V",
+    "reading": "adque",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-26-130",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "26",
+    "verbatim": "26 „namque\" deest M²",
+    "reading": "„namque\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-27-131",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "27",
+    "verbatim": "27 inde Ad",
+    "reading": "inde",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-28-132",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "28",
+    "verbatim": "28 „in\" deest M²; „in itinere - et venerunt\" deest W",
+    "reading": "„in\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-28-133",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "28",
+    "verbatim": "28 „in\" deest M²; „in itinere - et venerunt\" deest W",
+    "reading": "„in itinere - et venerunt\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-29-134",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "29",
+    "verbatim": "29 tantum M²P; corporaliter non tamen Ad",
+    "reading": "tantum",
+    "witnesses": [
+      "M2",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-29-135",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "29",
+    "verbatim": "29 tantum M²P; corporaliter non tamen Ad",
+    "reading": "corporaliter non tamen",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-30-136",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "30",
+    "verbatim": "30 adhaerebant autem Ad",
+    "reading": "adhaerebant autem",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-31-137",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "31",
+    "verbatim": "31 Chiliano SgM¹; Kiliano M²; Kyliano P",
+    "reading": "Chiliano",
+    "witnesses": [
+      "Sg",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-31-138",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "31",
+    "verbatim": "31 Chiliano SgM¹; Kiliano M²; Kyliano P",
+    "reading": "Kiliano",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-31-139",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "31",
+    "verbatim": "31 Chiliano SgM¹; Kiliano M²; Kyliano P",
+    "reading": "Kyliano",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-32-140",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "32",
+    "verbatim": "32 presbiter M¹",
+    "reading": "presbiter",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-33-141",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "33",
+    "verbatim": "33 dyaconus P",
+    "reading": "dyaconus",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-34-142",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "34",
+    "verbatim": "34 in australem partem francorum WP",
+    "reading": "in australem partem francorum",
+    "witnesses": [
+      "W",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-35-143",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "35",
+    "verbatim": "35 nominatur W",
+    "reading": "nominatur",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-36-144",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "36",
+    "verbatim": "36 praedicabant Ad",
+    "reading": "praedicabant",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-37-145",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "37",
+    "verbatim": "37 imprimitis Sg; primitus WP",
+    "reading": "imprimitis",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-37-146",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "37",
+    "verbatim": "37 imprimitis Sg; primitus WP",
+    "reading": "primitus",
+    "witnesses": [
+      "W",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-38-147",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "38",
+    "verbatim": "38 Dei WAd",
+    "reading": "Dei",
+    "witnesses": [
+      "W",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-39-148",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "39",
+    "verbatim": "39 cum que l. cum autem M²",
+    "reading": "cum que l. cum autem",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-40-149",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "40",
+    "verbatim": "40 „essent\" VW; rasura parva praecedit, fortasse syllaba „ad\" scripta erat",
+    "reading": "„essent\"",
+    "witnesses": [
+      "V",
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-5-40-150",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 5,
+    "lemma_no": "40",
+    "verbatim": "40 „essent\" VW; rasura parva praecedit, fortasse syllaba „ad\" scripta erat",
+    "reading": "rasura parva praecedit, fortasse syllaba „ad\" scripta erat",
+    "witnesses": [],
+    "marginal_note": null,
+    "type": "scribal_correction",
+    "parsed": false,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-1-151",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "1",
+    "verbatim": "1 invicem (sine in) M²P",
+    "reading": "invicem (sine in)",
+    "witnesses": [
+      "M2",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-2-152",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "2",
+    "verbatim": "2 „et confabularentur\" et a „in invicem - gozbertus\" deest W; confabulati sunt Ad",
+    "reading": "„et confabularentur\" et a „in invicem - gozbertus\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-2-153",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "2",
+    "verbatim": "2 „et confabularentur\" et a „in invicem - gozbertus\" deest W; confabulati sunt Ad",
+    "reading": "confabulati sunt",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-3-154",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "3",
+    "verbatim": "3 ita: SgVWM¹M²",
+    "reading": "ita:",
+    "witnesses": [
+      "Sg",
+      "V",
+      "W",
+      "M1",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-4-155",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "4",
+    "verbatim": "4 non post longum tempus W; non post multum tempus Ad",
+    "reading": "non post longum tempus",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-4-156",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "4",
+    "verbatim": "4 non post longum tempus W; non post multum tempus Ad",
+    "reading": "non post multum tempus",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-5-157",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "5",
+    "verbatim": "5 eum W; illi AdP",
+    "reading": "eum",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-5-158",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "5",
+    "verbatim": "5 eum W; illi AdP",
+    "reading": "illi",
+    "witnesses": [
+      "Ad",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-6-159",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "6",
+    "verbatim": "6 „devotus Domini pontifex Kilianus\" deest W; prefatus episcopus Ad",
+    "reading": "„devotus Domini pontifex Kilianus\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-6-160",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "6",
+    "verbatim": "6 „devotus Domini pontifex Kilianus\" deest W; prefatus episcopus Ad",
+    "reading": "prefatus episcopus",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-7-161",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "7",
+    "verbatim": "7 fieri Christianus P",
+    "reading": "fieri Christianus",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-8-162",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "8",
+    "verbatim": "8 acquiescens M²Ad",
+    "reading": "acquiescens",
+    "witnesses": [
+      "M2",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-9-163",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "9",
+    "verbatim": "9 est et P",
+    "reading": "est et",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-10-164",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "10",
+    "verbatim": "10 potestate illius Ad",
+    "reading": "potestate illius",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-11-165",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "11",
+    "verbatim": "11 erat AdP",
+    "reading": "erat",
+    "witnesses": [
+      "Ad",
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-12-166",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "12",
+    "verbatim": "12 deest „dux\" Ad",
+    "reading": "deest „dux\"",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-13-167",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "13",
+    "verbatim": "13 maherimonia M²; cf. Bull. II. Jul. f. 614. ann. h. M²",
+    "reading": "maherimonia",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-13-168",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "13",
+    "verbatim": "13 maherimonia M²; cf. Bull. II. Jul. f. 614. ann. h. M²",
+    "reading": "cf. Bull. II. Jul. f. 614. ann. h.",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-14-169",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "14",
+    "verbatim": "14 consuetudo erat WAd; consuetudo fuit M²",
+    "reading": "consuetudo erat",
+    "witnesses": [
+      "W",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-14-170",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "14",
+    "verbatim": "14 consuetudo erat WAd; consuetudo fuit M²",
+    "reading": "consuetudo fuit",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-15-171",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "15",
+    "verbatim": "15 sapienter facit W; „semper\" et „sapienter\" deest M²; „sicut sapiens\" deest P",
+    "reading": "sapienter facit",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-15-172",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "15",
+    "verbatim": "15 sapienter facit W; „semper\" et „sapienter\" deest M²; „sicut sapiens\" deest P",
+    "reading": "„semper\" et „sapienter\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-15-173",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "15",
+    "verbatim": "15 sapienter facit W; „semper\" et „sapienter\" deest M²; „sicut sapiens\" deest P",
+    "reading": "„sicut sapiens\" deest",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-16-174",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "16",
+    "verbatim": "16 eam illi W",
+    "reading": "eam illi",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-17-175",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "17",
+    "verbatim": "17 Christi Ad; „christianitatis\" deest W",
+    "reading": "Christi",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-17-176",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "17",
+    "verbatim": "17 Christi Ad; „christianitatis\" deest W",
+    "reading": "„christianitatis\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-18-177",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "18",
+    "verbatim": "18 eum alloquitur sermonibus W; sermonibus locutus est M²; eum sermonibus alloquitur locutus est Ad",
+    "reading": "eum alloquitur sermonibus",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-18-178",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "18",
+    "verbatim": "18 eum alloquitur sermonibus W; sermonibus locutus est M²; eum sermonibus alloquitur locutus est Ad",
+    "reading": "sermonibus locutus est",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-18-179",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "18",
+    "verbatim": "18 eum alloquitur sermonibus W; sermonibus locutus est M²; eum sermonibus alloquitur locutus est Ad",
+    "reading": "eum sermonibus alloquitur locutus est",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-19-180",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "19",
+    "verbatim": "19 „christianus - factus es\" deest P",
+    "reading": "„christianus - factus es\" deest",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-20-181",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "20",
+    "verbatim": "20 feceris W",
+    "reading": "feceris",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-21-182",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "21",
+    "verbatim": "21 facias oportet et te P",
+    "reading": "facias oportet et te",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-22-183",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "22",
+    "verbatim": "22 non oportet te SgM²",
+    "reading": "non oportet te",
+    "witnesses": [
+      "Sg",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-23-184",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "23",
+    "verbatim": "23 „dicta\" deest Ad; „dixit\" l. ad haec dicta M²",
+    "reading": "„dicta\" deest",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-23-185",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "23",
+    "verbatim": "23 „dicta\" deest Ad; „dixit\" l. ad haec dicta M²",
+    "reading": "„dixit\" l. ad haec dicta",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-24-186",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "24",
+    "verbatim": "24 „Gozbertus\" deest Ad; „dux gozberti\" M¹; „respondit et dixit\" M¹; „quasi\" deest M²",
+    "reading": "„Gozbertus\" deest",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-24-187",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "24",
+    "verbatim": "24 „Gozbertus\" deest Ad; „dux gozberti\" M¹; „respondit et dixit\" M¹; „quasi\" deest M²",
+    "reading": "„dux gozberti\"",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-24-188",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "24",
+    "verbatim": "24 „Gozbertus\" deest Ad; „dux gozberti\" M¹; „respondit et dixit\" M¹; „quasi\" deest M²",
+    "reading": "„respondit et dixit\"",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-24-189",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "24",
+    "verbatim": "24 „Gozbertus\" deest Ad; „dux gozberti\" M¹; „respondit et dixit\" M¹; „quasi\" deest M²",
+    "reading": "„quasi\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-26-190",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "26",
+    "verbatim": "26 „quasi de - dixit\" deest M²; „ait\" l. respondit et dixit W",
+    "reading": "„quasi de - dixit\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-26-191",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "26",
+    "verbatim": "26 „quasi de - dixit\" deest M²; „ait\" l. respondit et dixit W",
+    "reading": "„ait\" l. respondit et dixit",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-27-192",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "27",
+    "verbatim": "27 gozbertus: modo graviora M²",
+    "reading": "gozbertus: modo graviora",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-28-193",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "28",
+    "verbatim": "28 persuades; deest „et praedicas\" W",
+    "reading": "persuades",
+    "witnesses": [],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": false,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-28-194",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "28",
+    "verbatim": "28 persuades; deest „et praedicas\" W",
+    "reading": "deest „et praedicas\"",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-29-195",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "29",
+    "verbatim": "29 pro dei amore; deest „omnipotentis\" M²",
+    "reading": "pro dei amore",
+    "witnesses": [],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": false,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-29-196",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "29",
+    "verbatim": "29 pro dei amore; deest „omnipotentis\" M²",
+    "reading": "deest „omnipotentis\"",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-30-197",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "30",
+    "verbatim": "30 deest „amorem quam .. amorem et\" SgM¹M²",
+    "reading": "deest „amorem quam .. amorem et\"",
+    "witnesses": [
+      "Sg",
+      "M1",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-31-198",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "31",
+    "verbatim": "31 praedicas et praedicasti W",
+    "reading": "praedicas et praedicasti",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-32-199",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "32",
+    "verbatim": "32 et habenda W; fuerunt ad habenda M²",
+    "reading": "et habenda",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-32-200",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "32",
+    "verbatim": "32 et habenda W; fuerunt ad habenda M²",
+    "reading": "fuerunt ad habenda",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-33-201",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "33",
+    "verbatim": "33 deest „et\" Ad",
+    "reading": "deest „et\"",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-34-202",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "34",
+    "verbatim": "34 licet W; habere licitum est Ad",
+    "reading": "licet",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-34-203",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "34",
+    "verbatim": "34 licet W; habere licitum est Ad",
+    "reading": "habere licitum est",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-35-204",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "35",
+    "verbatim": "35 „mihi\" deest V",
+    "reading": "„mihi\" deest",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-6-36-205",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 6,
+    "lemma_no": "36",
+    "verbatim": "36 deest „nihilque am. est\" M²",
+    "reading": "deest „nihilque am. est\"",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-1-206",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "1",
+    "verbatim": "1 regis Ad; „ducis\" deest W",
+    "reading": "regis",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-1-207",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "1",
+    "verbatim": "1 regis Ad; „ducis\" deest W",
+    "reading": "„ducis\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-2-208",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "2",
+    "verbatim": "2 deest: „Cum autem - coronarentur\" P",
+    "reading": "deest: „Cum autem - coronarentur\"",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-3-209",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "3",
+    "verbatim": "3 appropinquaret W",
+    "reading": "appropinquaret",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-4-210",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "4",
+    "verbatim": "4 vacabant se M¹; post „vacabant\" rasura, ut „se\" aut „et\" scriptum fuisse videatur V",
+    "reading": "vacabant se",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-4-211",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "4",
+    "verbatim": "4 vacabant se M¹; post „vacabant\" rasura, ut „se\" aut „et\" scriptum fuisse videatur V",
+    "reading": "post „vacabant\" rasura, ut „se\" aut „et\" scriptum fuisse videatur",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-5-212",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "5",
+    "verbatim": "5 ieiuniis et orationibus unanimiter V",
+    "reading": "ieiuniis et orationibus unanimiter",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-6-213",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "6",
+    "verbatim": "6 expectabant W",
+    "reading": "expectabant",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-7-214",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "7",
+    "verbatim": "7 deest: „diem - optatam\" Ad",
+    "reading": "deest: „diem - optatam\"",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-8-215",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "8",
+    "verbatim": "8 ut ad coronam martyrii pervenirent W",
+    "reading": "ut ad coronam martyrii pervenirent",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-9-216",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "9",
+    "verbatim": "9 die VW; reliqui „nocte\" - 10 voluit P; velut W",
+    "reading": "die",
+    "witnesses": [
+      "V",
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-9-217",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "9",
+    "verbatim": "9 die VW; reliqui „nocte\" - 10 voluit P; velut W",
+    "reading": "reliqui „nocte\" - 10 voluit",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "transposition_or_lacuna",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-9-218",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "9",
+    "verbatim": "9 die VW; reliqui „nocte\" - 10 voluit P; velut W",
+    "reading": "velut",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-11-219",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "11",
+    "verbatim": "11 unianimiter VM¹",
+    "reading": "unianimiter",
+    "witnesses": [
+      "V",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-12-220",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "12",
+    "verbatim": "12 persistebant W",
+    "reading": "persistebant",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-13-221",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "13",
+    "verbatim": "13 addit: quem Geylana corruperat suis illecebris P",
+    "reading": "addit: quem Geylana corruperat suis illecebris",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "addition",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-14-222",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "14",
+    "verbatim": "14 accuto W",
+    "reading": "accuto",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-15-223",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "15",
+    "verbatim": "15 Dei amicos iugulare W; Dei amicos ad iugulandum P",
+    "reading": "Dei amicos iugulare",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-15-224",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "15",
+    "verbatim": "15 Dei amicos iugulare W; Dei amicos ad iugulandum P",
+    "reading": "Dei amicos ad iugulandum",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-16-225",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "16",
+    "verbatim": "16 Gelanae Ad; Geylane P; conplens M¹",
+    "reading": "Gelanae",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-16-226",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "16",
+    "verbatim": "16 Gelanae Ad; Geylane P; conplens M¹",
+    "reading": "Geylane",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-16-227",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "16",
+    "verbatim": "16 Gelanae Ad; Geylane P; conplens M¹",
+    "reading": "conplens",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-17-228",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "17",
+    "verbatim": "17 regis l. ducis Ad",
+    "reading": "regis l. ducis",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-18-229",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "18",
+    "verbatim": "18 „Killena\" deest M²; Kyllena Ad; Kylianus P",
+    "reading": "„Killena\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-18-230",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "18",
+    "verbatim": "18 „Killena\" deest M²; Kyllena Ad; Kylianus P",
+    "reading": "Kyllena",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-18-231",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "18",
+    "verbatim": "18 „Killena\" deest M²; Kyllena Ad; Kylianus P",
+    "reading": "Kylianus",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-19-232",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "19",
+    "verbatim": "19 deest „diu\" Ad; diu optata dies W",
+    "reading": "deest „diu\"",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-19-233",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "19",
+    "verbatim": "19 deest „diu\" Ad; diu optata dies W",
+    "reading": "diu optata dies",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-20-234",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "20",
+    "verbatim": "20 inite mecum M²",
+    "reading": "inite mecum",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-21-235",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "21",
+    "verbatim": "21 et sine W",
+    "reading": "et sine",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-22-236",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "22",
+    "verbatim": "22 deest: „sine trepidatione\" M²",
+    "reading": "deest: „sine trepidatione\"",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-23-237",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "23",
+    "verbatim": "23 vocem Domini M²",
+    "reading": "vocem Domini",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-24-238",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "24",
+    "verbatim": "24 occidunt corpus M²W",
+    "reading": "occidunt corpus",
+    "witnesses": [
+      "M2",
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-25-239",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "25",
+    "verbatim": "25 deest a „capitibus - coronati\"; legitur „decollati sunt\" W",
+    "reading": "deest a „capitibus - coronati\"",
+    "witnesses": [],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": false,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-25-240",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "25",
+    "verbatim": "25 deest a „capitibus - coronati\"; legitur „decollati sunt\" W",
+    "reading": "legitur „decollati sunt\"",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-26-241",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "26",
+    "verbatim": "26 „etenim\" deest M²Ad",
+    "reading": "„etenim\" deest",
+    "witnesses": [
+      "M2",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-27-242",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "27",
+    "verbatim": "27 in eodem loco W; deest: eodem in loco Ad",
+    "reading": "in eodem loco",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-27-243",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "27",
+    "verbatim": "27 in eodem loco W; deest: eodem in loco Ad",
+    "reading": "deest: eodem in loco",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-28-244",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "28",
+    "verbatim": "28 et crux W",
+    "reading": "et crux",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-29-245",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "29",
+    "verbatim": "29 alia simul Ad",
+    "reading": "alia simul",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-30-246",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "30",
+    "verbatim": "30 „quaedam\" deest M²Ad",
+    "reading": "„quaedam\" deest",
+    "witnesses": [
+      "M2",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-31-247",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "31",
+    "verbatim": "31 consuetudo WM²",
+    "reading": "consuetudo",
+    "witnesses": [
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-32-248",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "32",
+    "verbatim": "32 in verno l. et verno W",
+    "reading": "in verno l. et verno",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-33-249",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "33",
+    "verbatim": "33 „temporeque aestivo\" deest W",
+    "reading": "„temporeque aestivo\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-7-34-250",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 7,
+    "lemma_no": "34",
+    "verbatim": "34 quod quando Ad",
+    "reading": "quod quando",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-1-251",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "1",
+    "verbatim": "1 duum M²",
+    "reading": "duum",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-2-252",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "2",
+    "verbatim": "2 fodi W; fodi ras. spatii „ri\" M¹",
+    "reading": "fodi",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-2-253",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "2",
+    "verbatim": "2 fodi W; fodi ras. spatii „ri\" M¹",
+    "reading": "fodi ras. spatii „ri\"",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-3-254",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "3",
+    "verbatim": "3 eruperit W; erumpet M²",
+    "reading": "eruperit",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-3-255",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "3",
+    "verbatim": "3 eruperit W; erumpet M²",
+    "reading": "erumpet",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-4-256",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "4",
+    "verbatim": "4 de sepulchro M²",
+    "reading": "de sepulchro",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-5-257",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "5",
+    "verbatim": "5 sublevare honorem voluit W",
+    "reading": "sublevare honorem voluit",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-6-258",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "6",
+    "verbatim": "6 „unum\" deest Ad; folium librorum Ad",
+    "reading": "„unum\" deest",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-6-259",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "6",
+    "verbatim": "6 „unum\" deest Ad; folium librorum Ad",
+    "reading": "folium librorum",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-7-260",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "7",
+    "verbatim": "7 „ipsorum\" deest W; eorum M²",
+    "reading": "„ipsorum\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-7-261",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "7",
+    "verbatim": "7 „ipsorum\" deest W; eorum M²",
+    "reading": "eorum",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-8-262",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "8",
+    "verbatim": "8 putridine V",
+    "reading": "putridine",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-9-263",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "9",
+    "verbatim": "9 consumptum est VM¹; consumeretur W; consumptum sit M²; consumpta esset Ad",
+    "reading": "consumptum est",
+    "witnesses": [
+      "V",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-9-264",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "9",
+    "verbatim": "9 consumptum est VM¹; consumeretur W; consumptum sit M²; consumpta esset Ad",
+    "reading": "consumeretur",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-9-265",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "9",
+    "verbatim": "9 consumptum est VM¹; consumeretur W; consumptum sit M²; consumpta esset Ad",
+    "reading": "consumptum sit",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-9-266",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "9",
+    "verbatim": "9 consumptum est VM¹; consumeretur W; consumptum sit M²; consumpta esset Ad",
+    "reading": "consumpta esset",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-10-267",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "10",
+    "verbatim": "10 suprascripti V",
+    "reading": "suprascripti",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-11-268",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "11",
+    "verbatim": "11 servi dei essent M²",
+    "reading": "servi dei essent",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-12-269",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "12",
+    "verbatim": "12 neci VM¹",
+    "reading": "neci",
+    "witnesses": [
+      "V",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-13-270",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "13",
+    "verbatim": "13 „erat\" l. tenebatur M²; „eos necaverat\" M¹",
+    "reading": "„erat\" l. tenebatur",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-13-271",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "13",
+    "verbatim": "13 „erat\" l. tenebatur M²; „eos necaverat\" M¹",
+    "reading": "„eos necaverat\"",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-14-272",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "14",
+    "verbatim": "14 hic et illic M¹W; et illuc M²",
+    "reading": "hic et illic",
+    "witnesses": [
+      "M1",
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-14-273",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "14",
+    "verbatim": "14 hic et illic M¹W; et illuc M²",
+    "reading": "et illuc",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-15-274",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "15",
+    "verbatim": "15 infronitious VM¹; Sg. l. „in\" rasura; freneticus WM²Ad",
+    "reading": "infronitious",
+    "witnesses": [
+      "V",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-15-275",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "15",
+    "verbatim": "15 infronitious VM¹; Sg. l. „in\" rasura; freneticus WM²Ad",
+    "reading": "Sg. l. „in\" rasura",
+    "witnesses": [],
+    "marginal_note": null,
+    "type": "scribal_correction",
+    "parsed": false,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-15-276",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "15",
+    "verbatim": "15 infronitious VM¹; Sg. l. „in\" rasura; freneticus WM²Ad",
+    "reading": "freneticus",
+    "witnesses": [
+      "W",
+      "M2",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-16-277",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "16",
+    "verbatim": "16 agebat VM²",
+    "reading": "agebat",
+    "witnesses": [
+      "V",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-17-278",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "17",
+    "verbatim": "17 Kyllena Ad",
+    "reading": "Kyllena",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-18-279",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "18",
+    "verbatim": "18 exurat Sg; ferocissima exurat V; exurat M¹; incendis me W",
+    "reading": "exurat",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-18-280",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "18",
+    "verbatim": "18 exurat Sg; ferocissima exurat V; exurat M¹; incendis me W",
+    "reading": "ferocissima exurat",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-18-281",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "18",
+    "verbatim": "18 exurat Sg; ferocissima exurat V; exurat M¹; incendis me W",
+    "reading": "exurat",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "orthographic",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-18-282",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "18",
+    "verbatim": "18 exurat Sg; ferocissima exurat V; exurat M¹; incendis me W",
+    "reading": "incendis me",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-19-283",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "19",
+    "verbatim": "19 simul cum illo VWM¹",
+    "reading": "simul cum illo",
+    "witnesses": [
+      "V",
+      "W",
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-20-284",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "20",
+    "verbatim": "20 „erat\" deest M²",
+    "reading": "„erat\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-21-285",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "21",
+    "verbatim": "21 sacro baptismate Ad",
+    "reading": "sacro baptismate",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-22-286",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "22",
+    "verbatim": "22 baptizatus W",
+    "reading": "baptizatus",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-23-287",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "23",
+    "verbatim": "23 „eos\" deest M²",
+    "reading": "„eos\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-24-288",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "24",
+    "verbatim": "24 erat enim Ad",
+    "reading": "erat enim",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-25-289",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "25",
+    "verbatim": "25 „uxoris Gozberti\" deest WAd",
+    "reading": "„uxoris Gozberti\" deest",
+    "witnesses": [
+      "W",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-26-290",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "26",
+    "verbatim": "26 „taliter\" deest W",
+    "reading": "„taliter\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-27-291",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "27",
+    "verbatim": "27 inquid VM¹M²",
+    "reading": "inquid",
+    "witnesses": [
+      "V",
+      "M1",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-28-292",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "28",
+    "verbatim": "28 dixit Ad",
+    "reading": "dixit",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-29-293",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "29",
+    "verbatim": "29 et de VM²W",
+    "reading": "et de",
+    "witnesses": [
+      "V",
+      "M2",
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-29b-294",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "29b",
+    "verbatim": "29b „qui simul\" deest M²",
+    "reading": "„qui simul\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-30-295",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "30",
+    "verbatim": "30 suscepimus ab ipsis V",
+    "reading": "suscepimus ab ipsis",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-31-296",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "31",
+    "verbatim": "31 deest „ab illis\" W",
+    "reading": "deest „ab illis\"",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-32-297",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "32",
+    "verbatim": "32 „tam praepotens sit\" deest W; „tam fortis\" deest Ad",
+    "reading": "„tam praepotens sit\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-32-298",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "32",
+    "verbatim": "32 „tam praepotens sit\" deest W; „tam fortis\" deest Ad",
+    "reading": "„tam fortis\" deest",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-33-299",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "33",
+    "verbatim": "33 bona bonis WM²",
+    "reading": "bona bonis",
+    "witnesses": [
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-34-300",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "34",
+    "verbatim": "34 et mala malis „in novissimis - nisi\" deest M²",
+    "reading": "et mala malis „in novissimis - nisi\" deest",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-8-35-301",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 8,
+    "lemma_no": "35",
+    "verbatim": "35 poenitentiam se M²",
+    "reading": "poenitentiam se",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-1-302",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "1",
+    "verbatim": "1 sicut et Sg; sine „et\" VWM²",
+    "reading": "sicut et",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-1-303",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "1",
+    "verbatim": "1 sicut et Sg; sine „et\" VWM²",
+    "reading": "sine „et\"",
+    "witnesses": [
+      "V",
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-2-304",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "2",
+    "verbatim": "2 dixerunt et illi M¹Ad",
+    "reading": "dixerunt et illi",
+    "witnesses": [
+      "M1",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-3-305",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "3",
+    "verbatim": "3 descendit W",
+    "reading": "descendit",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-4-306",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "4",
+    "verbatim": "4 vindicat M² [marg. mauus II.]",
+    "reading": "vindicat",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": "marg. mauus II.",
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-5-307",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "5",
+    "verbatim": "5 „alias\" deest W",
+    "reading": "„alias\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-6-308",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "6",
+    "verbatim": "6 omnes praeter Sg",
+    "reading": "omnes praeter",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-7-309",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "7",
+    "verbatim": "7 patres fecerunt M²",
+    "reading": "patres fecerunt",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-8-310",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "8",
+    "verbatim": "8 in ea M¹",
+    "reading": "in ea",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-9-311",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "9",
+    "verbatim": "9 „in eo\" deest W",
+    "reading": "„in eo\" deest",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-10-312",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "10",
+    "verbatim": "10 usque nunc M²",
+    "reading": "usque nunc",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-11-313",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "11",
+    "verbatim": "11 „autem\" l. quoque W",
+    "reading": "„autem\" l. quoque",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-12-314",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "12",
+    "verbatim": "12 hominis dictum V",
+    "reading": "hominis dictum",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-13-315",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "13",
+    "verbatim": "13 ille, miser WM²",
+    "reading": "ille, miser",
+    "witnesses": [
+      "W",
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-14-316",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "14",
+    "verbatim": "14 de medio Ad",
+    "reading": "de medio",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-15-317",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "15",
+    "verbatim": "15 „vero\" deest M¹",
+    "reading": "„vero\" deest",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-16-318",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "16",
+    "verbatim": "16 fuisset W",
+    "reading": "fuisset",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-17-319",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "17",
+    "verbatim": "17 dentibus laniare W",
+    "reading": "dentibus laniare",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-18-320",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "18",
+    "verbatim": "18 quoadusque W",
+    "reading": "quoadusque",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-19-321",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "19",
+    "verbatim": "19 finiret WAd",
+    "reading": "finiret",
+    "witnesses": [
+      "W",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-20-322",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "20",
+    "verbatim": "20 „praesentem\" deest Ad",
+    "reading": "„praesentem\" deest",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-21-323",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "21",
+    "verbatim": "21 viderant M¹; ergo viderant, sine „cum\" V; audirent l. viderent W",
+    "reading": "viderant",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-21-324",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "21",
+    "verbatim": "21 viderant M¹; ergo viderant, sine „cum\" V; audirent l. viderent W",
+    "reading": "ergo viderant, sine „cum\"",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-21-325",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "21",
+    "verbatim": "21 viderant M¹; ergo viderant, sine „cum\" V; audirent l. viderent W",
+    "reading": "audirent l. viderent",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-22-326",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "22",
+    "verbatim": "22 sacro baptismate Ad",
+    "reading": "sacro baptismate",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-23-327",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "23",
+    "verbatim": "23 fuerunt V",
+    "reading": "fuerunt",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-24-328",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "24",
+    "verbatim": "24 erant Ad",
+    "reading": "erant",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-25-329",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "25",
+    "verbatim": "25 alia laudantes Domino spondebant se velle oboedire W",
+    "reading": "alia laudantes Domino spondebant se velle oboedire",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-26-330",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "26",
+    "verbatim": "26 „clamabant\", manus posterior Sg; doctrinae clamabant M²Ad",
+    "reading": "„clamabant\", manus posterior",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "scribal_correction",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-26-331",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "26",
+    "verbatim": "26 „clamabant\", manus posterior Sg; doctrinae clamabant M²Ad",
+    "reading": "doctrinae clamabant",
+    "witnesses": [
+      "M2",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-27-332",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "27",
+    "verbatim": "27 perfectis V",
+    "reading": "perfectis",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-28-333",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "28",
+    "verbatim": "28 illam M¹M²W",
+    "reading": "illam",
+    "witnesses": [
+      "M1",
+      "M2",
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-29-334",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "29",
+    "verbatim": "29 finivit; P; finiret VM²Ad",
+    "reading": "finivit",
+    "witnesses": [],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": false,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-29-335",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "29",
+    "verbatim": "29 finivit; P; finiret VM²Ad",
+    "reading": "",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-29-336",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "29",
+    "verbatim": "29 finivit; P; finiret VM²Ad",
+    "reading": "finiret",
+    "witnesses": [
+      "V",
+      "M2",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-30-337",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "30",
+    "verbatim": "30 Judicem vero P",
+    "reading": "Judicem vero",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-31-338",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "31",
+    "verbatim": "31 ita in omnibus mmss., sui servi occiderunt W; gladio suo occiderunt servi V",
+    "reading": "ita in omnibus mmss., sui servi occiderunt",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-31-339",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "31",
+    "verbatim": "31 ita in omnibus mmss., sui servi occiderunt W; gladio suo occiderunt servi V",
+    "reading": "gladio suo occiderunt servi",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-32-340",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "32",
+    "verbatim": "32 Hetanium M¹",
+    "reading": "Hetanium",
+    "witnesses": [
+      "M1"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-33-341",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "33",
+    "verbatim": "33 eius filium W",
+    "reading": "eius filium",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-34-342",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "34",
+    "verbatim": "34 populi W",
+    "reading": "populi",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-35-343",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "35",
+    "verbatim": "35 eiecit P",
+    "reading": "eiecit",
+    "witnesses": [
+      "P"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-36-344",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "36",
+    "verbatim": "36 progeniem illius W",
+    "reading": "progeniem illius",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-37-345",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "37",
+    "verbatim": "37 unus quidem de stirpe eius W",
+    "reading": "unus quidem de stirpe eius",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-38-346",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "38",
+    "verbatim": "38 remanebat V",
+    "reading": "remanebat",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-39-347",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "39",
+    "verbatim": "39 in illo loco Ad",
+    "reading": "in illo loco",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-40-348",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "40",
+    "verbatim": "40 requieverant l. sepulta sunt W",
+    "reading": "requieverant l. sepulta sunt",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-41-349",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "41",
+    "verbatim": "41 quodquod autem V",
+    "reading": "quodquod autem",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-42-350",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "42",
+    "verbatim": "42 illo M²",
+    "reading": "illo",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-43-351",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "43",
+    "verbatim": "43 venientes Ad",
+    "reading": "venientes",
+    "witnesses": [
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-9-44-352",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 9,
+    "lemma_no": "44",
+    "verbatim": "44 ergo l. autem M²",
+    "reading": "ergo l. autem",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "alternative_reading",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-10-1-353",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 10,
+    "lemma_no": "1",
+    "verbatim": "1 praecepto et consilio W; „praecepto\" deest V",
+    "reading": "praecepto et consilio",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-10-1-354",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 10,
+    "lemma_no": "1",
+    "verbatim": "1 praecepto et consilio W; „praecepto\" deest V",
+    "reading": "„praecepto\" deest",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-10-2-355",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 10,
+    "lemma_no": "2",
+    "verbatim": "2 Bonifatio W",
+    "reading": "Bonifatio",
+    "witnesses": [
+      "W"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-10-3-356",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 10,
+    "lemma_no": "3",
+    "verbatim": "3 „a Burchardo - episcopo\" deest M²Ad; uuirziburgensium Sg; Wirciburchgensium V",
+    "reading": "„a Burchardo - episcopo\" deest",
+    "witnesses": [
+      "M2",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-10-3-357",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 10,
+    "lemma_no": "3",
+    "verbatim": "3 „a Burchardo - episcopo\" deest M²Ad; uuirziburgensium Sg; Wirciburchgensium V",
+    "reading": "uuirziburgensium",
+    "witnesses": [
+      "Sg"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-10-3-358",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 10,
+    "lemma_no": "3",
+    "verbatim": "3 „a Burchardo - episcopo\" deest M²Ad; uuirziburgensium Sg; Wirciburchgensium V",
+    "reading": "Wirciburchgensium",
+    "witnesses": [
+      "V"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-10-4-359",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 10,
+    "lemma_no": "4",
+    "verbatim": "4 „feliciter\" deest WAd; Per Domin. etc. M²",
+    "reading": "„feliciter\" deest",
+    "witnesses": [
+      "W",
+      "Ad"
+    ],
+    "marginal_note": null,
+    "type": "omission",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  },
+  {
+    "variant_id": "PMK-10-4-360",
+    "work": "Passio minor Kiliani (BHL 4660)",
+    "edition": "Emmerich 1896",
+    "page_printed": 10,
+    "lemma_no": "4",
+    "verbatim": "4 „feliciter\" deest WAd; Per Domin. etc. M²",
+    "reading": "Per Domin. etc.",
+    "witnesses": [
+      "M2"
+    ],
+    "marginal_note": null,
+    "type": "variant",
+    "parsed": true,
+    "source": "plate (rendered 430 dpi), hand-transcribed"
+  }
+]

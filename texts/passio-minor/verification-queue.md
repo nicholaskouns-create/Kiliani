@@ -116,3 +116,70 @@ Kept so the corrections are not silently absorbed. Detail in
 ### 9. Characterise BHL 4660a
 
 - [ ] The *Index scriptorum* cites "BHL 4660-4660a". What is the sub-variant?
+
+---
+
+## New evidence, 28 October 2026 — Emmerich's apparatus as data
+
+Added by Claude (Anthropic) at the request of Nicholas Shane Kouns. **Nothing
+above this line has been altered**, including the items this evidence bears on;
+they are left as written so the record of what was unknown survives.
+
+Emmerich's apparatus criticus, pp. 3–10, is now transcribed from the plates and
+parsed: 251 lemma entries, 361 readings, 7 witnesses, at
+[collation/](collation/).
+
+### Bears on item 1 — the closing chapter
+
+**The chapter is printed in full in Emmerich**, carried across the page break at
+pp. 9–10, with an apparatus. See
+[collation/emmerich-chapter-15.md](collation/emmerich-chapter-15.md).
+
+All four elements this archive records as missing are present: *mediante
+Bonifacio archiepiscopo*; *primo Wirciburgensium episcopo*; *de tumulo honorifice
+sublati sunt*; and **regnante Pippino primo Orientalium Francorum rege** — the
+royal formula Levison's dating rests on, undivided.
+
+Three consequences, and one caution:
+
+- [ ] **Rewrite item 1 rather than ticking it.** What is needed from Levison is
+      no longer *recover the sentence* but *check his readings against
+      Emmerich's*. The two editions differ: *sublati* / *sublevati*, *Bonifacio*
+      / *Bonifatio*, *Wirciburgensium* / *Wirziburegensium*.
+- [ ] **The *Amen* doxology appears to be a witness-level variant.** Emmerich's
+      text ends at *feliciter*; only **M²** carries a doxology, abbreviated *Per
+      Domin. etc.* On his evidence it is lectionary habit, not text. Confirm
+      against Levison.
+- [ ] **M² and Ad omit *a Burchardo — episcopo* entirely.** The clause making the
+      translation an act of diocesan foundation is absent from two witnesses.
+      That is worth a note in its own right.
+- ⚠ **Emmerich is not Levison.** Nothing here may be entered as a Levison
+      reading. The 1910 edition remains the item.
+
+### Bears on item 7 — Emmerich's emendations against manuscript readings
+
+Item 7 reads: *"At present no document in this archive distinguishes them."*
+There is now such a document. `collation/data/variants.json` gives, for every
+lemma Emmerich annotates, what he printed and which manuscript reads what.
+
+- [x] A document now distinguishes printed text from cited manuscript readings.
+- [ ] **The harder half is untouched.** Where Emmerich emends *silently* — printing
+      a form no witness supports and citing nobody — the data cannot see it,
+      because there is no apparatus entry to read. Only autopsy, or Levison's
+      own apparatus, will find those.
+
+### Bears on item 6 — foliation at the repositories
+
+Emmerich's foliation for his seven is recorded in
+[collation/data/witnesses.json](collation/data/witnesses.json), with the `iiif`
+field left `null` throughout rather than guessed.
+
+- [ ] Fill `iiif` for St Gallen 566 (e-codices), Vienna 552 (ÖNB), Clm 4585 and
+      Clm 4332 (BSB). Each one turns a citation into a link to the folio.
+
+### What this does not do
+
+It does not collate a manuscript. Not one was consulted. Every attribution is
+Emmerich's, made in the 1890s, and carries his errors forward.
+[reading-text-la-en.md](reading-text-la-en.md) remains uncollated in exactly the
+sense it states.

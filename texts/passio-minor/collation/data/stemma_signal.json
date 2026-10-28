@@ -1,0 +1,139 @@
+{
+  "citations": {
+    "W": 111,
+    "M2": 82,
+    "Ad": 81,
+    "P": 57,
+    "V": 45,
+    "M1": 41,
+    "Sg": 24
+  },
+  "pairs": [
+    {
+      "pair": "Sg-M1",
+      "agreements": 8,
+      "oppositions": 3,
+      "affinity": 0.727
+    },
+    {
+      "pair": "V-M1",
+      "agreements": 9,
+      "oppositions": 6,
+      "affinity": 0.6
+    },
+    {
+      "pair": "V-M2",
+      "agreements": 9,
+      "oppositions": 9,
+      "affinity": 0.5
+    },
+    {
+      "pair": "V-W",
+      "agreements": 9,
+      "oppositions": 11,
+      "affinity": 0.45
+    },
+    {
+      "pair": "M2-W",
+      "agreements": 14,
+      "oppositions": 18,
+      "affinity": 0.438
+    },
+    {
+      "pair": "Ad-P",
+      "agreements": 7,
+      "oppositions": 9,
+      "affinity": 0.438
+    },
+    {
+      "pair": "M1-W",
+      "agreements": 6,
+      "oppositions": 10,
+      "affinity": 0.375
+    },
+    {
+      "pair": "Ad-W",
+      "agreements": 10,
+      "oppositions": 18,
+      "affinity": 0.357
+    },
+    {
+      "pair": "M2-Ad",
+      "agreements": 8,
+      "oppositions": 15,
+      "affinity": 0.348
+    },
+    {
+      "pair": "Sg-M2",
+      "agreements": 4,
+      "oppositions": 9,
+      "affinity": 0.308
+    },
+    {
+      "pair": "W-P",
+      "agreements": 7,
+      "oppositions": 16,
+      "affinity": 0.304
+    },
+    {
+      "pair": "M1-M2",
+      "agreements": 5,
+      "oppositions": 14,
+      "affinity": 0.263
+    },
+    {
+      "pair": "M2-P",
+      "agreements": 4,
+      "oppositions": 14,
+      "affinity": 0.222
+    },
+    {
+      "pair": "V-Ad",
+      "agreements": 2,
+      "oppositions": 8,
+      "affinity": 0.2
+    },
+    {
+      "pair": "V-P",
+      "agreements": 2,
+      "oppositions": 9,
+      "affinity": 0.182
+    },
+    {
+      "pair": "M1-Ad",
+      "agreements": 2,
+      "oppositions": 10,
+      "affinity": 0.167
+    },
+    {
+      "pair": "Sg-V",
+      "agreements": 1,
+      "oppositions": 6,
+      "affinity": 0.143
+    },
+    {
+      "pair": "Sg-Ad",
+      "agreements": 1,
+      "oppositions": 6,
+      "affinity": 0.143
+    },
+    {
+      "pair": "M1-P",
+      "agreements": 1,
+      "oppositions": 7,
+      "affinity": 0.125
+    },
+    {
+      "pair": "Sg-W",
+      "agreements": 1,
+      "oppositions": 8,
+      "affinity": 0.111
+    },
+    {
+      "pair": "Sg-P",
+      "agreements": 1,
+      "oppositions": 8,
+      "affinity": 0.111
+    }
+  ]
+}
