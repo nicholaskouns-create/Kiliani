@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Passio minor Collation</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,600&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+
+<style>
+/* Layout: single reading column; sigla carry one accent colour wherever they
+   appear, so a manuscript reads as a different class of token than prose.
+   Slate neutrals against oxblood — a cool modern audit of warm old material. */
+:root{
+  --paper:#F2F4F5; --surface:#FFFFFF; --sunk:#E9EDEF;
+  --ink:#15191C; --muted:#5C6771; --rule:#D3DADE; --rule-strong:#A9B4BB;
+  --siglum:#8C2F27; --siglum-soft:#F0E2E0; --open:#7E6113; --open-soft:#F4EEDC;
+  --serif:"Literata",Iowan Old Style,Palatino,Georgia,serif;
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0E1215; --surface:#161C20; --sunk:#1B2328;
+  --ink:#DCE3E7; --muted:#8B99A3; --rule:#263037; --rule-strong:#3A474F;
+  --siglum:#E29286; --siglum-soft:#2E1E1C; --open:#D7AC48; --open-soft:#2B2414;
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0E1215; --surface:#161C20; --sunk:#1B2328;
+  --ink:#DCE3E7; --muted:#8B99A3; --rule:#263037; --rule-strong:#3A474F;
+  --siglum:#E29286; --siglum-soft:#2E1E1C; --open:#D7AC48; --open-soft:#2B2414;
+  color-scheme:dark}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper); color:var(--ink);
+  font-family:var(--serif); font-size:1.0rem; line-height:1.62;
+  margin:0;
+  padding-left:max(16px,env(safe-area-inset-left,0px));
+  padding-right:max(16px,env(safe-area-inset-right,0px));
+  padding-block:clamp(2rem,5vw,3.75rem);
+  -webkit-font-smoothing:antialiased;
+}
+main{max-width:46rem;margin:0 auto;display:flex;flex-direction:column;gap:2.75rem}
+section{display:flex;flex-direction:column;gap:1rem;min-width:0}
+h1,h2,h3{margin:0;text-wrap:balance;line-height:1.2}
+h1{font-size:clamp(1.85rem,5.4vw,2.6rem);font-weight:700;letter-spacing:-.016em}
+h2{font-size:clamp(1.18rem,3vw,1.4rem);font-weight:600;letter-spacing:-.008em}
+h3{font-size:1.02rem;font-weight:600}
+p,ul,ol{margin:0}
+ul,ol{padding-left:1.15rem;display:flex;flex-direction:column;gap:.5rem}
+a{color:var(--siglum)}
+em{font-style:italic}
+code{font-family:var(--mono);font-size:.86em;background:var(--sunk);
+  padding:.1em .34em;border-radius:2px}
+
+/* sigla — one colour, one shape, everywhere */
+.sg{font-family:var(--mono);font-weight:600;font-style:italic;color:var(--siglum);
+  white-space:nowrap}
+.lbl{font-family:var(--mono);font-size:.655rem;font-weight:600;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--muted)}
+
+header{display:flex;flex-direction:column;gap:1.1rem;
+  border-bottom:2px solid var(--rule-strong);padding-bottom:1.6rem}
+.meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(10rem,1fr));
+  gap:.85rem 1.4rem}
+.meta div{display:flex;flex-direction:column;gap:.18rem;min-width:0}
+.meta span{font-size:.93rem}
+.standfirst{color:var(--muted);font-size:1.03rem}
+
+/* tables */
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;min-width:0}
+table{border-collapse:collapse;width:100%;min-width:20rem;font-size:.93rem}
+th,td{text-align:left;padding:.56rem .7rem;border-bottom:1px solid var(--rule);
+  vertical-align:top}
+thead th{font-family:var(--mono);font-size:.645rem;font-weight:600;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--rule-strong);
+  padding-bottom:.4rem;white-space:nowrap}
+td:first-child,th:first-child{padding-left:0}
+td:last-child,th:last-child{padding-right:0}
+.num{font-variant-numeric:tabular-nums;font-family:var(--mono);font-size:.88rem}
+tbody tr:last-child td{border-bottom:0}
+
+/* a count rendered as a bar, so the inverse relation is visible at a glance */
+.bar{display:flex;align-items:center;gap:.5rem}
+.bar i{display:block;height:.42rem;border-radius:1px;background:var(--siglum);
+  opacity:.42;width:calc(var(--w) * 3.1rem);min-width:2px}
+
+.note{background:var(--surface);border:1px solid var(--rule);border-radius:3px;
+  padding:1rem 1.15rem;display:flex;flex-direction:column;gap:.7rem}
+.caution{background:var(--open-soft);border:1px solid var(--open);
+  border-left-width:3px;border-radius:3px;padding:1rem 1.15rem;
+  display:flex;flex-direction:column;gap:.7rem}
+.caution .lbl{color:var(--open)}
+
+/* the worked example */
+.lemma{font-family:var(--serif);font-style:italic;font-size:1.06rem;
+  background:var(--sunk);border-radius:3px;padding:.85rem 1rem;line-height:1.55}
+.rdg{display:grid;grid-template-columns:3.2rem 5.2rem 1fr;gap:.35rem .8rem;
+  align-items:baseline;padding:.5rem 0;border-bottom:1px solid var(--rule)}
+.rdg:last-child{border-bottom:0}
+.rdg b{font-family:var(--mono);font-weight:600;color:var(--ink)}
+.rdg .when{font-family:var(--mono);font-size:.78rem;color:var(--muted);white-space:nowrap}
+.rdg .gloss{grid-column:3;font-size:.86rem;color:var(--muted);font-style:italic}
+@media (max-width:460px){
+  .rdg{grid-template-columns:3rem 1fr}
+  .rdg .gloss{grid-column:1 / -1}
+}
+
+.residue{display:flex;flex-direction:column;gap:.55rem}
+.residue li{list-style:none}
+.residue code{display:block;background:var(--sunk);padding:.45rem .6rem;
+  border-radius:2px;font-size:.79rem;line-height:1.5;overflow-x:auto;white-space:pre-wrap;
+  word-break:break-word}
+.residue .where{font-family:var(--mono);font-size:.72rem;color:var(--muted);
+  letter-spacing:.04em}
+.residue ul{padding-left:0;gap:.75rem}
+
+footer{border-top:1px solid var(--rule);padding-top:1.3rem;font-size:.86rem;
+  color:var(--muted);display:flex;flex-direction:column;gap:.45rem}
+</style>
+
+</head><body>
+<div class="wrap"><nav class="site">
+  <a class="brand" href="./">Kiliani</a>
+  <a href="./">Overview</a>
+  <a href="collation.html">Apparatus</a>
+  <a href="witnesses.html">Witnesses</a>
+  <a href="verification.html" aria-current="page">Verification</a>
+  <a href="https://github.com/nicholaskouns-create/Kiliani">Repository</a>
+</nav>
+<main>
+  <header>
+    <p class="lbl">Verification record</p>
+    <h1>Passio minor Kiliani — witness collation</h1>
+    <p class="standfirst">Emmerich's apparatus criticus, transcribed from the plates
+      and parsed. 251 lemma entries, 361 readings, seven witnesses.</p>
+    <div class="meta">
+      <div><span class="lbl">Source</span><span>Franz Emmerich, <em>Der heilige Kilian,
+        Regionarbischof und Martyrer</em> (Würzburg 1896), pp. 3–10</span></div>
+      <div><span class="lbl">Work</span><span>Passio minor Kiliani, BHL 4660</span></div>
+      <div><span class="lbl">Built</span><span class="num">2026-10-28</span></div>
+    </div>
+    <p>Closes the open item in <em>From Passio minor Kiliani to the Modern Archive</em>
+      §2.1 — <em>“the conceptual stemma must be replaced by a witness-by-witness
+      codicological collation”</em> — and desiderata (a) and (c) of the ecclesiastical
+      review.</p>
+  </header>
+
+  <section>
+    <h2>What was read, and from what</h2>
+    <p>The PDF's text layer is OCR of 1896 antiqua and is <strong>not usable for
+      collation</strong>. It confuses <code>V</code>/<code>F</code>,
+      <code>Sg</code>/<code>8g</code>, <code>M²</code>/<code>ilf"</code>, drops
+      semicolons between readings, and breaks words across line-ends. A first pass over
+      that layer attributed <strong>2</strong> readings to <span class="sg">M²</span>
+      where the plate shows dozens.</p>
+    <p>Every entry in this dataset was therefore <strong>transcribed by eye from the
+      page rendered at ~430 dpi</strong>. The verbatim string of each apparatus entry is
+      kept in the <code>verbatim</code> field as the primary datum, so any record can be
+      checked against the plate without re-reading the whole apparatus. Everything else —
+      the split into readings, witness attribution, and type — is <strong>derived</strong>
+      from that string by <code>build_model.py</code> and can be regenerated.</p>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Layer</th><th>Provenance</th></tr></thead>
+        <tbody>
+          <tr><td><code>witnesses.*</code></td><td>hand-transcribed from Emmerich's manuscript list, PDF p. 19</td></tr>
+          <tr><td><code>verbatim</code> field</td><td>hand-transcribed from PDF pp. 20–27 (= printed pp. 3–10)</td></tr>
+          <tr><td><code>reading</code>, <code>witnesses</code>, <code>type</code></td><td>derived by parser from <code>verbatim</code></td></tr>
+          <tr><td>affinity / opposition matrices</td><td>derived by parser</td></tr>
+          <tr><td><code>pages_ocr.json</code></td><td>raw OCR, retained <strong>only</strong> for diff-checking; not a source</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Counts</h2>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Measure</th><th>Value</th></tr></thead>
+        <tbody>
+          <tr><td>Lemma entries, across 8 pages</td><td class="num">251</td></tr>
+          <tr><td>Readings</td><td class="num">361</td></tr>
+          <tr><td>Carrying a parsed witness attribution</td><td class="num">354 &nbsp;(98%)</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p><span class="lbl">Reading types</span></p>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Type</th><th>n</th><th>Type</th><th>n</th></tr></thead>
+        <tbody>
+          <tr><td><code>variant</code></td><td class="num">249</td><td><code>alternative_reading</code></td><td class="num">13</td></tr>
+          <tr><td><code>omission</code></td><td class="num">70</td><td><code>orthographic</code></td><td class="num">12</td></tr>
+          <tr><td><code>scribal_correction</code></td><td class="num">14</td><td><code>transposition_or_lacuna</code></td><td class="num">2</td></tr>
+          <tr><td><code>addition</code></td><td class="num">1</td><td></td><td></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Witnesses, and what the citation counts show</h2>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Siglum</th><th>Shelfmark</th><th>Date</th><th>Locus</th><th>Cited</th></tr></thead>
+        <tbody>
+          <tr><td><span class="sg">Sg</span></td><td>Cod. Sang. 566</td><td class="num">s. IX</td><td class="num">pp. 212–219</td>
+              <td><span class="bar"><span class="num">24</span><i style="--w:.216"></i></span></td></tr>
+          <tr><td><span class="sg">V</span></td><td>Cod. 552</td><td class="num">s. X in.</td><td class="num">f. 107v–112r</td>
+              <td><span class="bar"><span class="num">45</span><i style="--w:.405"></i></span></td></tr>
+          <tr><td><span class="sg">M¹</span></td><td>Clm 4585</td><td class="num">s. IX–XI</td><td class="num">f. 115r–119v</td>
+              <td><span class="bar"><span class="num">41</span><i style="--w:.369"></i></span></td></tr>
+          <tr><td><span class="sg">M²</span></td><td>Clm 4332</td><td class="num">s. XII</td><td class="num">f. 68r–70v</td>
+              <td><span class="bar"><span class="num">82</span><i style="--w:.739"></i></span></td></tr>
+          <tr><td><span class="sg">Ad</span></td><td>Cod. 412</td><td class="num">s. XII</td><td class="num">f. 118r–120v</td>
+              <td><span class="bar"><span class="num">81</span><i style="--w:.730"></i></span></td></tr>
+          <tr><td><span class="sg">W</span></td><td>M.p.th.f. 64</td><td class="num">s. XI</td><td class="num">f. 304r–307</td>
+              <td><span class="bar"><span class="num">111</span><i style="--w:1"></i></span></td></tr>
+          <tr><td><span class="sg">P</span></td><td>Cod. 2896</td><td class="num">s. XIII–XIV</td><td class="num">f. 182v–183v</td>
+              <td><span class="bar"><span class="num">57</span><i style="--w:.514"></i></span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>Emmerich's apparatus is <strong>mixed</strong>: he prints a normalised text and
+      cites manuscript readings beside it, so a witness is named when it <em>differs</em>
+      from what he set, and is silent when it agrees. Under that convention the citation
+      count is an inverse measure of how closely the printed text follows a witness.</p>
+    <div class="note">
+      <p><strong><span class="sg">Sg</span> is cited 24 times — the fewest of the seven,
+        by a wide margin.</strong> Emmerich's base text is St Gallen 566, and the count
+        says so without his having to.</p>
+      <p><strong><span class="sg">W</span> is cited 111 times — the most.</strong>
+        Emmerich notes of that manuscript: <em>“Aliquibus locis omittuntur, quae pertinent
+        ad ornatum orationis.”</em> The Würzburg copy abridges rhetorical ornament, and
+        the apparatus registers every omission. The editor's prose note and the citation
+        count agree, which is a small check that the extraction is sound.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Affinity, and what it is not</h2>
+    <p><code>agreement_matrix.csv</code> counts lemmas where two witnesses are cited
+      <strong>in the same reading</strong>; <code>opposition_matrix.csv</code> counts
+      lemmas where they are cited in <strong>different</strong> readings. Affinity is
+      agreements ÷ (agreements + oppositions).</p>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Pair</th><th>Agree</th><th>Oppose</th><th>Affinity</th></tr></thead>
+        <tbody>
+          <tr><td><span class="sg">Sg</span>–<span class="sg">M¹</span></td><td class="num">8</td><td class="num">3</td>
+              <td><span class="bar"><span class="num"><strong>0.727</strong></span><i style="--w:1"></i></span></td></tr>
+          <tr><td><span class="sg">V</span>–<span class="sg">M¹</span></td><td class="num">9</td><td class="num">6</td>
+              <td><span class="bar"><span class="num">0.600</span><i style="--w:.825"></i></span></td></tr>
+          <tr><td><span class="sg">V</span>–<span class="sg">M²</span></td><td class="num">9</td><td class="num">9</td>
+              <td><span class="bar"><span class="num">0.500</span><i style="--w:.688"></i></span></td></tr>
+          <tr><td><span class="sg">V</span>–<span class="sg">W</span></td><td class="num">9</td><td class="num">11</td>
+              <td><span class="bar"><span class="num">0.450</span><i style="--w:.619"></i></span></td></tr>
+          <tr><td><span class="sg">M²</span>–<span class="sg">W</span></td><td class="num">14</td><td class="num">18</td>
+              <td><span class="bar"><span class="num">0.438</span><i style="--w:.602"></i></span></td></tr>
+          <tr><td><span class="sg">Ad</span>–<span class="sg">P</span></td><td class="num">7</td><td class="num">9</td>
+              <td><span class="bar"><span class="num">0.438</span><i style="--w:.602"></i></span></td></tr>
+          <tr><td><span class="sg">M¹</span>–<span class="sg">W</span></td><td class="num">6</td><td class="num">10</td>
+              <td><span class="bar"><span class="num">0.375</span><i style="--w:.516"></i></span></td></tr>
+          <tr><td><span class="sg">Ad</span>–<span class="sg">W</span></td><td class="num">10</td><td class="num">18</td>
+              <td><span class="bar"><span class="num">0.357</span><i style="--w:.491"></i></span></td></tr>
+          <tr><td><span class="sg">M²</span>–<span class="sg">Ad</span></td><td class="num">8</td><td class="num">15</td>
+              <td><span class="bar"><span class="num">0.348</span><i style="--w:.479"></i></span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p><strong><span class="sg">Sg</span>–<span class="sg">M¹</span> = 0.727</strong>
+      stands clear of everything else, and <span class="sg">V</span>–<span class="sg">M¹</span>
+      = 0.600 behind it. The two ninth-century witnesses pair, with the Vienna copy near
+      them. <span class="sg">Ad</span>–<span class="sg">P</span> = 0.438 pairs the two
+      latest.</p>
+
+    <div class="caution">
+      <p class="lbl">Limit</p>
+      <p><strong>This is a signal, not a stemma, and it must not be published as one.</strong>
+        Three limits:</p>
+      <ol>
+        <li>The apparatus is mixed, so agreements with the base text are invisible.
+          <span class="sg">Sg</span>'s affinities are depressed by exactly the thing that
+          makes <span class="sg">Sg</span> the base.</li>
+        <li>Lachmannian stemmatics is built on shared <strong>errors</strong>, not shared
+          readings. Emmerich does not mark which readings are errors, and nothing here
+          infers it.</li>
+        <li>Orthographic agreement (<code>uuirziburc</code> / <code>wirzipurch</code> /
+          <code>wirzeburg</code>) is scribal habit and regional spelling, not descent. The
+          parser tags <code>orthographic</code> where it can detect it, but the tagging is
+          heuristic and should be reviewed before any of it carries weight.</li>
+      </ol>
+      <p>A real stemma needs autopsy of the seven manuscripts, or at minimum IIIF images,
+        with errors identified as errors. This dataset is the substrate for that work, not
+        a substitute for it.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Residue — 7 readings that need autopsy</h2>
+    <p>These are entries where Emmerich's prose note is itself split by a semicolon, so
+      the parser could not attribute a witness. Each is transcribed correctly; only the
+      machine attribution is missing.</p>
+    <div class="residue">
+      <ul>
+        <li><span class="where">p. 4, lemma 2</span><code>2 „gallo" in Sg syllaba „ne" rasura deleta est; gallo Ad</code></li>
+        <li><span class="where">p. 5, lemma 40</span><code>40 „essent" VW; rasura parva praecedit, fortasse syllaba „ad" scripta erat</code></li>
+        <li><span class="where">p. 6, lemma 28</span><code>28 persuades; deest „et praedicas" W</code></li>
+        <li><span class="where">p. 6, lemma 29</span><code>29 pro dei amore; deest „omnipotentis" M²</code></li>
+        <li><span class="where">p. 7, lemma 25</span><code>25 deest a „capitibus - coronati"; legitur „decollati sunt" W</code></li>
+        <li><span class="where">p. 8, lemma 15</span><code>15 infronitious VM¹; Sg. l. „in" rasura; freneticus WM²Ad</code></li>
+        <li><span class="where">p. 9, lemma 29</span><code>29 finivit; P; finiret VM²Ad</code></li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Worked example — p. 4, lemma 8</h2>
+    <p>The adopted text reads:</p>
+    <p class="lemma">propria contempni patriamque et parentes secundum Domini evangelium
+      relinquere et nudos sequi Christum.</p>
+    <div>
+      <div class="rdg"><b><span class="sg">Sg</span></b><span class="when">s. IX</span>
+        <span>propria <strong>contempni</strong></span>
+        <span class="gloss">passive infinitive; the adopted reading</span></div>
+      <div class="rdg"><b><span class="sg">W</span></b><span class="when">s. XI</span>
+        <span>propria <strong>contempnere</strong></span>
+        <span class="gloss">active</span></div>
+      <div class="rdg"><b><span class="sg">M²</span></b><span class="when">s. XII</span>
+        <span>propria <strong>contemnere</strong></span>
+        <span class="gloss">active, classical orthography</span></div>
+      <div class="rdg"><b><span class="sg">P</span></b><span class="when">s. XIII–XIV</span>
+        <span><strong>propriam</strong> contempnere</span>
+        <span class="gloss">accusative singular; the object changes</span></div>
+      <div class="rdg"><b><span class="sg">Ad</span></b><span class="when">s. XII</span>
+        <span>secundum evangelium domini <strong>nudosque Christum sequi</strong></span>
+        <span class="gloss">clause transposed</span></div>
+    </div>
+    <p><em>Contemnere</em> and <em>sequi</em> hold across every witness. <em>Propria</em>
+      does not. In the sentence that tells the companions to give up what is their own,
+      <em>what is their own</em> is the word the transmission could not hold steady — and
+      in <span class="sg">P</span> it stops being their possessions and becomes, by
+      assimilation to the following <em>patriam</em>, their country.</p>
+  </section>
+
+  <section>
+    <h2>Files</h2>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>File</th><th>Contents</th></tr></thead>
+        <tbody>
+          <tr><td><code>witnesses.json</code> / <code>.csv</code></td><td>7 witnesses: repository, shelfmark, date, format, extent, locus, incipit, explicit, notes</td></tr>
+          <tr><td><code>variants.json</code> / <code>.csv</code></td><td>361 readings with verbatim source, witnesses, type, marginal notes</td></tr>
+          <tr><td><code>agreement_matrix.csv</code></td><td>pairwise shared readings</td></tr>
+          <tr><td><code>opposition_matrix.csv</code></td><td>pairwise disagreement at the same lemma</td></tr>
+          <tr><td><code>stemma_signal.json</code></td><td>citation counts and ranked affinities</td></tr>
+          <tr><td><code>apparatus_tei.xml</code></td><td>TEI P5 <code>&lt;listWit&gt;</code> + <code>&lt;app&gt;</code>/<code>&lt;rdg&gt;</code> encoding</td></tr>
+          <tr><td><code>passio_minor_collation.png</code></td><td>the figure that replaces the conceptual stemma</td></tr>
+          <tr><td><code>apparatus_verbatim.py</code></td><td>the hand transcription — the primary datum</td></tr>
+          <tr><td><code>build_model.py</code></td><td>the parser; regenerates everything above</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Still open</h2>
+    <ul>
+      <li><strong>IIIF.</strong> Every <code>iiif</code> field is <code>null</code>.
+        St Gallen (e-codices), the ÖNB, and the BSB all serve IIIF; Admont partly;
+        Würzburg and Pommersfelden would need enquiry. Filling those turns each citation
+        into a link to the folio.</li>
+      <li><strong>Line numbering</strong> — desideratum (d) — needs the printed text keyed
+        line-by-line, not just by lemma.</li>
+      <li><strong>Emendations vs manuscript readings</strong> — desideratum (c) is now
+        <em>possible</em> rather than done: the data distinguishes what Emmerich printed
+        from what each manuscript has, but where he emends silently against all witnesses,
+        only autopsy will show it.</li>
+      <li>The <code>orthographic</code> tags are heuristic and want a philologist's pass.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Sigla throughout: <span class="sg">Sg</span> St Gallen 566 ·
+      <span class="sg">V</span> Vienna 552 · <span class="sg">M¹</span> Clm 4585 ·
+      <span class="sg">M²</span> Clm 4332 · <span class="sg">Ad</span> Admont 412 ·
+      <span class="sg">W</span> Würzburg M.p.th.f. 64 ·
+      <span class="sg">P</span> Pommersfelden 2896.</p>
+  </footer>
+</main></div></body></html>

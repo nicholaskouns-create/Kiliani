@@ -1,0 +1,362 @@
+variant_id,page_printed,lemma_no,type,reading,witnesses,marginal_note,verbatim
+PMK-3-1-0,3,1,variant,nomine Killena,M1,,1 nomine Killena M¹
+PMK-3-2-1,3,2,variant,scottorum,V,,2 scottorum V; scotica M²; scothica P
+PMK-3-2-2,3,2,variant,scotica,M2,,2 scottorum V; scotica M²; scothica P
+PMK-3-2-3,3,2,variant,scothica,P,,2 scottorum V; scotica M²; scothica P
+PMK-3-3-4,3,3,variant,disceret,W|Ad,,3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]
+PMK-3-3-5,3,3,scribal_correction,didicit,Sg,erit II. m.,3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]
+PMK-3-3-6,3,3,orthographic,didicit,M1,,3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]
+PMK-3-3-7,3,3,variant,didicerit,M2,,3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]
+PMK-3-3-8,3,3,scribal_correction,didicisset,P,isset II. m.,3 disceret WAd; didicit Sg [erit II. m.]; didicit M¹; didicerit M²; didicisset P [isset II. m.]
+PMK-3-4-9,3,4,omission,"„iam"" deest",V|M2|Ad|P,,"4 „iam"" deest VM²AdP"
+PMK-3-5-10,3,5,variant,ita,Sg|M2,,5 ita SgM²; Kilianus VM¹W; Kylianus AdP
+PMK-3-5-11,3,5,orthographic,Kilianus,V|M1|W,,5 ita SgM²; Kilianus VM¹W; Kylianus AdP
+PMK-3-5-12,3,5,orthographic,Kylianus,Ad|P,,5 ita SgM²; Kilianus VM¹W; Kylianus AdP
+PMK-3-6-13,3,6,variant,Hic,M2,,6 Hic M²
+PMK-3-7-14,3,7,scribal_correction,"e = est, a. m. II ad marg.",Sg|M1,,"7 e = est, a. m. II ad marg. SgM¹; erat ut W; est ut M²; „ut"" deest P"
+PMK-3-7-15,3,7,variant,erat ut,W,,"7 e = est, a. m. II ad marg. SgM¹; erat ut W; est ut M²; „ut"" deest P"
+PMK-3-7-16,3,7,variant,est ut,M2,,"7 e = est, a. m. II ad marg. SgM¹; erat ut W; est ut M²; „ut"" deest P"
+PMK-3-7-17,3,7,omission,"„ut"" deest",P,,"7 e = est, a. m. II ad marg. SgM¹; erat ut W; est ut M²; „ut"" deest P"
+PMK-3-8-18,3,8,variant,operi,Ad,,8 operi Ad
+PMK-3-9-19,3,9,scribal_correction,"„cessa"" in rasura „ret"" II m.",M1,ret II. m.,"9 „cessa"" in rasura „ret"" II m. M¹ [ret II. m.]; cessabat W; cessaret P"
+PMK-3-9-20,3,9,variant,cessabat,W,,"9 „cessa"" in rasura „ret"" II m. M¹ [ret II. m.]; cessabat W; cessaret P"
+PMK-3-9-21,3,9,variant,cessaret,P,,"9 „cessa"" in rasura „ret"" II m. M¹ [ret II. m.]; cessabat W; cessaret P"
+PMK-3-10-22,3,10,omission,"„esset"" deest",V,,"10 „esset"" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹"
+PMK-3-10-23,3,10,variant,admonitus fieret,W,,"10 „esset"" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹"
+PMK-3-10-24,3,10,variant,admoneretur,M2,,"10 „esset"" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹"
+PMK-3-10-25,3,10,variant,moneretur,Ad,,"10 „esset"" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹"
+PMK-3-10-26,3,10,variant,audiret,M1,,"10 „esset"" deest V; admonitus fieret W; admoneretur M²; moneretur Ad; audiret M¹"
+PMK-3-11-27,3,11,variant,Post me venire,V|M1|W,,11 Post me venire VM¹W
+PMK-3-12-28,3,12,variant,hoc,P,,12 hoc P
+PMK-3-13-29,3,13,variant,beatissimus vir secum,P,,13 beatissimus vir secum P
+PMK-3-14-30,3,14,variant,mentis ac cordis,Ad,,14 mentis ac cordis Ad
+PMK-3-15-31,3,15,scribal_correction,pertransiens,Ad,pertractans m. aequ.,15 pertransiens Ad [pertractans m. aequ.]
+PMK-3-16-32,3,16,scribal_correction,sociis,Sg,con m. aeq.,"16 sociis Sg [con m. aeq.]; „suis"" loco sociis P"
+PMK-3-16-33,3,16,variant,"„suis"" loco sociis",P,,"16 sociis Sg [con m. aeq.]; „suis"" loco sociis P"
+PMK-3-17-34,3,17,alternative_reading,scilicet l. id est,P,,17 scilicet l. id est P
+PMK-4-1-35,4,1,variant,colonato atque,W,,1 colonato atque W; colomanno atque P
+PMK-4-1-36,4,1,variant,colomanno atque,P,,1 colonato atque W; colomanno atque P
+PMK-4-2-37,4,2,scribal_correction,"„gallo"" in Sg syllaba „ne"" rasura deleta est",,,"2 „gallo"" in Sg syllaba „ne"" rasura deleta est; gallo Ad"
+PMK-4-2-38,4,2,variant,gallo,Ad,,"2 „gallo"" in Sg syllaba „ne"" rasura deleta est; gallo Ad"
+PMK-4-3-39,4,3,variant,arnuuale,Sg|M1|Ad|P,,3 arnuuale SgM¹AdP; aruuale M²; atque arnuuale V
+PMK-4-3-40,4,3,variant,aruuale,M2,,3 arnuuale SgM¹AdP; aruuale M²; atque arnuuale V
+PMK-4-3-41,4,3,variant,atque arnuuale,V,,3 arnuuale SgM¹AdP; aruuale M²; atque arnuuale V
+PMK-4-4-42,4,4,variant,thotmanno,P,,4 thotmanno P
+PMK-4-5-43,4,5,variant,et aliis,W|M2,,5 et aliis WM²; aliisque P
+PMK-4-5-44,4,5,variant,aliisque,P,,5 et aliis WM²; aliisque P
+PMK-4-6-45,4,6,omission,"„illis"" deest",W|M2,,"6 „illis"" deest WM²"
+PMK-4-7-46,4,7,variant,eis,P,,7 eis P
+PMK-4-8-47,4,8,variant,contempni,Sg,,8 contempni Sg; contempnere W; propriam contempnere P; contemnere M²
+PMK-4-8-48,4,8,orthographic,contempnere,W,,8 contempni Sg; contempnere W; propriam contempnere P; contemnere M²
+PMK-4-8-49,4,8,variant,propriam contempnere,P,,8 contempni Sg; contempnere W; propriam contempnere P; contemnere M²
+PMK-4-8-50,4,8,orthographic,contemnere,M2,,8 contempni Sg; contempnere W; propriam contempnere P; contemnere M²
+PMK-4-9-51,4,9,variant,patriam parentesque,W|Ad|P,,9 patriam parentesque WAdP
+PMK-4-10-52,4,10,variant,secundum evangelium domini nudosque Christum sequi,Ad,,10 secundum evangelium domini nudosque Christum sequi Ad
+PMK-4-11-53,4,11,variant,namque sacrae statim,V|P,,11 namque sacrae statim VP
+PMK-4-12-54,4,12,variant,ammonitioni,Sg,,12 ammonitioni Sg
+PMK-4-13-55,4,13,variant,obtemperantes beati viri,M1,,13 obtemperantes beati viri M¹
+PMK-4-14-56,4,14,variant,australem partem,W|P,,14 australem partem WP; ad australium partium finem Ad
+PMK-4-14-57,4,14,variant,ad australium partium finem,Ad,,14 australem partem WP; ad australium partium finem Ad
+PMK-4-15-58,4,15,variant,vocatur,Sg|M1,,15 vocatur SgM¹
+PMK-4-16-59,4,16,orthographic,uuirziburc,Sg|M1,,16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P
+PMK-4-16-60,4,16,orthographic,uuirziburch,V,,16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P
+PMK-4-16-61,4,16,variant,uuirziburg,W,,16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P
+PMK-4-16-62,4,16,variant,wirzipurch,M2,,16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P
+PMK-4-16-63,4,16,variant,uuirzpurch,Ad,,16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P
+PMK-4-16-64,4,16,variant,wirzeburg,P,,16 uuirziburc SgM¹; uuirziburch V; uuirziburg W; wirzipurch M²; uuirzpurch Ad; wirzeburg P
+PMK-4-17-65,4,17,variant,aliquot,M1,,17 aliquot M¹
+PMK-4-18-66,4,18,omission,"„ibi"" deest",P,,"18 „ibi"" deest P"
+PMK-4-19-67,4,19,variant,Gozperto,M1|M2,,19 Gozperto M¹M²
+PMK-4-20-68,4,20,variant,hetanis,M2,,20 hetanis M²; baethenis P
+PMK-4-20-69,4,20,variant,baethenis,P,,20 hetanis M²; baethenis P
+PMK-4-21-70,4,21,omission,"„filius"" deest",P,,"21 „filius"" deest P"
+PMK-4-22-71,4,22,variant,herodis,V,,22 herodis V; ruodis WP
+PMK-4-22-72,4,22,variant,ruodis,W|P,,22 herodis V; ruodis WP
+PMK-4-23-73,4,23,omission,"„ipse"" deest",W,,"23 „ipse"" deest W"
+PMK-4-24-74,4,24,variant,plebs sibi subiecta,Ad,,24 plebs sibi subiecta Ad
+PMK-4-25-75,4,25,variant,vivebant ritu,Ad,,25 vivebant ritu Ad
+PMK-4-26-76,4,26,variant,ydola,P,,26 ydola P
+PMK-4-27-77,4,27,variant,adque,V,,27 adque V
+PMK-4-28-78,4,28,variant,non agnoscentes,Ad,,28 non agnoscentes Ad
+PMK-4-29-79,4,29,alternative_reading,vero l. autem,W,,29 vero l. autem W
+PMK-4-30-80,4,30,variant,vir sanctissimus,P,,30 vir sanctissimus P
+PMK-4-31-81,4,31,variant,illic locum,Ad,,31 illic locum Ad
+PMK-4-32-82,4,32,transposition_or_lacuna,pulcherrimum populum ... obsessum,W|P,,32 pulcherrimum populum ... obsessum WP
+PMK-4-33-83,4,33,variant,ultra quod,V|M2,,33 ultra quod VM²
+PMK-4-34-84,4,34,variant,illorum dolebat,Ad,,34 illorum dolebat Ad
+PMK-4-35-85,4,35,variant,initque consilium,V,,35 initque consilium V; et inlit P
+PMK-4-35-86,4,35,variant,et inlit,P,,35 initque consilium V; et inlit P
+PMK-4-36-87,4,36,variant,elegantem,M1,,36 elegantem M¹; eligantem M²
+PMK-4-36-88,4,36,variant,eligantem,M2,,36 elegantem M¹; eligantem M²
+PMK-4-37-89,4,37,variant,ut,W,,37 ut W
+PMK-4-38-90,4,38,variant,diximus,Ad,,38 diximus Ad
+PMK-4-39-91,4,39,variant,fuimus in regione vel patria nostra,W|P,,39 fuimus in regione vel patria nostra WP
+PMK-4-40-92,4,40,variant,principis,W|Ad,,40 principis WAd; principum apostolorum M²
+PMK-4-40-93,4,40,variant,principum apostolorum,M2,,40 principis WAd; principum apostolorum M²
+PMK-4-41-94,4,41,variant,ita,Sg|M1,,41 ita SgM¹
+PMK-4-42-95,4,42,omission,"„papae"" deest",V,,"42 „papae"" deest V; iohannis WM²"
+PMK-4-42-96,4,42,variant,iohannis,W|M2,,"42 „papae"" deest V; iohannis WM²"
+PMK-5-1-97,5,1,variant,consulto,P,,1 consulto P
+PMK-5-2-98,5,2,variant,revertamus,M1,,2 revertamus M¹
+PMK-5-3-99,5,3,variant,nec,W,,3 nec W
+PMK-5-4-100,5,4,variant,compleverunt,M1,,4 compleverunt M¹; dicta compleverunt Ad
+PMK-5-4-101,5,4,variant,dicta compleverunt,Ad,,4 compleverunt M¹; dicta compleverunt Ad
+PMK-5-5-102,5,5,alternative_reading,"apostoli, l. principis apostolorum",W,,"5 apostoli, l. principis apostolorum W"
+PMK-5-6-103,5,6,variant,illuc,M2|P,,6 illuc M²P; Romam autem Ad
+PMK-5-6-104,5,6,variant,Romam autem,Ad,,6 illuc M²P; Romam autem Ad
+PMK-5-7-105,5,7,omission,"„iohannem"" deest",V|W|M2,,"7 „iohannem"" deest VWM²; et apostolicum invenientes P"
+PMK-5-7-106,5,7,variant,et apostolicum invenientes,P,,"7 „iohannem"" deest VWM²; et apostolicum invenientes P"
+PMK-5-8-107,5,8,variant,quoniam iam defunctus erat,W,,"8 quoniam iam defunctus erat W; iohannem, qui defunctus erat, non invenientes Ad; defunctus est iohannes papa P"
+PMK-5-8-108,5,8,variant,"iohannem, qui defunctus erat, non invenientes",Ad,,"8 quoniam iam defunctus erat W; iohannem, qui defunctus erat, non invenientes Ad; defunctus est iohannes papa P"
+PMK-5-8-109,5,8,variant,defunctus est iohannes papa,P,,"8 quoniam iam defunctus erat W; iohannem, qui defunctus erat, non invenientes Ad; defunctus est iohannes papa P"
+PMK-5-9-110,5,9,scribal_correction,canone,Sg,o II. m.,9 canone Sg [o II. m.]; castore Ad
+PMK-5-9-111,5,9,variant,castore,Ad,,9 canone Sg [o II. m.]; castore Ad
+PMK-5-10-112,5,10,variant,Kyllena,Ad|P,,"10 Kyllena AdP; „praedictus Dei pontifex Kilianus"" deest W"
+PMK-5-10-113,5,10,omission,"„praedictus Dei pontifex Kilianus"" deest",W,,"10 Kyllena AdP; „praedictus Dei pontifex Kilianus"" deest W"
+PMK-5-11-114,5,11,variant,atque,W,,11 atque W
+PMK-5-12-115,5,12,scribal_correction,in margine: temporibus iustiniani imperatoris primi,Sg,e II. m.,12 in margine: temporibus iustiniani imperatoris primi Sg [e II. m.]
+PMK-5-13-116,5,13,variant,canon,Sg,,13 canon Sg
+PMK-5-14-117,5,14,variant,audiret,W,,14 audiret W
+PMK-5-15-118,5,15,omission,"„et ad quod venerat"" deest",P,,"15 „et ad quod venerat"" deest P"
+PMK-5-16-119,5,16,omission,"„ad quem"" deest",M2,,"16 „ad quem"" deest M²"
+PMK-5-17-120,5,17,omission,"„exinde"" deest",V,,"17 „exinde"" deest V; inde Ad"
+PMK-5-17-121,5,17,variant,inde,Ad,,"17 „exinde"" deest V; inde Ad"
+PMK-5-18-122,5,18,variant,erat,W|Ad,,18 erat WAd
+PMK-5-19-123,5,19,omission,"„pariter"" deest",W,,"19 „pariter"" deest W"
+PMK-5-20-124,5,20,variant,atque,W,,20 atque W
+PMK-5-21-125,5,21,omission,"„a"" deest",Sg,,"21 „a"" deest Sg"
+PMK-5-22-126,5,22,omission,"„principe apostolorum"" deest",W|M2,,"22 „principe apostolorum"" deest WM²"
+PMK-5-23-127,5,23,omission,"„et quoscunque faceret"" deest",W,,"23 „et quoscunque faceret"" deest W"
+PMK-5-24-128,5,24,variant,posset,Ad,,24 posset Ad
+PMK-5-25-129,5,25,variant,adque,V,,25 adque V
+PMK-5-26-130,5,26,omission,"„namque"" deest",M2,,"26 „namque"" deest M²"
+PMK-5-27-131,5,27,variant,inde,Ad,,27 inde Ad
+PMK-5-28-132,5,28,omission,"„in"" deest",M2,,"28 „in"" deest M²; „in itinere - et venerunt"" deest W"
+PMK-5-28-133,5,28,omission,"„in itinere - et venerunt"" deest",W,,"28 „in"" deest M²; „in itinere - et venerunt"" deest W"
+PMK-5-29-134,5,29,variant,tantum,M2|P,,29 tantum M²P; corporaliter non tamen Ad
+PMK-5-29-135,5,29,variant,corporaliter non tamen,Ad,,29 tantum M²P; corporaliter non tamen Ad
+PMK-5-30-136,5,30,variant,adhaerebant autem,Ad,,30 adhaerebant autem Ad
+PMK-5-31-137,5,31,orthographic,Chiliano,Sg|M1,,31 Chiliano SgM¹; Kiliano M²; Kyliano P
+PMK-5-31-138,5,31,orthographic,Kiliano,M2,,31 Chiliano SgM¹; Kiliano M²; Kyliano P
+PMK-5-31-139,5,31,orthographic,Kyliano,P,,31 Chiliano SgM¹; Kiliano M²; Kyliano P
+PMK-5-32-140,5,32,variant,presbiter,M1,,32 presbiter M¹
+PMK-5-33-141,5,33,variant,dyaconus,P,,33 dyaconus P
+PMK-5-34-142,5,34,variant,in australem partem francorum,W|P,,34 in australem partem francorum WP
+PMK-5-35-143,5,35,variant,nominatur,W,,35 nominatur W
+PMK-5-36-144,5,36,variant,praedicabant,Ad,,36 praedicabant Ad
+PMK-5-37-145,5,37,variant,imprimitis,Sg,,37 imprimitis Sg; primitus WP
+PMK-5-37-146,5,37,variant,primitus,W|P,,37 imprimitis Sg; primitus WP
+PMK-5-38-147,5,38,variant,Dei,W|Ad,,38 Dei WAd
+PMK-5-39-148,5,39,alternative_reading,cum que l. cum autem,M2,,39 cum que l. cum autem M²
+PMK-5-40-149,5,40,variant,"„essent""",V|W,,"40 „essent"" VW; rasura parva praecedit, fortasse syllaba „ad"" scripta erat"
+PMK-5-40-150,5,40,scribal_correction,"rasura parva praecedit, fortasse syllaba „ad"" scripta erat",,,"40 „essent"" VW; rasura parva praecedit, fortasse syllaba „ad"" scripta erat"
+PMK-6-1-151,6,1,omission,invicem (sine in),M2|P,,1 invicem (sine in) M²P
+PMK-6-2-152,6,2,omission,"„et confabularentur"" et a „in invicem - gozbertus"" deest",W,,"2 „et confabularentur"" et a „in invicem - gozbertus"" deest W; confabulati sunt Ad"
+PMK-6-2-153,6,2,variant,confabulati sunt,Ad,,"2 „et confabularentur"" et a „in invicem - gozbertus"" deest W; confabulati sunt Ad"
+PMK-6-3-154,6,3,variant,ita:,Sg|V|W|M1|M2,,3 ita: SgVWM¹M²
+PMK-6-4-155,6,4,variant,non post longum tempus,W,,4 non post longum tempus W; non post multum tempus Ad
+PMK-6-4-156,6,4,variant,non post multum tempus,Ad,,4 non post longum tempus W; non post multum tempus Ad
+PMK-6-5-157,6,5,variant,eum,W,,5 eum W; illi AdP
+PMK-6-5-158,6,5,variant,illi,Ad|P,,5 eum W; illi AdP
+PMK-6-6-159,6,6,omission,"„devotus Domini pontifex Kilianus"" deest",W,,"6 „devotus Domini pontifex Kilianus"" deest W; prefatus episcopus Ad"
+PMK-6-6-160,6,6,variant,prefatus episcopus,Ad,,"6 „devotus Domini pontifex Kilianus"" deest W; prefatus episcopus Ad"
+PMK-6-7-161,6,7,variant,fieri Christianus,P,,7 fieri Christianus P
+PMK-6-8-162,6,8,variant,acquiescens,M2|Ad,,8 acquiescens M²Ad
+PMK-6-9-163,6,9,variant,est et,P,,9 est et P
+PMK-6-10-164,6,10,variant,potestate illius,Ad,,10 potestate illius Ad
+PMK-6-11-165,6,11,variant,erat,Ad|P,,11 erat AdP
+PMK-6-12-166,6,12,omission,"deest „dux""",Ad,,"12 deest „dux"" Ad"
+PMK-6-13-167,6,13,variant,maherimonia,M2,,13 maherimonia M²; cf. Bull. II. Jul. f. 614. ann. h. M²
+PMK-6-13-168,6,13,variant,cf. Bull. II. Jul. f. 614. ann. h.,M2,,13 maherimonia M²; cf. Bull. II. Jul. f. 614. ann. h. M²
+PMK-6-14-169,6,14,variant,consuetudo erat,W|Ad,,14 consuetudo erat WAd; consuetudo fuit M²
+PMK-6-14-170,6,14,variant,consuetudo fuit,M2,,14 consuetudo erat WAd; consuetudo fuit M²
+PMK-6-15-171,6,15,variant,sapienter facit,W,,"15 sapienter facit W; „semper"" et „sapienter"" deest M²; „sicut sapiens"" deest P"
+PMK-6-15-172,6,15,omission,"„semper"" et „sapienter"" deest",M2,,"15 sapienter facit W; „semper"" et „sapienter"" deest M²; „sicut sapiens"" deest P"
+PMK-6-15-173,6,15,omission,"„sicut sapiens"" deest",P,,"15 sapienter facit W; „semper"" et „sapienter"" deest M²; „sicut sapiens"" deest P"
+PMK-6-16-174,6,16,variant,eam illi,W,,16 eam illi W
+PMK-6-17-175,6,17,variant,Christi,Ad,,"17 Christi Ad; „christianitatis"" deest W"
+PMK-6-17-176,6,17,omission,"„christianitatis"" deest",W,,"17 Christi Ad; „christianitatis"" deest W"
+PMK-6-18-177,6,18,variant,eum alloquitur sermonibus,W,,18 eum alloquitur sermonibus W; sermonibus locutus est M²; eum sermonibus alloquitur locutus est Ad
+PMK-6-18-178,6,18,variant,sermonibus locutus est,M2,,18 eum alloquitur sermonibus W; sermonibus locutus est M²; eum sermonibus alloquitur locutus est Ad
+PMK-6-18-179,6,18,variant,eum sermonibus alloquitur locutus est,Ad,,18 eum alloquitur sermonibus W; sermonibus locutus est M²; eum sermonibus alloquitur locutus est Ad
+PMK-6-19-180,6,19,omission,"„christianus - factus es"" deest",P,,"19 „christianus - factus es"" deest P"
+PMK-6-20-181,6,20,variant,feceris,W,,20 feceris W
+PMK-6-21-182,6,21,variant,facias oportet et te,P,,21 facias oportet et te P
+PMK-6-22-183,6,22,variant,non oportet te,Sg|M2,,22 non oportet te SgM²
+PMK-6-23-184,6,23,omission,"„dicta"" deest",Ad,,"23 „dicta"" deest Ad; „dixit"" l. ad haec dicta M²"
+PMK-6-23-185,6,23,alternative_reading,"„dixit"" l. ad haec dicta",M2,,"23 „dicta"" deest Ad; „dixit"" l. ad haec dicta M²"
+PMK-6-24-186,6,24,omission,"„Gozbertus"" deest",Ad,,"24 „Gozbertus"" deest Ad; „dux gozberti"" M¹; „respondit et dixit"" M¹; „quasi"" deest M²"
+PMK-6-24-187,6,24,variant,"„dux gozberti""",M1,,"24 „Gozbertus"" deest Ad; „dux gozberti"" M¹; „respondit et dixit"" M¹; „quasi"" deest M²"
+PMK-6-24-188,6,24,variant,"„respondit et dixit""",M1,,"24 „Gozbertus"" deest Ad; „dux gozberti"" M¹; „respondit et dixit"" M¹; „quasi"" deest M²"
+PMK-6-24-189,6,24,omission,"„quasi"" deest",M2,,"24 „Gozbertus"" deest Ad; „dux gozberti"" M¹; „respondit et dixit"" M¹; „quasi"" deest M²"
+PMK-6-26-190,6,26,omission,"„quasi de - dixit"" deest",M2,,"26 „quasi de - dixit"" deest M²; „ait"" l. respondit et dixit W"
+PMK-6-26-191,6,26,alternative_reading,"„ait"" l. respondit et dixit",W,,"26 „quasi de - dixit"" deest M²; „ait"" l. respondit et dixit W"
+PMK-6-27-192,6,27,variant,gozbertus: modo graviora,M2,,27 gozbertus: modo graviora M²
+PMK-6-28-193,6,28,variant,persuades,,,"28 persuades; deest „et praedicas"" W"
+PMK-6-28-194,6,28,omission,"deest „et praedicas""",W,,"28 persuades; deest „et praedicas"" W"
+PMK-6-29-195,6,29,variant,pro dei amore,,,"29 pro dei amore; deest „omnipotentis"" M²"
+PMK-6-29-196,6,29,omission,"deest „omnipotentis""",M2,,"29 pro dei amore; deest „omnipotentis"" M²"
+PMK-6-30-197,6,30,omission,"deest „amorem quam .. amorem et""",Sg|M1|M2,,"30 deest „amorem quam .. amorem et"" SgM¹M²"
+PMK-6-31-198,6,31,variant,praedicas et praedicasti,W,,31 praedicas et praedicasti W
+PMK-6-32-199,6,32,variant,et habenda,W,,32 et habenda W; fuerunt ad habenda M²
+PMK-6-32-200,6,32,variant,fuerunt ad habenda,M2,,32 et habenda W; fuerunt ad habenda M²
+PMK-6-33-201,6,33,omission,"deest „et""",Ad,,"33 deest „et"" Ad"
+PMK-6-34-202,6,34,variant,licet,W,,34 licet W; habere licitum est Ad
+PMK-6-34-203,6,34,variant,habere licitum est,Ad,,34 licet W; habere licitum est Ad
+PMK-6-35-204,6,35,omission,"„mihi"" deest",V,,"35 „mihi"" deest V"
+PMK-6-36-205,6,36,omission,"deest „nihilque am. est""",M2,,"36 deest „nihilque am. est"" M²"
+PMK-7-1-206,7,1,variant,regis,Ad,,"1 regis Ad; „ducis"" deest W"
+PMK-7-1-207,7,1,omission,"„ducis"" deest",W,,"1 regis Ad; „ducis"" deest W"
+PMK-7-2-208,7,2,omission,"deest: „Cum autem - coronarentur""",P,,"2 deest: „Cum autem - coronarentur"" P"
+PMK-7-3-209,7,3,variant,appropinquaret,W,,3 appropinquaret W
+PMK-7-4-210,7,4,variant,vacabant se,M1,,"4 vacabant se M¹; post „vacabant"" rasura, ut „se"" aut „et"" scriptum fuisse videatur V"
+PMK-7-4-211,7,4,scribal_correction,"post „vacabant"" rasura, ut „se"" aut „et"" scriptum fuisse videatur",V,,"4 vacabant se M¹; post „vacabant"" rasura, ut „se"" aut „et"" scriptum fuisse videatur V"
+PMK-7-5-212,7,5,variant,ieiuniis et orationibus unanimiter,V,,5 ieiuniis et orationibus unanimiter V
+PMK-7-6-213,7,6,variant,expectabant,W,,6 expectabant W
+PMK-7-7-214,7,7,omission,"deest: „diem - optatam""",Ad,,"7 deest: „diem - optatam"" Ad"
+PMK-7-8-215,7,8,variant,ut ad coronam martyrii pervenirent,W,,8 ut ad coronam martyrii pervenirent W
+PMK-7-9-216,7,9,variant,die,V|W,,"9 die VW; reliqui „nocte"" - 10 voluit P; velut W"
+PMK-7-9-217,7,9,transposition_or_lacuna,"reliqui „nocte"" - 10 voluit",P,,"9 die VW; reliqui „nocte"" - 10 voluit P; velut W"
+PMK-7-9-218,7,9,variant,velut,W,,"9 die VW; reliqui „nocte"" - 10 voluit P; velut W"
+PMK-7-11-219,7,11,variant,unianimiter,V|M1,,11 unianimiter VM¹
+PMK-7-12-220,7,12,variant,persistebant,W,,12 persistebant W
+PMK-7-13-221,7,13,addition,addit: quem Geylana corruperat suis illecebris,P,,13 addit: quem Geylana corruperat suis illecebris P
+PMK-7-14-222,7,14,variant,accuto,W,,14 accuto W
+PMK-7-15-223,7,15,variant,Dei amicos iugulare,W,,15 Dei amicos iugulare W; Dei amicos ad iugulandum P
+PMK-7-15-224,7,15,variant,Dei amicos ad iugulandum,P,,15 Dei amicos iugulare W; Dei amicos ad iugulandum P
+PMK-7-16-225,7,16,variant,Gelanae,Ad,,16 Gelanae Ad; Geylane P; conplens M¹
+PMK-7-16-226,7,16,variant,Geylane,P,,16 Gelanae Ad; Geylane P; conplens M¹
+PMK-7-16-227,7,16,variant,conplens,M1,,16 Gelanae Ad; Geylane P; conplens M¹
+PMK-7-17-228,7,17,alternative_reading,regis l. ducis,Ad,,17 regis l. ducis Ad
+PMK-7-18-229,7,18,omission,"„Killena"" deest",M2,,"18 „Killena"" deest M²; Kyllena Ad; Kylianus P"
+PMK-7-18-230,7,18,variant,Kyllena,Ad,,"18 „Killena"" deest M²; Kyllena Ad; Kylianus P"
+PMK-7-18-231,7,18,variant,Kylianus,P,,"18 „Killena"" deest M²; Kyllena Ad; Kylianus P"
+PMK-7-19-232,7,19,omission,"deest „diu""",Ad,,"19 deest „diu"" Ad; diu optata dies W"
+PMK-7-19-233,7,19,variant,diu optata dies,W,,"19 deest „diu"" Ad; diu optata dies W"
+PMK-7-20-234,7,20,variant,inite mecum,M2,,20 inite mecum M²
+PMK-7-21-235,7,21,omission,et sine,W,,21 et sine W
+PMK-7-22-236,7,22,omission,"deest: „sine trepidatione""",M2,,"22 deest: „sine trepidatione"" M²"
+PMK-7-23-237,7,23,variant,vocem Domini,M2,,23 vocem Domini M²
+PMK-7-24-238,7,24,variant,occidunt corpus,M2|W,,24 occidunt corpus M²W
+PMK-7-25-239,7,25,omission,"deest a „capitibus - coronati""",,,"25 deest a „capitibus - coronati""; legitur „decollati sunt"" W"
+PMK-7-25-240,7,25,variant,"legitur „decollati sunt""",W,,"25 deest a „capitibus - coronati""; legitur „decollati sunt"" W"
+PMK-7-26-241,7,26,omission,"„etenim"" deest",M2|Ad,,"26 „etenim"" deest M²Ad"
+PMK-7-27-242,7,27,variant,in eodem loco,W,,27 in eodem loco W; deest: eodem in loco Ad
+PMK-7-27-243,7,27,omission,deest: eodem in loco,Ad,,27 in eodem loco W; deest: eodem in loco Ad
+PMK-7-28-244,7,28,variant,et crux,W,,28 et crux W
+PMK-7-29-245,7,29,variant,alia simul,Ad,,29 alia simul Ad
+PMK-7-30-246,7,30,omission,"„quaedam"" deest",M2|Ad,,"30 „quaedam"" deest M²Ad"
+PMK-7-31-247,7,31,variant,consuetudo,W|M2,,31 consuetudo WM²
+PMK-7-32-248,7,32,alternative_reading,in verno l. et verno,W,,32 in verno l. et verno W
+PMK-7-33-249,7,33,omission,"„temporeque aestivo"" deest",W,,"33 „temporeque aestivo"" deest W"
+PMK-7-34-250,7,34,variant,quod quando,Ad,,34 quod quando Ad
+PMK-8-1-251,8,1,variant,duum,M2,,1 duum M²
+PMK-8-2-252,8,2,variant,fodi,W,,"2 fodi W; fodi ras. spatii „ri"" M¹"
+PMK-8-2-253,8,2,variant,"fodi ras. spatii „ri""",M1,,"2 fodi W; fodi ras. spatii „ri"" M¹"
+PMK-8-3-254,8,3,variant,eruperit,W,,3 eruperit W; erumpet M²
+PMK-8-3-255,8,3,variant,erumpet,M2,,3 eruperit W; erumpet M²
+PMK-8-4-256,8,4,variant,de sepulchro,M2,,4 de sepulchro M²
+PMK-8-5-257,8,5,variant,sublevare honorem voluit,W,,5 sublevare honorem voluit W
+PMK-8-6-258,8,6,omission,"„unum"" deest",Ad,,"6 „unum"" deest Ad; folium librorum Ad"
+PMK-8-6-259,8,6,variant,folium librorum,Ad,,"6 „unum"" deest Ad; folium librorum Ad"
+PMK-8-7-260,8,7,omission,"„ipsorum"" deest",W,,"7 „ipsorum"" deest W; eorum M²"
+PMK-8-7-261,8,7,variant,eorum,M2,,"7 „ipsorum"" deest W; eorum M²"
+PMK-8-8-262,8,8,variant,putridine,V,,8 putridine V
+PMK-8-9-263,8,9,variant,consumptum est,V|M1,,9 consumptum est VM¹; consumeretur W; consumptum sit M²; consumpta esset Ad
+PMK-8-9-264,8,9,variant,consumeretur,W,,9 consumptum est VM¹; consumeretur W; consumptum sit M²; consumpta esset Ad
+PMK-8-9-265,8,9,variant,consumptum sit,M2,,9 consumptum est VM¹; consumeretur W; consumptum sit M²; consumpta esset Ad
+PMK-8-9-266,8,9,variant,consumpta esset,Ad,,9 consumptum est VM¹; consumeretur W; consumptum sit M²; consumpta esset Ad
+PMK-8-10-267,8,10,variant,suprascripti,V,,10 suprascripti V
+PMK-8-11-268,8,11,variant,servi dei essent,M2,,11 servi dei essent M²
+PMK-8-12-269,8,12,variant,neci,V|M1,,12 neci VM¹
+PMK-8-13-270,8,13,alternative_reading,"„erat"" l. tenebatur",M2,,"13 „erat"" l. tenebatur M²; „eos necaverat"" M¹"
+PMK-8-13-271,8,13,variant,"„eos necaverat""",M1,,"13 „erat"" l. tenebatur M²; „eos necaverat"" M¹"
+PMK-8-14-272,8,14,variant,hic et illic,M1|W,,14 hic et illic M¹W; et illuc M²
+PMK-8-14-273,8,14,variant,et illuc,M2,,14 hic et illic M¹W; et illuc M²
+PMK-8-15-274,8,15,variant,infronitious,V|M1,,"15 infronitious VM¹; Sg. l. „in"" rasura; freneticus WM²Ad"
+PMK-8-15-275,8,15,scribal_correction,"Sg. l. „in"" rasura",,,"15 infronitious VM¹; Sg. l. „in"" rasura; freneticus WM²Ad"
+PMK-8-15-276,8,15,variant,freneticus,W|M2|Ad,,"15 infronitious VM¹; Sg. l. „in"" rasura; freneticus WM²Ad"
+PMK-8-16-277,8,16,variant,agebat,V|M2,,16 agebat VM²
+PMK-8-17-278,8,17,variant,Kyllena,Ad,,17 Kyllena Ad
+PMK-8-18-279,8,18,orthographic,exurat,Sg,,18 exurat Sg; ferocissima exurat V; exurat M¹; incendis me W
+PMK-8-18-280,8,18,variant,ferocissima exurat,V,,18 exurat Sg; ferocissima exurat V; exurat M¹; incendis me W
+PMK-8-18-281,8,18,orthographic,exurat,M1,,18 exurat Sg; ferocissima exurat V; exurat M¹; incendis me W
+PMK-8-18-282,8,18,variant,incendis me,W,,18 exurat Sg; ferocissima exurat V; exurat M¹; incendis me W
+PMK-8-19-283,8,19,variant,simul cum illo,V|W|M1,,19 simul cum illo VWM¹
+PMK-8-20-284,8,20,omission,"„erat"" deest",M2,,"20 „erat"" deest M²"
+PMK-8-21-285,8,21,variant,sacro baptismate,Ad,,21 sacro baptismate Ad
+PMK-8-22-286,8,22,variant,baptizatus,W,,22 baptizatus W
+PMK-8-23-287,8,23,omission,"„eos"" deest",M2,,"23 „eos"" deest M²"
+PMK-8-24-288,8,24,variant,erat enim,Ad,,24 erat enim Ad
+PMK-8-25-289,8,25,omission,"„uxoris Gozberti"" deest",W|Ad,,"25 „uxoris Gozberti"" deest WAd"
+PMK-8-26-290,8,26,omission,"„taliter"" deest",W,,"26 „taliter"" deest W"
+PMK-8-27-291,8,27,variant,inquid,V|M1|M2,,27 inquid VM¹M²
+PMK-8-28-292,8,28,variant,dixit,Ad,,28 dixit Ad
+PMK-8-29-293,8,29,variant,et de,V|M2|W,,29 et de VM²W
+PMK-8-29b-294,8,29b,omission,"„qui simul"" deest",M2,,"29b „qui simul"" deest M²"
+PMK-8-30-295,8,30,variant,suscepimus ab ipsis,V,,30 suscepimus ab ipsis V
+PMK-8-31-296,8,31,omission,"deest „ab illis""",W,,"31 deest „ab illis"" W"
+PMK-8-32-297,8,32,omission,"„tam praepotens sit"" deest",W,,"32 „tam praepotens sit"" deest W; „tam fortis"" deest Ad"
+PMK-8-32-298,8,32,omission,"„tam fortis"" deest",Ad,,"32 „tam praepotens sit"" deest W; „tam fortis"" deest Ad"
+PMK-8-33-299,8,33,variant,bona bonis,W|M2,,33 bona bonis WM²
+PMK-8-34-300,8,34,omission,"et mala malis „in novissimis - nisi"" deest",M2,,"34 et mala malis „in novissimis - nisi"" deest M²"
+PMK-8-35-301,8,35,variant,poenitentiam se,M2,,35 poenitentiam se M²
+PMK-9-1-302,9,1,variant,sicut et,Sg,,"1 sicut et Sg; sine „et"" VWM²"
+PMK-9-1-303,9,1,omission,"sine „et""",V|W|M2,,"1 sicut et Sg; sine „et"" VWM²"
+PMK-9-2-304,9,2,variant,dixerunt et illi,M1|Ad,,2 dixerunt et illi M¹Ad
+PMK-9-3-305,9,3,variant,descendit,W,,3 descendit W
+PMK-9-4-306,9,4,scribal_correction,vindicat,M2,marg. mauus II.,4 vindicat M² [marg. mauus II.]
+PMK-9-5-307,9,5,omission,"„alias"" deest",W,,"5 „alias"" deest W"
+PMK-9-6-308,9,6,variant,omnes praeter,Sg,,6 omnes praeter Sg
+PMK-9-7-309,9,7,variant,patres fecerunt,M2,,7 patres fecerunt M²
+PMK-9-8-310,9,8,variant,in ea,M1,,8 in ea M¹
+PMK-9-9-311,9,9,omission,"„in eo"" deest",W,,"9 „in eo"" deest W"
+PMK-9-10-312,9,10,variant,usque nunc,M2,,10 usque nunc M²
+PMK-9-11-313,9,11,alternative_reading,"„autem"" l. quoque",W,,"11 „autem"" l. quoque W"
+PMK-9-12-314,9,12,variant,hominis dictum,V,,12 hominis dictum V
+PMK-9-13-315,9,13,variant,"ille, miser",W|M2,,"13 ille, miser WM²"
+PMK-9-14-316,9,14,variant,de medio,Ad,,14 de medio Ad
+PMK-9-15-317,9,15,omission,"„vero"" deest",M1,,"15 „vero"" deest M¹"
+PMK-9-16-318,9,16,variant,fuisset,W,,16 fuisset W
+PMK-9-17-319,9,17,variant,dentibus laniare,W,,17 dentibus laniare W
+PMK-9-18-320,9,18,variant,quoadusque,W,,18 quoadusque W
+PMK-9-19-321,9,19,variant,finiret,W|Ad,,19 finiret WAd
+PMK-9-20-322,9,20,omission,"„praesentem"" deest",Ad,,"20 „praesentem"" deest Ad"
+PMK-9-21-323,9,21,variant,viderant,M1,,"21 viderant M¹; ergo viderant, sine „cum"" V; audirent l. viderent W"
+PMK-9-21-324,9,21,omission,"ergo viderant, sine „cum""",V,,"21 viderant M¹; ergo viderant, sine „cum"" V; audirent l. viderent W"
+PMK-9-21-325,9,21,alternative_reading,audirent l. viderent,W,,"21 viderant M¹; ergo viderant, sine „cum"" V; audirent l. viderent W"
+PMK-9-22-326,9,22,variant,sacro baptismate,Ad,,22 sacro baptismate Ad
+PMK-9-23-327,9,23,variant,fuerunt,V,,23 fuerunt V
+PMK-9-24-328,9,24,variant,erant,Ad,,24 erant Ad
+PMK-9-25-329,9,25,variant,alia laudantes Domino spondebant se velle oboedire,W,,25 alia laudantes Domino spondebant se velle oboedire W
+PMK-9-26-330,9,26,scribal_correction,"„clamabant"", manus posterior",Sg,,"26 „clamabant"", manus posterior Sg; doctrinae clamabant M²Ad"
+PMK-9-26-331,9,26,variant,doctrinae clamabant,M2|Ad,,"26 „clamabant"", manus posterior Sg; doctrinae clamabant M²Ad"
+PMK-9-27-332,9,27,variant,perfectis,V,,27 perfectis V
+PMK-9-28-333,9,28,variant,illam,M1|M2|W,,28 illam M¹M²W
+PMK-9-29-334,9,29,variant,finivit,,,29 finivit; P; finiret VM²Ad
+PMK-9-29-335,9,29,variant,,P,,29 finivit; P; finiret VM²Ad
+PMK-9-29-336,9,29,variant,finiret,V|M2|Ad,,29 finivit; P; finiret VM²Ad
+PMK-9-30-337,9,30,variant,Judicem vero,P,,30 Judicem vero P
+PMK-9-31-338,9,31,variant,"ita in omnibus mmss., sui servi occiderunt",W,,"31 ita in omnibus mmss., sui servi occiderunt W; gladio suo occiderunt servi V"
+PMK-9-31-339,9,31,variant,gladio suo occiderunt servi,V,,"31 ita in omnibus mmss., sui servi occiderunt W; gladio suo occiderunt servi V"
+PMK-9-32-340,9,32,variant,Hetanium,M1,,32 Hetanium M¹
+PMK-9-33-341,9,33,variant,eius filium,W,,33 eius filium W
+PMK-9-34-342,9,34,variant,populi,W,,34 populi W
+PMK-9-35-343,9,35,variant,eiecit,P,,35 eiecit P
+PMK-9-36-344,9,36,variant,progeniem illius,W,,36 progeniem illius W
+PMK-9-37-345,9,37,variant,unus quidem de stirpe eius,W,,37 unus quidem de stirpe eius W
+PMK-9-38-346,9,38,variant,remanebat,V,,38 remanebat V
+PMK-9-39-347,9,39,variant,in illo loco,Ad,,39 in illo loco Ad
+PMK-9-40-348,9,40,alternative_reading,requieverant l. sepulta sunt,W,,40 requieverant l. sepulta sunt W
+PMK-9-41-349,9,41,variant,quodquod autem,V,,41 quodquod autem V
+PMK-9-42-350,9,42,variant,illo,M2,,42 illo M²
+PMK-9-43-351,9,43,variant,venientes,Ad,,43 venientes Ad
+PMK-9-44-352,9,44,alternative_reading,ergo l. autem,M2,,44 ergo l. autem M²
+PMK-10-1-353,10,1,variant,praecepto et consilio,W,,"1 praecepto et consilio W; „praecepto"" deest V"
+PMK-10-1-354,10,1,omission,"„praecepto"" deest",V,,"1 praecepto et consilio W; „praecepto"" deest V"
+PMK-10-2-355,10,2,variant,Bonifatio,W,,2 Bonifatio W
+PMK-10-3-356,10,3,omission,"„a Burchardo - episcopo"" deest",M2|Ad,,"3 „a Burchardo - episcopo"" deest M²Ad; uuirziburgensium Sg; Wirciburchgensium V"
+PMK-10-3-357,10,3,variant,uuirziburgensium,Sg,,"3 „a Burchardo - episcopo"" deest M²Ad; uuirziburgensium Sg; Wirciburchgensium V"
+PMK-10-3-358,10,3,variant,Wirciburchgensium,V,,"3 „a Burchardo - episcopo"" deest M²Ad; uuirziburgensium Sg; Wirciburchgensium V"
+PMK-10-4-359,10,4,omission,"„feliciter"" deest",W|Ad,,"4 „feliciter"" deest WAd; Per Domin. etc. M²"
+PMK-10-4-360,10,4,variant,Per Domin. etc.,M2,,"4 „feliciter"" deest WAd; Per Domin. etc. M²"

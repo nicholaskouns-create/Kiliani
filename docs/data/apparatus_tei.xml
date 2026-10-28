@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader><fileDesc><titleStmt><title>Passio minor Kiliani — apparatus criticus</title>
+  <respStmt><resp>collation</resp><name>Franz Emmerich, Der heilige Kilian (Würzburg 1896), pp. 3-10</name></respStmt>
+  <respStmt><resp>machine-readable encoding</resp><name>N. S. Kouns research corpus</name></respStmt>
+  </titleStmt><publicationStmt><p>Research edition.</p></publicationStmt>
+  <sourceDesc><listWit>
+    <witness xml:id="Sg"><msDesc><msIdentifier><repository>Stiftsbibliothek St. Gallen</repository><idno>Cod. Sang. 566</idno></msIdentifier><history><origin>s. IX</origin></history><physDesc><p>pp. 212-219</p></physDesc></msDesc></witness>
+    <witness xml:id="V"><msDesc><msIdentifier><repository>Österreichische Nationalbibliothek, Vienna</repository><idno>Cod. 552</idno></msIdentifier><history><origin>s. X in.</origin></history><physDesc><p>f. 107v-112r</p></physDesc></msDesc></witness>
+    <witness xml:id="M1"><msDesc><msIdentifier><repository>Bayerische Staatsbibliothek, Munich</repository><idno>Clm 4585</idno></msIdentifier><history><origin>s. IX-XI</origin></history><physDesc><p>f. 115r-119v</p></physDesc></msDesc></witness>
+    <witness xml:id="M2"><msDesc><msIdentifier><repository>Bayerische Staatsbibliothek, Munich</repository><idno>Clm 4332</idno></msIdentifier><history><origin>s. XII</origin></history><physDesc><p>f. 68r-70v</p></physDesc></msDesc></witness>
+    <witness xml:id="Ad"><msDesc><msIdentifier><repository>Stiftsbibliothek Admont</repository><idno>Cod. 412</idno></msIdentifier><history><origin>s. XII</origin></history><physDesc><p>f. 118r-120v</p></physDesc></msDesc></witness>
+    <witness xml:id="W"><msDesc><msIdentifier><repository>Universitätsbibliothek Würzburg</repository><idno>M.p.th.f. 64</idno></msIdentifier><history><origin>s. XI</origin></history><physDesc><p>f. 304r-307</p></physDesc></msDesc></witness>
+    <witness xml:id="P"><msDesc><msIdentifier><repository>Graf von Schönborn'sche Bibliothek, Pommersfelden</repository><idno>Cod. 2896</idno></msIdentifier><history><origin>s. XIII-XIV</origin></history><physDesc><p>f. 182v-183v</p></physDesc></msDesc></witness>
+  </listWit></sourceDesc></fileDesc></teiHeader>
+  <text><body>
+    <app n="3.1">
+      <rdg wit="#M1" type="variant">nomine Killena</rdg>
+    </app>
+    <app n="3.2">
+      <rdg wit="#V" type="variant">scottorum</rdg>
+      <rdg wit="#M2" type="variant">scotica</rdg>
+      <rdg wit="#P" type="variant">scothica</rdg>
+    </app>
+    <app n="3.3">
+      <rdg wit="#W #Ad" type="variant">disceret</rdg>
+      <rdg wit="#Sg" type="scribal_correction">didicit</rdg>
+      <rdg wit="#M1" type="orthographic">didicit</rdg>
+      <rdg wit="#M2" type="variant">didicerit</rdg>
+      <rdg wit="#P" type="scribal_correction">didicisset</rdg>
+    </app>
+    <app n="3.4">
+      <rdg wit="#V #M2 #Ad #P" type="omission">„iam" deest</rdg>
+    </app>
+    <app n="3.5">
+      <rdg wit="#Sg #M2" type="variant">ita</rdg>
+      <rdg wit="#V #M1 #W" type="orthographic">Kilianus</rdg>
+      <rdg wit="#Ad #P" type="orthographic">Kylianus</rdg>
+    </app>
+    <app n="3.6">
+      <rdg wit="#M2" type="variant">Hic</rdg>
+    </app>
+    <app n="3.7">
+      <rdg wit="#Sg #M1" type="scribal_correction">e = est, a. m. II ad marg.</rdg>
+      <rdg wit="#W" type="variant">erat ut</rdg>
+      <rdg wit="#M2" type="variant">est ut</rdg>
+      <rdg wit="#P" type="omission">„ut" deest</rdg>
+    </app>
+    <app n="3.8">
+      <rdg wit="#Ad" type="variant">operi</rdg>
+    </app>
+    <app n="3.9">
+      <rdg wit="#M1" type="scribal_correction">„cessa" in rasura „ret" II m.</rdg>
+      <rdg wit="#W" type="variant">cessabat</rdg>
+      <rdg wit="#P" type="variant">cessaret</rdg>
+    </app>
+    <app n="3.10">
+      <rdg wit="#V" type="omission">„esset" deest</rdg>
+      <rdg wit="#W" type="variant">admonitus fieret</rdg>
+      <rdg wit="#M2" type="variant">admoneretur</rdg>
+      <rdg wit="#Ad" type="variant">moneretur</rdg>
+      <rdg wit="#M1" type="variant">audiret</rdg>
+    </app>
+    <app n="3.11">
+      <rdg wit="#V #M1 #W" type="variant">Post me venire</rdg>
+    </app>
+    <app n="3.12">
+      <rdg wit="#P" type="variant">hoc</rdg>
+    </app>
+    <app n="3.13">
+      <rdg wit="#P" type="variant">beatissimus vir secum</rdg>
+    </app>
+    <app n="3.14">
+      <rdg wit="#Ad" type="variant">mentis ac cordis</rdg>
+    </app>
+    <app n="3.15">
+      <rdg wit="#Ad" type="scribal_correction">pertransiens</rdg>
+    </app>
+    <app n="3.16">
+      <rdg wit="#Sg" type="scribal_correction">sociis</rdg>
+      <rdg wit="#P" type="variant">„suis" loco sociis</rdg>
+    </app>
+    <app n="3.17">
+      <rdg wit="#P" type="alternative_reading">scilicet l. id est</rdg>
+    </app>
+    <app n="4.1">
+      <rdg wit="#W" type="variant">colonato atque</rdg>
+      <rdg wit="#P" type="variant">colomanno atque</rdg>
+    </app>
+    <app n="4.2">
+      <rdg wit="" type="scribal_correction">„gallo" in Sg syllaba „ne" rasura deleta est</rdg>
+      <rdg wit="#Ad" type="variant">gallo</rdg>
+    </app>
+    <app n="4.3">
+      <rdg wit="#Sg #M1 #Ad #P" type="variant">arnuuale</rdg>
+      <rdg wit="#M2" type="variant">aruuale</rdg>
+      <rdg wit="#V" type="variant">atque arnuuale</rdg>
+    </app>
+    <app n="4.4">
+      <rdg wit="#P" type="variant">thotmanno</rdg>
+    </app>
+    <app n="4.5">
+      <rdg wit="#W #M2" type="variant">et aliis</rdg>
+      <rdg wit="#P" type="variant">aliisque</rdg>
+    </app>
+    <app n="4.6">
+      <rdg wit="#W #M2" type="omission">„illis" deest</rdg>
+    </app>
+    <app n="4.7">
+      <rdg wit="#P" type="variant">eis</rdg>
+    </app>
+    <app n="4.8">
+      <rdg wit="#Sg" type="variant">contempni</rdg>
+      <rdg wit="#W" type="orthographic">contempnere</rdg>
+      <rdg wit="#P" type="variant">propriam contempnere</rdg>
+      <rdg wit="#M2" type="orthographic">contemnere</rdg>
+    </app>
+    <app n="4.9">
+      <rdg wit="#W #Ad #P" type="variant">patriam parentesque</rdg>
+    </app>
+    <app n="4.10">
+      <rdg wit="#Ad" type="variant">secundum evangelium domini nudosque Christum sequi</rdg>
+    </app>
+    <app n="4.11">
+      <rdg wit="#V #P" type="variant">namque sacrae statim</rdg>
+    </app>
+    <app n="4.12">
+      <rdg wit="#Sg" type="variant">ammonitioni</rdg>
+    </app>
+    <app n="4.13">
+      <rdg wit="#M1" type="variant">obtemperantes beati viri</rdg>
+    </app>
+    <app n="4.14">
+      <rdg wit="#W #P" type="variant">australem partem</rdg>
+      <rdg wit="#Ad" type="variant">ad australium partium finem</rdg>
+    </app>
+    <app n="4.15">
+      <rdg wit="#Sg #M1" type="variant">vocatur</rdg>
+    </app>
+    <app n="4.16">
+      <rdg wit="#Sg #M1" type="orthographic">uuirziburc</rdg>
+      <rdg wit="#V" type="orthographic">uuirziburch</rdg>
+      <rdg wit="#W" type="variant">uuirziburg</rdg>
+      <rdg wit="#M2" type="variant">wirzipurch</rdg>
+      <rdg wit="#Ad" type="variant">uuirzpurch</rdg>
+      <rdg wit="#P" type="variant">wirzeburg</rdg>
+    </app>
+    <app n="4.17">
+      <rdg wit="#M1" type="variant">aliquot</rdg>
+    </app>
+    <app n="4.18">
+      <rdg wit="#P" type="omission">„ibi" deest</rdg>
+    </app>
+    <app n="4.19">
+      <rdg wit="#M1 #M2" type="variant">Gozperto</rdg>
+    </app>
+    <app n="4.20">
+      <rdg wit="#M2" type="variant">hetanis</rdg>
+      <rdg wit="#P" type="variant">baethenis</rdg>
+    </app>
+    <app n="4.21">
+      <rdg wit="#P" type="omission">„filius" deest</rdg>
+    </app>
+    <app n="4.22">
+      <rdg wit="#V" type="variant">herodis</rdg>
+      <rdg wit="#W #P" type="variant">ruodis</rdg>
+    </app>
+    <app n="4.23">
+      <rdg wit="#W" type="omission">„ipse" deest</rdg>
+    </app>
+    <app n="4.24">
+      <rdg wit="#Ad" type="variant">plebs sibi subiecta</rdg>
+    </app>
+    <app n="4.25">
+      <rdg wit="#Ad" type="variant">vivebant ritu</rdg>
+    </app>
+    <app n="4.26">
+      <rdg wit="#P" type="variant">ydola</rdg>
+    </app>
+    <app n="4.27">
+      <rdg wit="#V" type="variant">adque</rdg>
+    </app>
+    <app n="4.28">
+      <rdg wit="#Ad" type="variant">non agnoscentes</rdg>
+    </app>
+    <app n="4.29">
+      <rdg wit="#W" type="alternative_reading">vero l. autem</rdg>
+    </app>
+    <app n="4.30">
+      <rdg wit="#P" type="variant">vir sanctissimus</rdg>
+    </app>
+    <app n="4.31">
+      <rdg wit="#Ad" type="variant">illic locum</rdg>
+    </app>
+    <app n="4.32">
+      <rdg wit="#W #P" type="transposition_or_lacuna">pulcherrimum populum ... obsessum</rdg>
+    </app>
+    <app n="4.33">
+      <rdg wit="#V #M2" type="variant">ultra quod</rdg>
+    </app>
+    <app n="4.34">
+      <rdg wit="#Ad" type="variant">illorum dolebat</rdg>
+    </app>
+    <app n="4.35">
+      <rdg wit="#V" type="variant">initque consilium</rdg>
+      <rdg wit="#P" type="variant">et inlit</rdg>
+    </app>
+    <app n="4.36">
+      <rdg wit="#M1" type="variant">elegantem</rdg>
+      <rdg wit="#M2" type="variant">eligantem</rdg>
+    </app>
+    <app n="4.37">
+      <rdg wit="#W" type="variant">ut</rdg>
+    </app>
+    <app n="4.38">
+      <rdg wit="#Ad" type="variant">diximus</rdg>
+    </app>
+    <app n="4.39">
+      <rdg wit="#W #P" type="variant">fuimus in regione vel patria nostra</rdg>
+    </app>
+    <app n="4.40">
+      <rdg wit="#W #Ad" type="variant">principis</rdg>
+      <rdg wit="#M2" type="variant">principum apostolorum</rdg>
+    </app>
+    <app n="4.41">
+      <rdg wit="#Sg #M1" type="variant">ita</rdg>
+    </app>
+    <app n="4.42">
+      <rdg wit="#V" type="omission">„papae" deest</rdg>
+      <rdg wit="#W #M2" type="variant">iohannis</rdg>
+    </app>
+    <app n="5.1">
+      <rdg wit="#P" type="variant">consulto</rdg>
+    </app>
+    <app n="5.2">
+      <rdg wit="#M1" type="variant">revertamus</rdg>
+    </app>
+    <app n="5.3">
+      <rdg wit="#W" type="variant">nec</rdg>
+    </app>
+    <app n="5.4">
+      <rdg wit="#M1" type="variant">compleverunt</rdg>
+      <rdg wit="#Ad" type="variant">dicta compleverunt</rdg>
+    </app>
+    <app n="5.5">
+      <rdg wit="#W" type="alternative_reading">apostoli, l. principis apostolorum</rdg>
+    </app>
+    <app n="5.6">
+      <rdg wit="#M2 #P" type="variant">illuc</rdg>
+      <rdg wit="#Ad" type="variant">Romam autem</rdg>
+    </app>
+    <app n="5.7">
+      <rdg wit="#V #W #M2" type="omission">„iohannem" deest</rdg>
+      <rdg wit="#P" type="variant">et apostolicum invenientes</rdg>
+    </app>
+    <app n="5.8">
+      <rdg wit="#W" type="variant">quoniam iam defunctus erat</rdg>
+      <rdg wit="#Ad" type="variant">iohannem, qui defunctus erat, non invenientes</rdg>
+      <rdg wit="#P" type="variant">defunctus est iohannes papa</rdg>
+    </app>
+    <app n="5.9">
+      <rdg wit="#Sg" type="scribal_correction">canone</rdg>
+      <rdg wit="#Ad" type="variant">castore</rdg>
+    </app>
+    <app n="5.10">
+      <rdg wit="#Ad #P" type="variant">Kyllena</rdg>
+      <rdg wit="#W" type="omission">„praedictus Dei pontifex Kilianus" deest</rdg>
+    </app>
+    <app n="5.11">
+      <rdg wit="#W" type="variant">atque</rdg>
+    </app>
+    <app n="5.12">
+      <rdg wit="#Sg" type="scribal_correction">in margine: temporibus iustiniani imperatoris primi</rdg>
+    </app>
+    <app n="5.13">
+      <rdg wit="#Sg" type="variant">canon</rdg>
+    </app>
+    <app n="5.14">
+      <rdg wit="#W" type="variant">audiret</rdg>
+    </app>
+    <app n="5.15">
+      <rdg wit="#P" type="omission">„et ad quod venerat" deest</rdg>
+    </app>
+    <app n="5.16">
+      <rdg wit="#M2" type="omission">„ad quem" deest</rdg>
+    </app>
+    <app n="5.17">
+      <rdg wit="#V" type="omission">„exinde" deest</rdg>
+      <rdg wit="#Ad" type="variant">inde</rdg>
+    </app>
+    <app n="5.18">
+      <rdg wit="#W #Ad" type="variant">erat</rdg>
+    </app>
+    <app n="5.19">
+      <rdg wit="#W" type="omission">„pariter" deest</rdg>
+    </app>
+    <app n="5.20">
+      <rdg wit="#W" type="variant">atque</rdg>
+    </app>
+    <app n="5.21">
+      <rdg wit="#Sg" type="omission">„a" deest</rdg>
+    </app>
+    <app n="5.22">
+      <rdg wit="#W #M2" type="omission">„principe apostolorum" deest</rdg>
+    </app>
+    <app n="5.23">
+      <rdg wit="#W" type="omission">„et quoscunque faceret" deest</rdg>
+    </app>
+    <app n="5.24">
+      <rdg wit="#Ad" type="variant">posset</rdg>
+    </app>
+    <app n="5.25">
+      <rdg wit="#V" type="variant">adque</rdg>
+    </app>
+    <app n="5.26">
+      <rdg wit="#M2" type="omission">„namque" deest</rdg>
+    </app>
+    <app n="5.27">
+      <rdg wit="#Ad" type="variant">inde</rdg>
+    </app>
+    <app n="5.28">
+      <rdg wit="#M2" type="omission">„in" deest</rdg>
+      <rdg wit="#W" type="omission">„in itinere - et venerunt" deest</rdg>
+    </app>
+    <app n="5.29">
+      <rdg wit="#M2 #P" type="variant">tantum</rdg>
+      <rdg wit="#Ad" type="variant">corporaliter non tamen</rdg>
+    </app>
+    <app n="5.30">
+      <rdg wit="#Ad" type="variant">adhaerebant autem</rdg>
+    </app>
+    <app n="5.31">
+      <rdg wit="#Sg #M1" type="orthographic">Chiliano</rdg>
+      <rdg wit="#M2" type="orthographic">Kiliano</rdg>
+      <rdg wit="#P" type="orthographic">Kyliano</rdg>
+    </app>
+    <app n="5.32">
+      <rdg wit="#M1" type="variant">presbiter</rdg>
+    </app>
+    <app n="5.33">
+      <rdg wit="#P" type="variant">dyaconus</rdg>
+    </app>
+    <app n="5.34">
+      <rdg wit="#W #P" type="variant">in australem partem francorum</rdg>
+    </app>
+    <app n="5.35">
+      <rdg wit="#W" type="variant">nominatur</rdg>
+    </app>
+    <app n="5.36">
+      <rdg wit="#Ad" type="variant">praedicabant</rdg>
+    </app>
+    <app n="5.37">
+      <rdg wit="#Sg" type="variant">imprimitis</rdg>
+      <rdg wit="#W #P" type="variant">primitus</rdg>
+    </app>
+    <app n="5.38">
+      <rdg wit="#W #Ad" type="variant">Dei</rdg>
+    </app>
+    <app n="5.39">
+      <rdg wit="#M2" type="alternative_reading">cum que l. cum autem</rdg>
+    </app>
+    <app n="5.40">
+      <rdg wit="#V #W" type="variant">„essent"</rdg>
+      <rdg wit="" type="scribal_correction">rasura parva praecedit, fortasse syllaba „ad" scripta erat</rdg>
+    </app>
+    <app n="6.1">
+      <rdg wit="#M2 #P" type="omission">invicem (sine in)</rdg>
+    </app>
+    <app n="6.2">
+      <rdg wit="#W" type="omission">„et confabularentur" et a „in invicem - gozbertus" deest</rdg>
+      <rdg wit="#Ad" type="variant">confabulati sunt</rdg>
+    </app>
+    <app n="6.3">
+      <rdg wit="#Sg #V #W #M1 #M2" type="variant">ita:</rdg>
+    </app>
+    <app n="6.4">
+      <rdg wit="#W" type="variant">non post longum tempus</rdg>
+      <rdg wit="#Ad" type="variant">non post multum tempus</rdg>
+    </app>
+    <app n="6.5">
+      <rdg wit="#W" type="variant">eum</rdg>
+      <rdg wit="#Ad #P" type="variant">illi</rdg>
+    </app>
+    <app n="6.6">
+      <rdg wit="#W" type="omission">„devotus Domini pontifex Kilianus" deest</rdg>
+      <rdg wit="#Ad" type="variant">prefatus episcopus</rdg>
+    </app>
+    <app n="6.7">
+      <rdg wit="#P" type="variant">fieri Christianus</rdg>
+    </app>
+    <app n="6.8">
+      <rdg wit="#M2 #Ad" type="variant">acquiescens</rdg>
+    </app>
+    <app n="6.9">
+      <rdg wit="#P" type="variant">est et</rdg>
+    </app>
+    <app n="6.10">
+      <rdg wit="#Ad" type="variant">potestate illius</rdg>
+    </app>
+    <app n="6.11">
+      <rdg wit="#Ad #P" type="variant">erat</rdg>
+    </app>
+    <app n="6.12">
+      <rdg wit="#Ad" type="omission">deest „dux"</rdg>
+    </app>
+    <app n="6.13">
+      <rdg wit="#M2" type="variant">maherimonia</rdg>
+      <rdg wit="#M2" type="variant">cf. Bull. II. Jul. f. 614. ann. h.</rdg>
+    </app>
+    <app n="6.14">
+      <rdg wit="#W #Ad" type="variant">consuetudo erat</rdg>
+      <rdg wit="#M2" type="variant">consuetudo fuit</rdg>
+    </app>
+    <app n="6.15">
+      <rdg wit="#W" type="variant">sapienter facit</rdg>
+      <rdg wit="#M2" type="omission">„semper" et „sapienter" deest</rdg>
+      <rdg wit="#P" type="omission">„sicut sapiens" deest</rdg>
+    </app>
+    <app n="6.16">
+      <rdg wit="#W" type="variant">eam illi</rdg>
+    </app>
+    <app n="6.17">
+      <rdg wit="#Ad" type="variant">Christi</rdg>
+      <rdg wit="#W" type="omission">„christianitatis" deest</rdg>
+    </app>
+    <app n="6.18">
+      <rdg wit="#W" type="variant">eum alloquitur sermonibus</rdg>
+      <rdg wit="#M2" type="variant">sermonibus locutus est</rdg>
+      <rdg wit="#Ad" type="variant">eum sermonibus alloquitur locutus est</rdg>
+    </app>
+    <app n="6.19">
+      <rdg wit="#P" type="omission">„christianus - factus es" deest</rdg>
+    </app>
+    <app n="6.20">
+      <rdg wit="#W" type="variant">feceris</rdg>
+    </app>
+    <app n="6.21">
+      <rdg wit="#P" type="variant">facias oportet et te</rdg>
+    </app>
+    <app n="6.22">
+      <rdg wit="#Sg #M2" type="variant">non oportet te</rdg>
+    </app>
+    <app n="6.23">
+      <rdg wit="#Ad" type="omission">„dicta" deest</rdg>
+      <rdg wit="#M2" type="alternative_reading">„dixit" l. ad haec dicta</rdg>
+    </app>
+    <app n="6.24">
+      <rdg wit="#Ad" type="omission">„Gozbertus" deest</rdg>
+      <rdg wit="#M1" type="variant">„dux gozberti"</rdg>
+      <rdg wit="#M1" type="variant">„respondit et dixit"</rdg>
+      <rdg wit="#M2" type="omission">„quasi" deest</rdg>
+    </app>
+    <app n="6.26">
+      <rdg wit="#M2" type="omission">„quasi de - dixit" deest</rdg>
+      <rdg wit="#W" type="alternative_reading">„ait" l. respondit et dixit</rdg>
+    </app>
+    <app n="6.27">
+      <rdg wit="#M2" type="variant">gozbertus: modo graviora</rdg>
+    </app>
+    <app n="6.28">
+      <rdg wit="" type="variant">persuades</rdg>
+      <rdg wit="#W" type="omission">deest „et praedicas"</rdg>
+    </app>
+    <app n="6.29">
+      <rdg wit="" type="variant">pro dei amore</rdg>
+      <rdg wit="#M2" type="omission">deest „omnipotentis"</rdg>
+    </app>
+    <app n="6.30">
+      <rdg wit="#Sg #M1 #M2" type="omission">deest „amorem quam .. amorem et"</rdg>
+    </app>
+    <app n="6.31">
+      <rdg wit="#W" type="variant">praedicas et praedicasti</rdg>
+    </app>
+    <app n="6.32">
+      <rdg wit="#W" type="variant">et habenda</rdg>
+      <rdg wit="#M2" type="variant">fuerunt ad habenda</rdg>
+    </app>
+    <app n="6.33">
+      <rdg wit="#Ad" type="omission">deest „et"</rdg>
+    </app>
+    <app n="6.34">
+      <rdg wit="#W" type="variant">licet</rdg>
+      <rdg wit="#Ad" type="variant">habere licitum est</rdg>
+    </app>
+    <app n="6.35">
+      <rdg wit="#V" type="omission">„mihi" deest</rdg>
+    </app>
+    <app n="6.36">
+      <rdg wit="#M2" type="omission">deest „nihilque am. est"</rdg>
+    </app>
+    <app n="7.1">
+      <rdg wit="#Ad" type="variant">regis</rdg>
+      <rdg wit="#W" type="omission">„ducis" deest</rdg>
+    </app>
+    <app n="7.2">
+      <rdg wit="#P" type="omission">deest: „Cum autem - coronarentur"</rdg>
+    </app>
+    <app n="7.3">
+      <rdg wit="#W" type="variant">appropinquaret</rdg>
+    </app>
+    <app n="7.4">
+      <rdg wit="#M1" type="variant">vacabant se</rdg>
+      <rdg wit="#V" type="scribal_correction">post „vacabant" rasura, ut „se" aut „et" scriptum fuisse videatur</rdg>
+    </app>
+    <app n="7.5">
+      <rdg wit="#V" type="variant">ieiuniis et orationibus unanimiter</rdg>
+    </app>
+    <app n="7.6">
+      <rdg wit="#W" type="variant">expectabant</rdg>
+    </app>
+    <app n="7.7">
+      <rdg wit="#Ad" type="omission">deest: „diem - optatam"</rdg>
+    </app>
+    <app n="7.8">
+      <rdg wit="#W" type="variant">ut ad coronam martyrii pervenirent</rdg>
+    </app>
+    <app n="7.9">
+      <rdg wit="#V #W" type="variant">die</rdg>
+      <rdg wit="#P" type="transposition_or_lacuna">reliqui „nocte" - 10 voluit</rdg>
+      <rdg wit="#W" type="variant">velut</rdg>
+    </app>
+    <app n="7.11">
+      <rdg wit="#V #M1" type="variant">unianimiter</rdg>
+    </app>
+    <app n="7.12">
+      <rdg wit="#W" type="variant">persistebant</rdg>
+    </app>
+    <app n="7.13">
+      <rdg wit="#P" type="addition">addit: quem Geylana corruperat suis illecebris</rdg>
+    </app>
+    <app n="7.14">
+      <rdg wit="#W" type="variant">accuto</rdg>
+    </app>
+    <app n="7.15">
+      <rdg wit="#W" type="variant">Dei amicos iugulare</rdg>
+      <rdg wit="#P" type="variant">Dei amicos ad iugulandum</rdg>
+    </app>
+    <app n="7.16">
+      <rdg wit="#Ad" type="variant">Gelanae</rdg>
+      <rdg wit="#P" type="variant">Geylane</rdg>
+      <rdg wit="#M1" type="variant">conplens</rdg>
+    </app>
+    <app n="7.17">
+      <rdg wit="#Ad" type="alternative_reading">regis l. ducis</rdg>
+    </app>
+    <app n="7.18">
+      <rdg wit="#M2" type="omission">„Killena" deest</rdg>
+      <rdg wit="#Ad" type="variant">Kyllena</rdg>
+      <rdg wit="#P" type="variant">Kylianus</rdg>
+    </app>
+    <app n="7.19">
+      <rdg wit="#Ad" type="omission">deest „diu"</rdg>
+      <rdg wit="#W" type="variant">diu optata dies</rdg>
+    </app>
+    <app n="7.20">
+      <rdg wit="#M2" type="variant">inite mecum</rdg>
+    </app>
+    <app n="7.21">
+      <rdg wit="#W" type="omission">et sine</rdg>
+    </app>
+    <app n="7.22">
+      <rdg wit="#M2" type="omission">deest: „sine trepidatione"</rdg>
+    </app>
+    <app n="7.23">
+      <rdg wit="#M2" type="variant">vocem Domini</rdg>
+    </app>
+    <app n="7.24">
+      <rdg wit="#M2 #W" type="variant">occidunt corpus</rdg>
+    </app>
+    <app n="7.25">
+      <rdg wit="" type="omission">deest a „capitibus - coronati"</rdg>
+      <rdg wit="#W" type="variant">legitur „decollati sunt"</rdg>
+    </app>
+    <app n="7.26">
+      <rdg wit="#M2 #Ad" type="omission">„etenim" deest</rdg>
+    </app>
+    <app n="7.27">
+      <rdg wit="#W" type="variant">in eodem loco</rdg>
+      <rdg wit="#Ad" type="omission">deest: eodem in loco</rdg>
+    </app>
+    <app n="7.28">
+      <rdg wit="#W" type="variant">et crux</rdg>
+    </app>
+    <app n="7.29">
+      <rdg wit="#Ad" type="variant">alia simul</rdg>
+    </app>
+    <app n="7.30">
+      <rdg wit="#M2 #Ad" type="omission">„quaedam" deest</rdg>
+    </app>
+    <app n="7.31">
+      <rdg wit="#W #M2" type="variant">consuetudo</rdg>
+    </app>
+    <app n="7.32">
+      <rdg wit="#W" type="alternative_reading">in verno l. et verno</rdg>
+    </app>
+    <app n="7.33">
+      <rdg wit="#W" type="omission">„temporeque aestivo" deest</rdg>
+    </app>
+    <app n="7.34">
+      <rdg wit="#Ad" type="variant">quod quando</rdg>
+    </app>
+    <app n="8.1">
+      <rdg wit="#M2" type="variant">duum</rdg>
+    </app>
+    <app n="8.2">
+      <rdg wit="#W" type="variant">fodi</rdg>
+      <rdg wit="#M1" type="variant">fodi ras. spatii „ri"</rdg>
+    </app>
+    <app n="8.3">
+      <rdg wit="#W" type="variant">eruperit</rdg>
+      <rdg wit="#M2" type="variant">erumpet</rdg>
+    </app>
+    <app n="8.4">
+      <rdg wit="#M2" type="variant">de sepulchro</rdg>
+    </app>
+    <app n="8.5">
+      <rdg wit="#W" type="variant">sublevare honorem voluit</rdg>
+    </app>
+    <app n="8.6">
+      <rdg wit="#Ad" type="omission">„unum" deest</rdg>
+      <rdg wit="#Ad" type="variant">folium librorum</rdg>
+    </app>
+    <app n="8.7">
+      <rdg wit="#W" type="omission">„ipsorum" deest</rdg>
+      <rdg wit="#M2" type="variant">eorum</rdg>
+    </app>
+    <app n="8.8">
+      <rdg wit="#V" type="variant">putridine</rdg>
+    </app>
+    <app n="8.9">
+      <rdg wit="#V #M1" type="variant">consumptum est</rdg>
+      <rdg wit="#W" type="variant">consumeretur</rdg>
+      <rdg wit="#M2" type="variant">consumptum sit</rdg>
+      <rdg wit="#Ad" type="variant">consumpta esset</rdg>
+    </app>
+    <app n="8.10">
+      <rdg wit="#V" type="variant">suprascripti</rdg>
+    </app>
+    <app n="8.11">
+      <rdg wit="#M2" type="variant">servi dei essent</rdg>
+    </app>
+    <app n="8.12">
+      <rdg wit="#V #M1" type="variant">neci</rdg>
+    </app>
+    <app n="8.13">
+      <rdg wit="#M2" type="alternative_reading">„erat" l. tenebatur</rdg>
+      <rdg wit="#M1" type="variant">„eos necaverat"</rdg>
+    </app>
+    <app n="8.14">
+      <rdg wit="#M1 #W" type="variant">hic et illic</rdg>
+      <rdg wit="#M2" type="variant">et illuc</rdg>
+    </app>
+    <app n="8.15">
+      <rdg wit="#V #M1" type="variant">infronitious</rdg>
+      <rdg wit="" type="scribal_correction">Sg. l. „in" rasura</rdg>
+      <rdg wit="#W #M2 #Ad" type="variant">freneticus</rdg>
+    </app>
+    <app n="8.16">
+      <rdg wit="#V #M2" type="variant">agebat</rdg>
+    </app>
+    <app n="8.17">
+      <rdg wit="#Ad" type="variant">Kyllena</rdg>
+    </app>
+    <app n="8.18">
+      <rdg wit="#Sg" type="orthographic">exurat</rdg>
+      <rdg wit="#V" type="variant">ferocissima exurat</rdg>
+      <rdg wit="#M1" type="orthographic">exurat</rdg>
+      <rdg wit="#W" type="variant">incendis me</rdg>
+    </app>
+    <app n="8.19">
+      <rdg wit="#V #W #M1" type="variant">simul cum illo</rdg>
+    </app>
+    <app n="8.20">
+      <rdg wit="#M2" type="omission">„erat" deest</rdg>
+    </app>
+    <app n="8.21">
+      <rdg wit="#Ad" type="variant">sacro baptismate</rdg>
+    </app>
+    <app n="8.22">
+      <rdg wit="#W" type="variant">baptizatus</rdg>
+    </app>
+    <app n="8.23">
+      <rdg wit="#M2" type="omission">„eos" deest</rdg>
+    </app>
+    <app n="8.24">
+      <rdg wit="#Ad" type="variant">erat enim</rdg>
+    </app>
+    <app n="8.25">
+      <rdg wit="#W #Ad" type="omission">„uxoris Gozberti" deest</rdg>
+    </app>
+    <app n="8.26">
+      <rdg wit="#W" type="omission">„taliter" deest</rdg>
+    </app>
+    <app n="8.27">
+      <rdg wit="#V #M1 #M2" type="variant">inquid</rdg>
+    </app>
+    <app n="8.28">
+      <rdg wit="#Ad" type="variant">dixit</rdg>
+    </app>
+    <app n="8.29">
+      <rdg wit="#V #M2 #W" type="variant">et de</rdg>
+    </app>
+    <app n="8.29b">
+      <rdg wit="#M2" type="omission">„qui simul" deest</rdg>
+    </app>
+    <app n="8.30">
+      <rdg wit="#V" type="variant">suscepimus ab ipsis</rdg>
+    </app>
+    <app n="8.31">
+      <rdg wit="#W" type="omission">deest „ab illis"</rdg>
+    </app>
+    <app n="8.32">
+      <rdg wit="#W" type="omission">„tam praepotens sit" deest</rdg>
+      <rdg wit="#Ad" type="omission">„tam fortis" deest</rdg>
+    </app>
+    <app n="8.33">
+      <rdg wit="#W #M2" type="variant">bona bonis</rdg>
+    </app>
+    <app n="8.34">
+      <rdg wit="#M2" type="omission">et mala malis „in novissimis - nisi" deest</rdg>
+    </app>
+    <app n="8.35">
+      <rdg wit="#M2" type="variant">poenitentiam se</rdg>
+    </app>
+    <app n="9.1">
+      <rdg wit="#Sg" type="variant">sicut et</rdg>
+      <rdg wit="#V #W #M2" type="omission">sine „et"</rdg>
+    </app>
+    <app n="9.2">
+      <rdg wit="#M1 #Ad" type="variant">dixerunt et illi</rdg>
+    </app>
+    <app n="9.3">
+      <rdg wit="#W" type="variant">descendit</rdg>
+    </app>
+    <app n="9.4">
+      <rdg wit="#M2" type="scribal_correction">vindicat</rdg>
+    </app>
+    <app n="9.5">
+      <rdg wit="#W" type="omission">„alias" deest</rdg>
+    </app>
+    <app n="9.6">
+      <rdg wit="#Sg" type="variant">omnes praeter</rdg>
+    </app>
+    <app n="9.7">
+      <rdg wit="#M2" type="variant">patres fecerunt</rdg>
+    </app>
+    <app n="9.8">
+      <rdg wit="#M1" type="variant">in ea</rdg>
+    </app>
+    <app n="9.9">
+      <rdg wit="#W" type="omission">„in eo" deest</rdg>
+    </app>
+    <app n="9.10">
+      <rdg wit="#M2" type="variant">usque nunc</rdg>
+    </app>
+    <app n="9.11">
+      <rdg wit="#W" type="alternative_reading">„autem" l. quoque</rdg>
+    </app>
+    <app n="9.12">
+      <rdg wit="#V" type="variant">hominis dictum</rdg>
+    </app>
+    <app n="9.13">
+      <rdg wit="#W #M2" type="variant">ille, miser</rdg>
+    </app>
+    <app n="9.14">
+      <rdg wit="#Ad" type="variant">de medio</rdg>
+    </app>
+    <app n="9.15">
+      <rdg wit="#M1" type="omission">„vero" deest</rdg>
+    </app>
+    <app n="9.16">
+      <rdg wit="#W" type="variant">fuisset</rdg>
+    </app>
+    <app n="9.17">
+      <rdg wit="#W" type="variant">dentibus laniare</rdg>
+    </app>
+    <app n="9.18">
+      <rdg wit="#W" type="variant">quoadusque</rdg>
+    </app>
+    <app n="9.19">
+      <rdg wit="#W #Ad" type="variant">finiret</rdg>
+    </app>
+    <app n="9.20">
+      <rdg wit="#Ad" type="omission">„praesentem" deest</rdg>
+    </app>
+    <app n="9.21">
+      <rdg wit="#M1" type="variant">viderant</rdg>
+      <rdg wit="#V" type="omission">ergo viderant, sine „cum"</rdg>
+      <rdg wit="#W" type="alternative_reading">audirent l. viderent</rdg>
+    </app>
+    <app n="9.22">
+      <rdg wit="#Ad" type="variant">sacro baptismate</rdg>
+    </app>
+    <app n="9.23">
+      <rdg wit="#V" type="variant">fuerunt</rdg>
+    </app>
+    <app n="9.24">
+      <rdg wit="#Ad" type="variant">erant</rdg>
+    </app>
+    <app n="9.25">
+      <rdg wit="#W" type="variant">alia laudantes Domino spondebant se velle oboedire</rdg>
+    </app>
+    <app n="9.26">
+      <rdg wit="#Sg" type="scribal_correction">„clamabant", manus posterior</rdg>
+      <rdg wit="#M2 #Ad" type="variant">doctrinae clamabant</rdg>
+    </app>
+    <app n="9.27">
+      <rdg wit="#V" type="variant">perfectis</rdg>
+    </app>
+    <app n="9.28">
+      <rdg wit="#M1 #M2 #W" type="variant">illam</rdg>
+    </app>
+    <app n="9.29">
+      <rdg wit="" type="variant">finivit</rdg>
+      <rdg wit="#P" type="variant"></rdg>
+      <rdg wit="#V #M2 #Ad" type="variant">finiret</rdg>
+    </app>
+    <app n="9.30">
+      <rdg wit="#P" type="variant">Judicem vero</rdg>
+    </app>
+    <app n="9.31">
+      <rdg wit="#W" type="variant">ita in omnibus mmss., sui servi occiderunt</rdg>
+      <rdg wit="#V" type="variant">gladio suo occiderunt servi</rdg>
+    </app>
+    <app n="9.32">
+      <rdg wit="#M1" type="variant">Hetanium</rdg>
+    </app>
+    <app n="9.33">
+      <rdg wit="#W" type="variant">eius filium</rdg>
+    </app>
+    <app n="9.34">
+      <rdg wit="#W" type="variant">populi</rdg>
+    </app>
+    <app n="9.35">
+      <rdg wit="#P" type="variant">eiecit</rdg>
+    </app>
+    <app n="9.36">
+      <rdg wit="#W" type="variant">progeniem illius</rdg>
+    </app>
+    <app n="9.37">
+      <rdg wit="#W" type="variant">unus quidem de stirpe eius</rdg>
+    </app>
+    <app n="9.38">
+      <rdg wit="#V" type="variant">remanebat</rdg>
+    </app>
+    <app n="9.39">
+      <rdg wit="#Ad" type="variant">in illo loco</rdg>
+    </app>
+    <app n="9.40">
+      <rdg wit="#W" type="alternative_reading">requieverant l. sepulta sunt</rdg>
+    </app>
+    <app n="9.41">
+      <rdg wit="#V" type="variant">quodquod autem</rdg>
+    </app>
+    <app n="9.42">
+      <rdg wit="#M2" type="variant">illo</rdg>
+    </app>
+    <app n="9.43">
+      <rdg wit="#Ad" type="variant">venientes</rdg>
+    </app>
+    <app n="9.44">
+      <rdg wit="#M2" type="alternative_reading">ergo l. autem</rdg>
+    </app>
+    <app n="10.1">
+      <rdg wit="#W" type="variant">praecepto et consilio</rdg>
+      <rdg wit="#V" type="omission">„praecepto" deest</rdg>
+    </app>
+    <app n="10.2">
+      <rdg wit="#W" type="variant">Bonifatio</rdg>
+    </app>
+    <app n="10.3">
+      <rdg wit="#M2 #Ad" type="omission">„a Burchardo - episcopo" deest</rdg>
+      <rdg wit="#Sg" type="variant">uuirziburgensium</rdg>
+      <rdg wit="#V" type="variant">Wirciburchgensium</rdg>
+    </app>
+    <app n="10.4">
+      <rdg wit="#W #Ad" type="omission">„feliciter" deest</rdg>
+      <rdg wit="#M2" type="variant">Per Domin. etc.</rdg>
+    </app>
+  </body></text>
+</TEI>

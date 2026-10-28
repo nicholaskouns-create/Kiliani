@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,600&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<link rel="stylesheet" href="assets/kiliani.css">
+<title>The Seven Witnesses</title>
+<meta name="description" content="The seven manuscripts Emmerich collated for the Passio minor Kiliani, with foliation and IIIF manifests where the holding library serves one.">
+<style>
+  .wit{background:var(--surface);border:1px solid var(--rule);border-radius:3px;
+    padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.6rem;min-width:0;scroll-margin-top:1rem}
+  .wit:target{border-color:var(--siglum)}
+  .wit .head{display:flex;flex-wrap:wrap;gap:.5rem .9rem;align-items:baseline}
+  .wit .head h3{font-size:1.05rem}
+  .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(9rem,1fr));gap:.5rem .9rem}
+  .facts div{display:flex;flex-direction:column;min-width:0}
+  .facts span:last-child{font-size:.9rem}
+  .inc{font-style:italic;font-size:.88rem;color:var(--muted);overflow-wrap:anywhere}
+  .viewer{width:100%;aspect-ratio:4/3;max-width:100%;background:var(--sunk);
+    border:1px solid var(--rule);border-radius:2px;position:relative}
+  .viewer .msg{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+    padding:1rem;text-align:center;font-size:.86rem;color:var(--muted)}
+  .vbar{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+  .state{font-family:var(--mono);font-size:.68rem;letter-spacing:.07em;text-transform:uppercase;
+    padding:.18rem .45rem;border-radius:2px}
+  .state.live{background:var(--siglum-soft);color:var(--siglum)}
+  .state.none{background:var(--open-soft);color:var(--open)}
+</style>
+</head><body>
+<div class="wrap">
+<nav class="site">
+  <a class="brand" href="./">Kiliani</a>
+  <a href="./">Overview</a>
+  <a href="collation.html">Apparatus</a>
+  <a href="witnesses.html" aria-current="page">Witnesses</a>
+  <a href="verification.html">Verification</a>
+  <a href="https://github.com/nicholaskouns-create/Kiliani">Repository</a>
+</nav>
+
+<header class="col" style="display:flex;flex-direction:column;gap:.8rem">
+  <p class="lbl">Witnesses</p>
+  <h1>The seven manuscripts Emmerich collated</h1>
+  <p>Shelfmarks, dates and foliation exactly as he gives them in his manuscript list.
+     Where the holding library serves a IIIF manifest, the folios open here and the
+     images are streamed from that library — they are not copied into this repository.</p>
+  <p class="muted" style="font-size:.9rem">The
+     <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/texts/passio-minor/witnesses.md">witness
+     list</a> records nineteen manuscripts from the repertory. These seven are the ones
+     Emmerich actually used.</p>
+</header>
+
+<section id="list"></section>
+
+<footer>
+  <p>Images served by the holding libraries under their own terms. St Gallen 566 is
+     published by e-codices under <strong>CC BY-NC</strong>. Nothing here is
+     redistributed; each viewer streams from the library's own IIIF endpoint.</p>
+  <p>Five manifests are not yet located. They are marked as such rather than guessed,
+     and tracked in the
+     <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/texts/passio-minor/verification-queue.md">verification
+     queue</a>.</p>
+</footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+<script>
+const W=[
+ {id:"Sg",lab:"Sg",name:"Sangallensis 566",shelf:"Cod. Sang. 566",
+  repo:"Stiftsbibliothek St. Gallen",date:"s. IX",locus:"pp. 212–219",
+  extent:"342 pp., 24.5 × 19.3 cm, 24 lines",cited:24,
+  inc:"Incipit vita scorum martyrum Chiliani et sociorum eius, quorum solemnitas colitur VIII. Id. Julii",
+  note:"Written by Iso (d. 871) or a contemporary. Emmerich's base text — cited least of the seven.",
+  manifest:"https://www.e-codices.unifr.ch/metadata/iiif/csg-0566/manifest.json",
+  start:"212", page:"https://www.e-codices.unifr.ch/en/list/one/csg/0566", rights:"CC BY-NC · e-codices"},
+ {id:"V",lab:"V",name:"Vindobonensis 552",shelf:"Cod. 552",
+  repo:"Österreichische Nationalbibliothek, Vienna",date:"s. X in.",locus:"f. 107v–112r",
+  extent:"112 ff., 15.5 × 21 cm, 18 lines",cited:45,
+  inc:"Incipit Passio Scorum Martyrum Kiliani Et Sociorum Eius",
+  note:"The Geschichtsquellen repertory dates this s. ix med., which would make it the earliest. Unconfirmed at the ÖNB catalogue itself.",
+  manifest:null, page:"https://search.onb.ac.at/", rights:null},
+ {id:"M1",lab:"M¹",name:"Monacensis Clm 4585",shelf:"Clm 4585",
+  repo:"Bayerische Staatsbibliothek, Munich",date:"s. IX–XI",locus:"f. 115r–119v",
+  extent:"169 ff., mp. 2°",cited:41,
+  inc:"Incipit passio scorum martyrum Kiliani et sociorum eius",
+  note:"Closes with four leonine verses found in no other witness: Pro cunctis sane rogita martir Kiliane…",
+  manifest:"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00033096/manifest",
+  start:"115", page:"https://www.digitale-sammlungen.de/en/details/bsb00033096", rights:"Bayerische Staatsbibliothek"},
+ {id:"M2",lab:"M²",name:"Monacensis Clm 4332",shelf:"Clm 4332",
+  repo:"Bayerische Staatsbibliothek, Munich",date:"s. XII",locus:"f. 68r–70v",
+  extent:"315 ff., 4° mp., 26 lines",cited:82,
+  inc:null,note:"Omits a Burchardo — episcopo in the closing chapter, and alone carries a doxology, abbreviated Per Domin. etc.",
+  manifest:null, page:"https://www.digitale-sammlungen.de/", rights:null},
+ {id:"Ad",lab:"Ad",name:"Admontensis 412",shelf:"Cod. 412",
+  repo:"Stiftsbibliothek Admont",date:"s. XII",locus:"f. 118r–120v",
+  extent:null,cited:81,inc:null,
+  note:"Transposes the gospel clause: secundum evangelium domini nudosque Christum sequi.",
+  manifest:null, page:"https://manuscripta.at/", rights:null},
+ {id:"W",lab:"W",name:"Wirceburgensis 64",shelf:"M.p.th.f. 64",
+  repo:"Universitätsbibliothek Würzburg",date:"s. XI",locus:"f. 304r–307",
+  extent:"320 ff., 2 col., 26 lines, 26 × 23 cm",cited:111,
+  inc:"In natali Scorum Martyrum Kiliani et Sociorum eius",
+  note:"In fine mutilus. Emmerich: aliquibus locis omittuntur, quae pertinent ad ornatum orationis — it abridges rhetorical ornament, which is why it is cited most.",
+  manifest:null, page:"https://www.bibliothek.uni-wuerzburg.de/", rights:null},
+ {id:"P",lab:"P",name:"Pommersfeldensis 2896",shelf:"Cod. 2896",
+  repo:"Graf von Schönborn'sche Bibliothek, Pommersfelden",date:"s. XIII–XIV",locus:"f. 182v–183v",
+  extent:"361 ff., 2 col., 36 lines, 33.5 × 24 cm",cited:57,inc:"de sancto Kyliano",
+  note:"Olim lectionarium Frideslariense. Lacks chapters 7 and 8. Alone reads propriam contempnere, changing the object of the renunciation.",
+  manifest:null, page:null, rights:null}
+];
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+document.getElementById("list").innerHTML =
+ '<div style="display:flex;flex-direction:column;gap:1rem">' + W.map(w=>`
+  <article class="wit" id="${w.id}">
+    <div class="head">
+      <h3><span class="sg">${w.lab}</span> &nbsp;${esc(w.name)}</h3>
+      <span class="state ${w.manifest?"live":"none"}">${w.manifest?"IIIF live":"manifest not located"}</span>
+      <span class="loc lbl" style="margin-left:auto">cited ${w.cited}×</span>
+    </div>
+    <div class="facts">
+      <div><span class="lbl">Shelfmark</span><span>${esc(w.shelf)}</span></div>
+      <div><span class="lbl">Repository</span><span>${esc(w.repo)}</span></div>
+      <div><span class="lbl">Date</span><span class="num">${esc(w.date)}</span></div>
+      <div><span class="lbl">Locus</span><span class="num">${esc(w.locus)}</span></div>
+      ${w.extent?`<div><span class="lbl">Extent</span><span>${esc(w.extent)}</span></div>`:""}
+    </div>
+    ${w.inc?`<p class="inc">${esc(w.inc)}</p>`:""}
+    ${w.note?`<p style="font-size:.9rem">${esc(w.note)}</p>`:""}
+    ${w.manifest?`
+      <div class="vbar">
+        <button class="chip" data-open="${w.id}" aria-pressed="false">Open the folios</button>
+        <a class="chip" style="text-decoration:none" href="${esc(w.page)}">At the library</a>
+        <span class="lbl">${esc(w.rights||"")}</span>
+      </div>
+      <div class="viewer" id="v-${w.id}" hidden><div class="msg">Loading the manifest…</div></div>`
+    : `<div class="vbar">
+        ${w.page?`<a class="chip" style="text-decoration:none" href="${esc(w.page)}">Search the library</a>`:""}
+        <span class="lbl">no IIIF manifest located yet</span>
+      </div>`}
+  </article>`).join("") + '</div>';
+
+const started={};
+document.addEventListener("click",async e=>{
+  const b=e.target.closest("[data-open]"); if(!b) return;
+  const id=b.dataset.open, w=W.find(x=>x.id===id), box=document.getElementById("v-"+id);
+  if(started[id]){ box.hidden=!box.hidden; b.setAttribute("aria-pressed",String(!box.hidden)); return; }
+  box.hidden=false; b.setAttribute("aria-pressed","true"); started[id]=true;
+  try{
+    const m=await (await fetch(w.manifest)).json();
+    const canvases=(m.sequences&&m.sequences[0]&&m.sequences[0].canvases)||m.items||[];
+    const tiles=canvases.map(c=>{
+      const r=(c.images&&c.images[0]&&c.images[0].resource)||null;
+      const svc=r&&(r.service||r["@id"]);
+      const base=svc&&(svc["@id"]||svc.id||svc);
+      return base?String(base).replace(/\/info\.json$/,"")+"/info.json":null;
+    }).filter(Boolean);
+    if(!tiles.length) throw new Error("no images in manifest");
+    let idx=0;
+    if(w.start){ const i=canvases.findIndex(c=>String(c.label||"").includes(w.start)); if(i>-1) idx=i; }
+    box.innerHTML="";
+    OpenSeadragon({element:box,tileSources:tiles,sequenceMode:true,initialPage:idx,
+      showNavigator:false,prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/"});
+  }catch(err){
+    box.innerHTML='<div class="msg">The library\'s manifest could not be loaded from this page — '+
+      'most often a cross-origin restriction at their server. '+
+      '<a href="'+esc(w.page)+'">Open it at the library</a>, or use the manifest directly: '+
+      '<a href="'+esc(w.manifest)+'">manifest.json</a></div>';
+  }
+});
+</script>
+</body></html>

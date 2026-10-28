@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,600&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<link rel="stylesheet" href="assets/kiliani.css">
+<title>Apparatus criticus — Passio minor Kiliani</title>
+<meta name="description" content="Emmerich's 1896 apparatus to the Passio minor Kiliani: 251 lemma entries and 361 readings, searchable and filterable by witness.">
+<style>
+  .lemma{background:var(--surface);border:1px solid var(--rule);border-radius:3px;
+    padding:.85rem 1rem;display:flex;flex-direction:column;gap:.6rem;min-width:0}
+  .lemma > .head{display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:baseline}
+  .loc{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--muted);white-space:nowrap}
+  .verbatim{font-family:var(--mono);font-size:.8rem;line-height:1.6;background:var(--sunk);
+    padding:.5rem .65rem;border-radius:2px;overflow-x:auto;white-space:pre-wrap;word-break:break-word}
+  .rdgs{display:flex;flex-direction:column;gap:.4rem}
+  .rdg{display:grid;grid-template-columns:7rem 1fr auto;gap:.3rem .8rem;align-items:baseline;min-width:0}
+  @media (max-width:560px){.rdg{grid-template-columns:1fr;gap:.15rem}}
+  .rdg .w{display:flex;flex-wrap:wrap;gap:.25rem}
+  .rdg .w a{text-decoration:none}
+  .rdg .t{font-style:italic;min-width:0;overflow-wrap:anywhere}
+  .badge{font-family:var(--mono);font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;
+    padding:.15rem .4rem;border-radius:2px;background:var(--sunk);color:var(--muted);white-space:nowrap}
+  .badge.omission{background:var(--open-soft);color:var(--open)}
+  .badge.unparsed{background:var(--siglum-soft);color:var(--siglum)}
+  .marg{font-size:.8rem;color:var(--muted);font-style:italic}
+  .results{display:flex;flex-direction:column;gap:.75rem}
+  .count{font-family:var(--mono);font-size:.78rem;color:var(--muted)}
+  mark{background:var(--siglum-soft);color:inherit;border-radius:2px;padding:0 .1em}
+  .empty{padding:2rem 0;color:var(--muted);text-align:center}
+</style>
+</head><body>
+<div class="wrap">
+<nav class="site">
+  <a class="brand" href="./">Kiliani</a>
+  <a href="./">Overview</a>
+  <a href="collation.html" aria-current="page">Apparatus</a>
+  <a href="witnesses.html">Witnesses</a>
+  <a href="verification.html">Verification</a>
+  <a href="https://github.com/nicholaskouns-create/Kiliani">Repository</a>
+</nav>
+
+<header class="col" style="display:flex;flex-direction:column;gap:.8rem">
+  <p class="lbl">Apparatus criticus</p>
+  <h1>Every reading Emmerich recorded, and who reads it</h1>
+  <p>Franz Emmerich, <em>Der heilige Kilian</em> (Würzburg 1896), pp. 3–10, transcribed
+     entry by entry from the plates. His own Latin is kept verbatim beside every parse,
+     so any record can be checked against the printed page.</p>
+  <p class="muted" style="font-size:.9rem">These are <strong>Emmerich's</strong> witness
+     attributions, made in the 1890s. No manuscript was consulted, and this is not a
+     collation of manuscripts. <a href="verification.html">What that means.</a></p>
+</header>
+
+<div class="controls">
+  <div class="row">
+    <input type="search" id="q" placeholder="Search readings and Emmerich's Latin — try contempni, rasura, deest" aria-label="Search readings">
+    <select id="type" aria-label="Filter by reading type"><option value="">All types</option></select>
+    <select id="page" aria-label="Filter by page"><option value="">All pages</option></select>
+  </div>
+  <div class="row" id="wits" role="group" aria-label="Filter by witness"></div>
+  <div class="row" style="justify-content:space-between">
+    <span class="count" id="count">loading…</span>
+    <button class="chip" id="reset" aria-pressed="false">Reset</button>
+  </div>
+</div>
+
+<section>
+  <div class="results" id="out"></div>
+</section>
+
+<footer>
+  <p>Sigla: <span class="sg">Sg</span> St Gallen 566 · <span class="sg">V</span> Vienna 552 ·
+     <span class="sg">M¹</span> Clm 4585 · <span class="sg">M²</span> Clm 4332 ·
+     <span class="sg">Ad</span> Admont 412 · <span class="sg">W</span> Würzburg M.p.th.f. 64 ·
+     <span class="sg">P</span> Pommersfelden 2896.</p>
+  <p>Emmerich's conventions, as written: <code>„x"</code> a quoted lemma · <em>deest</em>
+     is absent from · <em>l.</em> legitur or loco · <em>II. m.</em> a second hand ·
+     <em>in rasura</em> over an erasure · <em>m. aeq.</em> by a contemporary hand.</p>
+  <p><a href="data/variants.json">variants.json</a> ·
+     <a href="data/variants.csv">variants.csv</a> ·
+     <a href="data/apparatus_tei.xml">TEI</a></p>
+</footer>
+</div>
+
+<script>
+const LAB={Sg:"Sg",V:"V",M1:"M¹",M2:"M²",Ad:"Ad",W:"W",P:"P"};
+const ORDER=["Sg","V","M1","M2","Ad","W","P"];
+const el=id=>document.getElementById(id);
+let DATA=[], GROUPS=[], active=new Set();
+
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function hi(s,q){ s=esc(s); if(!q) return s;
+  try{ return s.replace(new RegExp("("+q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","gi"),"<mark>$1</mark>"); }
+  catch(e){ return s; } }
+
+fetch("data/variants.json").then(r=>r.json()).then(d=>{
+  DATA=d;
+  const g=new Map();
+  for(const v of d){ const k=v.page_printed+"|"+v.lemma_no;
+    if(!g.has(k)) g.set(k,{page:v.page_printed,lemma:v.lemma_no,verbatim:v.verbatim,rdgs:[]});
+    g.get(k).rdgs.push(v); }
+  GROUPS=[...g.values()].sort((a,b)=>a.page-b.page||
+    (parseInt(a.lemma)||0)-(parseInt(b.lemma)||0)||String(a.lemma).localeCompare(String(b.lemma)));
+
+  el("wits").innerHTML=ORDER.map(w=>
+    `<button class="chip" data-w="${w}" aria-pressed="false">${LAB[w]}</button>`).join("");
+  const types=[...new Set(d.map(v=>v.type))].sort();
+  el("type").insertAdjacentHTML("beforeend",
+    types.map(t=>`<option value="${esc(t)}">${esc(t.replace(/_/g," "))}</option>`).join(""));
+  const pages=[...new Set(d.map(v=>v.page_printed))].sort((a,b)=>a-b);
+  el("page").insertAdjacentHTML("beforeend",
+    pages.map(p=>`<option value="${p}">p. ${p}</option>`).join(""));
+  render();
+}).catch(e=>{ el("out").innerHTML=
+  '<p class="empty">The apparatus data could not be loaded. It is still downloadable at '+
+  '<a href="data/variants.json">variants.json</a>.</p>'; el("count").textContent=""; });
+
+function matches(v,q,type,page){
+  if(type && v.type!==type) return false;
+  if(page && String(v.page_printed)!==page) return false;
+  if(active.size && !v.witnesses.some(w=>active.has(w))) return false;
+  if(q){ const h=(v.reading+" "+v.verbatim+" "+(v.marginal_note||"")).toLowerCase();
+    if(!h.includes(q.toLowerCase())) return false; }
+  return true;
+}
+
+function render(){
+  const q=el("q").value.trim(), type=el("type").value, page=el("page").value;
+  let shownR=0, out=[];
+  for(const g of GROUPS){
+    const keep=g.rdgs.filter(v=>matches(v,q,type,page));
+    if(!keep.length) continue;
+    shownR+=keep.length;
+    out.push(`<article class="lemma">
+      <div class="head"><span class="loc">p. ${g.page} · lemma ${esc(g.lemma)}</span></div>
+      <div class="verbatim">${hi(g.verbatim,q)}</div>
+      <div class="rdgs">${keep.map(v=>`
+        <div class="rdg">
+          <span class="w">${v.witnesses.length
+            ? v.witnesses.map(w=>`<a class="sg" href="witnesses.html#${w}">${LAB[w]||w}</a>`).join("")
+            : '<span class="badge unparsed">no siglum</span>'}</span>
+          <span class="t">${v.reading?hi(v.reading,q):'<span class="muted">—</span>'}${
+            v.marginal_note?`<span class="marg"> — ${hi(v.marginal_note,q)}</span>`:""}</span>
+          <span class="badge ${esc(v.type)}">${esc(v.type.replace(/_/g," "))}</span>
+        </div>`).join("")}</div>
+    </article>`);
+  }
+  el("out").innerHTML=out.length?out.join(""):
+    '<p class="empty">No reading matches those filters.</p>';
+  const all = shownR===DATA.length && out.length===GROUPS.length;
+  el("count").textContent = all
+    ? `${DATA.length} readings in ${GROUPS.length} lemmas`
+    : `${shownR} reading${shownR===1?"":"s"} in ${out.length} lemma${out.length===1?"":"s"} — of ${DATA.length} in ${GROUPS.length}`;
+}
+
+el("q").addEventListener("input",render);
+el("type").addEventListener("change",render);
+el("page").addEventListener("change",render);
+el("wits").addEventListener("click",e=>{
+  const b=e.target.closest("[data-w]"); if(!b) return;
+  const w=b.dataset.w;
+  if(active.has(w)){active.delete(w);b.setAttribute("aria-pressed","false");}
+  else{active.add(w);b.setAttribute("aria-pressed","true");}
+  render();
+});
+el("reset").addEventListener("click",()=>{
+  el("q").value="";el("type").value="";el("page").value="";active.clear();
+  document.querySelectorAll("[data-w]").forEach(b=>b.setAttribute("aria-pressed","false"));
+  render();
+});
+</script>
+</body></html>

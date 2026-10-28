@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,600&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<link rel="stylesheet" href="assets/kiliani.css">
+<title>Kiliani</title>
+<meta name="description" content="A critical dossier of the two medieval Passiones of St Kilian of Würzburg, their transmission, and the collation of Emmerich's apparatus as open data.">
+</head><body>
+<div class="wrap">
+<nav class="site">
+  <a class="brand" href="./">Kiliani</a>
+  <a href="./" aria-current="page">Overview</a>
+  <a href="collation.html">Apparatus</a>
+  <a href="witnesses.html">Witnesses</a>
+  <a href="verification.html">Verification</a>
+  <a href="https://github.com/nicholaskouns-create/Kiliani">Repository</a>
+</nav>
+
+<header class="col" style="display:flex;flex-direction:column;gap:1rem">
+  <p class="lbl">Open archive</p>
+  <h1>The <em>Passiones</em> of St Kilian, and the record of how they were transmitted</h1>
+  <p>A critical dossier of the two medieval <em>Passiones</em> of Kilian, Colonatus and
+     Totnan — the <em>Passio minor</em> (BHL 4660) and the <em>Passio maior</em>
+     (BHL 4661) — the history of their transmission, and the Killion–Kouns family
+     archive that grew up around them.</p>
+  <p>Assembled by Nicholas Shane Kouns. The paradigm this work sits beside carries his
+     mother's name, Anna Rose Killion Kouns (1931–2015), and so does this archive.</p>
+</header>
+
+<section>
+  <h2>Start here</h2>
+  <div class="cards">
+    <a class="card" href="collation.html">
+      <h3>The apparatus, searchable</h3>
+      <p>251 lemma entries and 361 readings from Emmerich's 1896 apparatus criticus,
+         filterable by witness and by type, with his verbatim Latin beside every parse.</p>
+    </a>
+    <a class="card" href="witnesses.html">
+      <h3>The seven witnesses</h3>
+      <p>Shelfmarks, dates and foliation, with IIIF manifests where the holding library
+         serves one — the manuscript page beside the reading taken from it.</p>
+    </a>
+    <a class="card" href="verification.html">
+      <h3>Verification record</h3>
+      <p>What was read and from what, the counts, and the three reasons the affinity
+         figures are a signal and not a stemma.</p>
+    </a>
+    <a class="card" href="https://github.com/nicholaskouns-create/Kiliani/tree/main/texts/passio-minor">
+      <h3>The texts</h3>
+      <p>Reading text with translation, textual notes, editions, and the queue of what
+         is still unchecked.</p>
+    </a>
+  </div>
+</section>
+
+<section class="col">
+  <h2>What this collection asserts</h2>
+  <p>That two Latin hagiographic works survive concerning Kilian, Colonatus and Totnan,
+     and that their text, their manuscripts, their printed editions and their modern
+     scholarship can be recorded accurately.</p>
+  <p>That an Irish or Irish-associated missionary remembered as Kilian, with two
+     companions, was active near Würzburg before the diocese was organised, came into
+     conflict with the ducal household, and died violently. That Burchard, the first
+     bishop of Würzburg, translated relics venerated as theirs, traditionally in 752.</p>
+
+  <h2>What it does not assert</h2>
+  <div class="caution">
+    <p class="lbl">Boundary</p>
+    <p><strong>No descent from Saint Kilian.</strong> No hagiographic source gives Kilian
+       a wife, a child, a sibling line or a hereditary estate. He is presented throughout
+       as a celibate cleric among clerical companions. The shared name — Killena,
+       Chilianus, Kilian, Killian, Killion — is onomastic and devotional continuity, not
+       biological continuity.</p>
+    <p><strong>The reading text is not a critical edition</strong> and has not been
+       collated against Levison. It says so itself, and the textual notes mark four
+       defects that must be repaired against the standard edition.</p>
+    <p>These boundaries are checked on every push by
+       <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/tools/check_boundaries.py">a
+       script</a> that fails the build if any of them stops being stated.</p>
+  </div>
+</section>
+
+<section class="col">
+  <h2>Open data</h2>
+  <p>Everything behind the apparatus browser is in the repository and downloadable
+     directly. The hand transcription is the primary datum; everything else regenerates
+     from it.</p>
+  <div class="scroll"><table>
+    <thead><tr><th>File</th><th>Contents</th></tr></thead>
+    <tbody>
+      <tr><td><a href="data/variants.json">variants.json</a> · <a href="data/variants.csv">.csv</a></td><td>361 readings, with Emmerich's verbatim entry, witnesses and type</td></tr>
+      <tr><td><a href="data/witnesses.json">witnesses.json</a> · <a href="data/witnesses.csv">.csv</a></td><td>the seven witnesses, with foliation and incipits</td></tr>
+      <tr><td><a href="data/apparatus_tei.xml">apparatus_tei.xml</a></td><td>TEI P5 <code>&lt;listWit&gt;</code> and <code>&lt;app&gt;</code>/<code>&lt;rdg&gt;</code></td></tr>
+      <tr><td><a href="data/agreement_matrix.csv">agreement_matrix.csv</a></td><td>pairwise shared readings</td></tr>
+      <tr><td><a href="data/opposition_matrix.csv">opposition_matrix.csv</a></td><td>pairwise disagreement at the same lemma</td></tr>
+      <tr><td><a href="data/stemma_signal.json">stemma_signal.json</a></td><td>citation counts and ranked affinities</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<footer>
+  <p>Source for the collation: Franz Emmerich, <em>Der heilige Kilian, Regionarbischof
+     und Martyrer</em> (Würzburg 1896), pp. 3–10. The standard edition remains
+     Krusch–Levison, <em>MGH SS rer. Merov.</em> 5 (1910), pp. 722–728.</p>
+  <p>Manuscript images are served by the holding libraries under their own terms and are
+     not redistributed here.</p>
+</footer>
+</div></body></html>
