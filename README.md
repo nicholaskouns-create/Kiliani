@@ -160,3 +160,5 @@ the same thing everywhere:
 8 July. Kilian, Colonatus, Totnan. Patron of the Diocese of Würzburg.
 
 *Ad maiorem Dei gloriam et ad memoriam Sancti Kiliani, Apostoli Franconiae.*
+
+[The E₄₇ spectral kernel · formalism and verification](docs/e47-spectral-kernel/README.md)
