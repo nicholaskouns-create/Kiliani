@@ -1,5 +1,8 @@
 # Kiliani
 
+> **Current license:** [All Rights Reserved](LICENSE) for owned original material. No new reuse permission. Earlier licenses and third-party/public-domain rights remain unaffected.
+
+
 A critical dossier of the two medieval *Passiones* of St Kilian of Würzburg, the
 history of their transmission, and the Killion–Kouns family archive that grew up
 around them.
