@@ -71,6 +71,32 @@ jobs:
               ET.parse(p); print(f"ok  {p}")
           PY
 
+      - name: Every page must declare a share card that exists
+        shell: bash
+        run: |
+          set -euo pipefail
+          fail=0
+          for page in docs/*.html; do
+            img="$(grep -oE 'og:image" content="[^"]+' "$page" | head -1 | sed 's|.*/assets/og/||')"
+            if [ -z "$img" ]; then
+              echo "::error file=$page::no og:image declared"; fail=1; continue
+            fi
+            if [ ! -f "docs/assets/og/$img" ]; then
+              echo "::error file=$page::og:image missing from the repository: $img"; fail=1; continue
+            fi
+            python3 - "$page" "docs/assets/og/$img" <<'PYX'
+          import sys, struct
+          page, img = sys.argv[1], sys.argv[2]
+          with open(img, "rb") as f:
+              head = f.read(24)
+          assert head[:8] == b"\x89PNG\r\n\x1a\n", f"{img} is not a PNG"
+          w, h = struct.unpack(">II", head[16:24])
+          assert (w, h) == (1200, 630), f"{img} is {w}x{h}, not 1200x630"
+          print(f"ok  {page} -> {img} {w}x{h}")
+          PYX
+          done
+          exit "$fail"
+
       - name: The citation must match CITATION.cff
         shell: bash
         run: |
