@@ -4,8 +4,20 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400;1,7..72,600&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap">
 <link rel="stylesheet" href="assets/kiliani.css">
-<title>Kiliani</title>
-<meta name="description" content="A critical dossier of the two medieval Passiones of St Kilian of Würzburg, their transmission, and the collation of Emmerich's apparatus as open data.">
+<title>Kiliani — a critical dossier of the Passiones</title>
+<meta name="description" content="A critical dossier of the two medieval Passiones of St Kilian of Würzburg, the Würzburg cult, and the Killion–Kouns family archive. Open data, stated boundaries, graded evidence.">
+<meta property="og:title" content="Kiliani — a critical dossier of the Passiones">
+<meta property="og:description" content="The two Passiones of Kilian, Colonatus and Totnan; the Würzburg cult; and the Killion–Kouns family archive. Seven witnesses, 361 readings, every boundary stated.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://nicholaskouns-create.github.io/Kiliani/">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+  .cite{background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--siglum);
+    border-radius:3px;padding:1rem 1.1rem;display:flex;flex-direction:column;gap:.6rem}
+  .cite .ref{font-family:var(--mono);font-size:.82rem;line-height:1.55;color:var(--ink)}
+  .cls{font-family:var(--mono);font-size:.68rem;font-weight:600;letter-spacing:.08em;
+    color:var(--muted);white-space:nowrap}
+</style>
 </head><body>
 <div class="wrap">
 <nav class="site">
@@ -14,19 +26,38 @@
   <a href="collation.html">Apparatus</a>
   <a href="witnesses.html">Witnesses</a>
   <a href="verification.html">Verification</a>
+  <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/STATUS.md">Status</a>
   <a href="https://github.com/nicholaskouns-create/Kiliani">Repository</a>
 </nav>
 
 <header class="col" style="display:flex;flex-direction:column;gap:1rem">
-  <p class="lbl">Open archive</p>
+  <p class="lbl">Open archive · dataset</p>
   <h1>The <em>Passiones</em> of St Kilian, and the record of how they were transmitted</h1>
   <p>A critical dossier of the two medieval <em>Passiones</em> of Kilian, Colonatus and
      Totnan — the <em>Passio minor</em> (BHL 4660) and the <em>Passio maior</em>
-     (BHL 4661) — the history of their transmission, and the Killion–Kouns family
+     (BHL 4661) — the history of the Würzburg cult, and the Killion–Kouns family
      archive that grew up around them.</p>
   <p>Assembled by Nicholas Shane Kouns. The paradigm this work sits beside carries his
      mother's name, Anna Rose Killion Kouns (1931–2015), and so does this archive.</p>
 </header>
+
+<section class="col">
+  <h2>Cite this archive</h2>
+  <div class="cite">
+    <p class="lbl">Dataset</p>
+    <p class="ref">Kouns, N. S., DO. <em>Kiliani: a critical dossier of the Passiones,
+       the Würzburg cult, and the Killion–Kouns family archive</em> [Data set]. 2026.
+       CC&nbsp;BY&nbsp;4.0.<br>
+       https://github.com/nicholaskouns-create/Kiliani</p>
+    <p style="font-size:.9rem;color:var(--muted)">Cite it for its editorial apparatus,
+       its recension history and its genealogical analysis. <strong>Do not cite it for
+       the Latin text of either <em>Passio</em>.</strong> For the <em>Passio minor</em>
+       cite Levison, <em>MGH Scriptores rerum Merovingicarum</em> 5 (Hannover, 1910);
+       for the <em>maior</em> no modern critical edition exists. Machine-readable
+       metadata:
+       <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/CITATION.cff">CITATION.cff</a>.</p>
+  </div>
+</section>
 
 <section>
   <h2>Start here</h2>
@@ -54,6 +85,65 @@
   </div>
 </section>
 
+<section>
+  <h2>The whole dossier</h2>
+  <p class="col">The arrangement is the argument. Each directory is a different evidence
+     class, and nothing crosses the walls between them without saying so.</p>
+  <div class="scroll"><table>
+    <thead><tr><th>Directory</th><th>Holds</th><th>Evidence class</th></tr></thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/nicholaskouns-create/Kiliani/tree/main/texts"><code>texts/</code></a></td>
+        <td>The Latin texts and facing translations, with apparatus, witnesses and editions. The <em>maior</em> here is <strong>a modern conflation</strong>, labelled as one.</td>
+        <td class="cls">E1 · E2</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/nicholaskouns-create/Kiliani/tree/main/recensions"><code>recensions/</code></a></td>
+        <td>The editorial history of this archive's own text — what was printed, what was wrong, what was corrected. Textual criticism turned on the archive itself.</td>
+        <td class="cls">E4</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/nicholaskouns-create/Kiliani/tree/main/cult"><code>cult/</code></a></td>
+        <td>Relics and pilgrimage, the translations, the 1849 rediscovery, the Kilian Gospels, and dedications worldwide.</td>
+        <td class="cls">E1 · E5</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/nicholaskouns-create/Kiliani/tree/main/saints"><code>saints/</code></a></td>
+        <td>The <strong>other</strong> saints named Kilian — Aubigny, Iona. At least three have a documented cult and they are routinely confused.</td>
+        <td class="cls">E1 · E5</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/nicholaskouns-create/Kiliani/tree/main/scholarship"><code>scholarship/</code></a></td>
+        <td>Research reports on this corpus, the ecclesiastical review of it, the web survey, and the bibliography.</td>
+        <td class="cls">E5</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/nicholaskouns-create/Kiliani/tree/main/family"><code>family/</code></a></td>
+        <td>Two lines, iron and gold. The maternal Killion line and the paternal Kouns line, each graded documented / likely / speculative, with the Augsburg artistic corpus and the open questions.</td>
+        <td class="cls">E6</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/nicholaskouns-create/Kiliani/tree/main/interpretive"><code>interpretive/</code></a></td>
+        <td>The KKP-R layer, kept here so that it cannot be mistaken for anything else.</td>
+        <td class="cls">E7</td>
+      </tr>
+    </tbody>
+  </table></div>
+  <p class="col" style="font-size:.9rem;color:var(--muted)">
+     <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/STATUS.md">STATUS.md</a>
+     gives the editorial status of every file in the archive in one table.</p>
+</section>
+
+<section class="col">
+  <h2>The surname</h2>
+  <p><strong>Polygenetic.</strong> Irish Killian and Killion descend from <em>Ó Cillín /
+     Ó Cilleáin</em>, a diminutive of <em>Ceallach</em>; German Kilian from the saint's
+     name used as a baptismal name, which spread through Franconia <em>because</em> of
+     the Würzburg cult. Two unrelated roots, one spelling. Bearers of the name were
+     never one kin group and were never expected to be — which is how a chain of the
+     name crosses fourteen centuries without a chain of bodies.</p>
+</section>
+
 <section class="col">
   <h2>What this collection asserts</h2>
   <p>That two Latin hagiographic works survive concerning Kilian, Colonatus and Totnan,
@@ -63,6 +153,11 @@
      companions, was active near Würzburg before the diocese was organised, came into
      conflict with the ducal household, and died violently. That Burchard, the first
      bishop of Würzburg, translated relics venerated as theirs, traditionally in 752.</p>
+  <p>That the Augsburg Kilian family were real goldsmiths and engravers, documented in
+     civic, guild and museum records from the sixteenth century. That the Cuntze /
+     Kuntze / Kouns family were real Siegerland ironworkers who entered Virginia with
+     the Germanna migration of 1714. That the two lines meet in twentieth-century
+     Kentucky.</p>
 
   <h2>What it does not assert</h2>
   <div class="caution">
@@ -72,9 +167,16 @@
        as a celibate cleric among clerical companions. The shared name — Killena,
        Chilianus, Kilian, Killian, Killion — is onomastic and devotional continuity, not
        biological continuity.</p>
+    <p><strong>No eyewitness authority for the seventh century.</strong> Neither
+       <em>Passio</em> is a contemporary record. The <em>minor</em> postdates the events
+       by at least decades and probably by a century; the <em>maior</em> by roughly three.</p>
     <p><strong>The reading text is not a critical edition</strong> and has not been
        collated against Levison. It says so itself, and the textual notes mark four
        defects that must be repaired against the standard edition.</p>
+    <p><strong>No mathematical claim.</strong> The Kouns–Killion Paradigm is a separate
+       body of work in separate repositories. Where it appears here it is confined to
+       <code>interpretive/</code> and labelled as interpretation, never as a finding of
+       the medieval sources.</p>
     <p>These boundaries are checked on every push by
        <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/tools/check_boundaries.py">a
        script</a> that fails the build if any of them stops being stated.</p>
@@ -97,6 +199,10 @@
       <tr><td><a href="data/stemma_signal.json">stemma_signal.json</a></td><td>citation counts and ranked affinities</td></tr>
     </tbody>
   </table></div>
+  <p style="font-size:.9rem;color:var(--muted)">Beside the dossier, and not part of it:
+     <a href="e47-spectral-kernel/E47-spectral-kernel.svg">the E₄₇ spectral kernel
+     publication plate</a> — the mathematics that shares the Killion name, kept here as a
+     plate only.</p>
 </section>
 
 <footer>
@@ -105,6 +211,10 @@
      Krusch–Levison, <em>MGH SS rer. Merov.</em> 5 (1910), pp. 722–728.</p>
   <p>Manuscript images are served by the holding libraries under their own terms and are
      not redistributed here.</p>
+  <p>Original material © Nicholas Shane Kouns. The archive is released CC BY 4.0 per
+     <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/CITATION.cff">CITATION.cff</a>;
+     the repository <a href="https://github.com/nicholaskouns-create/Kiliani/blob/main/LICENSE">LICENSE</a>
+     governs where the two differ.</p>
 </footer>
-</div><p><a href="e47-spectral-kernel/E47-spectral-kernel.svg">The E₄₇ spectral kernel · publication plate</a></p>
+</div>
 </body></html>
