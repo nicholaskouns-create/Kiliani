@@ -1,0 +1,85 @@
+name: Site checks
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "docs/**"
+      - "tools/check_boundaries.py"
+      - ".github/workflows/site.yml"
+  pull_request:
+    branches: ["main"]
+    paths:
+      - "docs/**"
+      - "tools/check_boundaries.py"
+      - ".github/workflows/site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    name: Validate the site served from docs/
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: The boundaries must still hold
+        run: python3 tools/check_boundaries.py
+
+      - name: Every relative link in docs/ must resolve
+        shell: bash
+        run: |
+          set -euo pipefail
+          fail=0
+          for page in docs/*.html; do
+            # Relative hrefs and srcs only: skip anchors, absolute URLs and mailto,
+            # and skip JS template literals and string concatenation, which the
+            # witness browser builds its links from at runtime.
+            targets="$(grep -oE '(href|src)="[^"]+"' "$page" \
+              | sed -E 's/^(href|src)="//; s/"$//' \
+              | grep -vE '^(#|https?:|mailto:|data:)' \
+              | grep -vF '${' | grep -vF "'+" | grep -vF '"+' || true)"
+            for t in $targets; do
+              clean="${t%%#*}"; clean="${clean%%\?*}"
+              [ -z "$clean" ] && continue
+              if [ "$clean" = "./" ]; then clean="index.html"; fi
+              case "$clean" in */) clean="${clean}index.html";; esac
+              if [ ! -e "docs/$clean" ]; then
+                echo "::error file=$page::relative link does not resolve: $t"
+                fail=1
+              fi
+            done
+          done
+          [ "$fail" -eq 0 ] && echo "All relative links in docs/ resolve."
+          exit "$fail"
+
+      - name: The data files the pages read must parse
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, pathlib, xml.etree.ElementTree as ET
+          for p in sorted(pathlib.Path("docs/data").glob("*.json")):
+              json.loads(p.read_text(encoding="utf-8")); print(f"ok  {p}")
+          for p in sorted(pathlib.Path("docs/data").glob("*.xml")):
+              ET.parse(p); print(f"ok  {p}")
+          PY
+
+      - name: The citation must match CITATION.cff
+        shell: bash
+        run: |
+          set -euo pipefail
+          for token in "Kouns" "Killion-Kouns family archive" "CC-BY-4.0"; do
+            grep -q -- "$token" CITATION.cff || { echo "::error::CITATION.cff lost: $token"; exit 1; }
+          done
+          grep -q "Killion–Kouns family archive" docs/index.html \
+            || { echo "::error::the front page no longer carries the dataset title"; exit 1; }
+          grep -q "Do not cite it for" docs/index.html \
+            || { echo "::error::the front page no longer carries the do-not-cite caveat"; exit 1; }
+          echo "Citation block agrees with CITATION.cff."
