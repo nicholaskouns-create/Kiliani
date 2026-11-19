@@ -19,12 +19,36 @@ family photographs.
 | Generation | Person | Dates | Spouse |
 |---|---|---|---|
 | 1 | **Henry Reynolds** | 1737–1824 | Elizabeth McClain (d. 1826) |
-| 2 | **Henry Reynolds Jr.** | 1774–1856 | Elizabeth Willis |
+| 2 | **Henry Reynolds Jr.** | 1774–1856 *(typescript: b. 1771)* | Elizabeth Willis |
 | 3 | **Henry A. Reynolds** | 1801–1865 | Patsy Goins Reynolds |
 | 4 | **John Wesley "Creek John" Reynolds** | 1833–1921 | Francena Baker Reynolds (1834–1899) |
 
 Creek John and Francena farmed at **Pollard, Jessamine County, Kentucky**, raised
 ten children, and are buried in the Reynolds Graveyard.
+
+### From the family-papers typescript
+
+A photographed page of the family's own papers (November 2026) adds detail to
+generations 1 and 2 that no plate carries:
+
+- **Henry Reynolds Jr.** was born **1771 in North Carolina** and died **1856 in
+  Jessamine County, Kentucky**. The 1771 disagrees with the 1774 above by three
+  years; both are recorded, neither is preferred — see
+  [discrepancies.md](discrepancies.md) item 11.
+- He married **Elizabeth Willis**, daughter of **Sherod and Mary Ann Willis**, on
+  **25 November 1797 in Madison County, Kentucky**. Elizabeth was born at Abilene,
+  Virginia, near Charlottesville.
+- The great-grandparents are confirmed as **Henry Reynolds** (d. 1824) and
+  **Elizabeth McClain** (d. 1826).
+
+The same page lists the **seven children of Henry Reynolds Jr. and Elizabeth
+Willis** — the aunts and uncles of Creek John: Polly (b. 1799); **Henry A.**
+(b. 1801, Creek John's father); Elizabeth (b. 1803, m. John Wylie 28 Dec 1823);
+Thomas (1804–1828); Moses M. (1809–1876, m. Araminta Potts 6 Sept 1830); John W.
+(b. 1813); and Nancy (b. 1818, m. Thomas Reynolds Jr.).
+
+This is the archive's own paper, not a derivative tree, and it is therefore the
+better source where the two disagree.
 
 ## The ten children of Creek John and Francena
 

@@ -29,17 +29,31 @@ Full treatment: [paternal-kouns-line.md](paternal-kouns-line.md).
 
 ---
 
-## ✅ 1. Alexander Killion's wife — RESOLVED
+## ⚠ 1. Alexander Killion's wife — RESOLVED, THEN RE-OPENED (Nov 2026)
 
-**Elizabeth "Lizzie" Hill (17 Aug 1895 – 20 Dec 1973)**, married Alex Killion
-8 June 1910.
+**The resolution stood for a month and a new source has unsettled it.**
 
-The obituary was right. The plates confirm it with both dates, the marriage date,
-her parents and her burial place.
+This archive concluded: she was **Elizabeth "Lizzie" Hill (17 Aug 1895 – 20 Dec
+1973)**, married 8 June 1910, and the competing form "Edna E. Hill" was a
+transcription slip — *Edna Alice Reynolds* (1861–1956), Lizzie's great-aunt, whose
+given name had migrated one generation down and across a marriage onto Lizzie's
+position in one plate.
 
-**And the error's source is now visible:** *Edna Alice Reynolds* (1861–1956) was
-Lizzie's mother's younger sister — a great-aunt. One plate grafts her given name
-onto Lizzie's position in the chart.
+**FamilySearch (G86V-5MT) gives her as `Edna Elizabeth Hill`, 1895–1973** — one
+woman whose name contains *both* disputed forms, married to Alex Killion
+(G86V-J98).
+
+If that is right, then the plate reading "Edna E. Hill" was never an error, the
+obituary's "Elizabeth Hill" was a short form, and this archive's explanation —
+elegant, specific, and apparently confirmed — identified a contamination that did
+not occur. The coincidence of a great-aunt named *Edna Alice* standing exactly one
+generation up remains striking, and could still be the true explanation with
+FamilySearch carrying the slip rather than the plate.
+
+**Both readings are now on the table and neither is preferred here.**
+
+**To settle:** her death certificate, the Lancaster Cemetery record, or the 1910
+marriage return — any one of which gives her name as recorded at the time.
 
 Detail: [reynolds-hill-branch.md](reynolds-hill-branch.md).
 
@@ -186,3 +200,41 @@ Detail: [../cult/worldwide.md](../cult/worldwide.md).
 
 The archive found five of its own errors and had one of its corrections
 overturned. That ratio is what a working ledger looks like.
+
+---
+
+## ⚠ 9. Matilda or Martha Lanham — NEW (Nov 2026)
+
+| Source | Name | Dates |
+|---|---|---|
+| Scalf family reconstruction, via *Iron and Gold* | **Matilda** Lanham | — |
+| FamilySearch KPWC-VMS | **Martha** Lanham | 1817–1869 |
+
+Wife of John J. Killion (FamilySearch: *John Jonas* Killion, L66J-QKB, 1813–1890)
+and mother of Arthur L. Killion. Both sources are derivative.
+
+**To settle:** the Claiborne or Laurel County marriage record.
+
+## ⚠ 10. George W. Kouns's death year — NEW (Nov 2026)
+
+| Source | Dates |
+|---|---|
+| This archive's plates | 1863–**1939** |
+| FamilySearch L615-BHK | 1863–**1952** |
+
+Thirteen years apart, on the generation already named as the most urgent paternal
+problem. FamilySearch adds a wife, **Lucy Kouns** (1868–, LYR8-FLT), whom no plate
+here names. This is the predicted same-name confusion arriving with a date attached.
+
+**To settle:** the Kentucky death certificate — see
+[open-questions.md](open-questions.md) item 7.
+
+## ⚠ 11. Henry Reynolds Jr.'s birth year — NEW (Nov 2026)
+
+| Source | Born |
+|---|---|
+| [reynolds-hill-branch.md](reynolds-hill-branch.md) | **1774** |
+| Reynolds family-papers typescript | **1771**, in North Carolina |
+
+Three years, from a page of the family's own papers. Minor, and recorded so it is
+not silently smoothed.
