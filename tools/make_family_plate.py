@@ -20,6 +20,7 @@ RULE="#263037"; RULE_STRONG="#3A474F"; SIGLUM="#E29286"; OPEN="#D7AC48"
 
 # grading -> (spine colour, label, label colour)
 G = {
+ "val":  (INK,     "VALIDATED",   INK),
  "doc":  (INK,     "DOCUMENTED",  INK),
  "star": (INK,     "",            INK),
  "lik":  (RULE_STRONG, "LIKELY",  MUTED),
@@ -36,19 +37,19 @@ MATERNAL = [
  ("star", "Bartholomäus Kilian I", "1548–1587/88", "Silesia · Augsburg", "", "THE LINE STARTS HERE"),
  ("doc",  "Wolfgang Kilian", "1581–1662", "Augsburg · Italy", "", ""),
  ("doc",  "Philipp Kilian", "1628–1693", "Augsburg · Italy", "", ""),
- ("spec", "Johannes Jacob Balthasar Kilian", "1689–1742", "Augsburg · Königsberg",
-          "Elisabetha Kilian  1712–1777", ""),
- ("unres","Johann / Andreas Killion", "1732–1781", "Germany · North Carolina",
-          "Anne Balschbach  1734–1816", "THE ATLANTIC HINGE"),
- ("lik",  "William Killion", "1768–1850", "N. Carolina · Tennessee",
-          "Alley Coleman  b. 1789", ""),
- ("lik",  "John Jonas Killion", "1813–1890", "Tennessee · Laurel Co., Ky.",
-          "Martha / Matilda Lanham  1817–1869", "L66J-QKB"),
- ("spec", "Arthur L. Killion", "1848–1920", "Laurel Co., Kentucky",
+ ("val",  "Johannes Killian", "1689–1742", "Augsburg · Königsberg",
+          "Elisabetha Kilian  1712–1777", "VALIDATED · FS"),
+ ("val",  "Johann Killion", "1732–1781", "Germany · North Carolina",
+          "Anne Balschbach  1734–1816", "VALIDATED · FS"),
+ ("val",  "William Killion", "1768–1850", "N. Carolina · Tennessee",
+          "Alley Coleman  b. 1789", "VALIDATED · FS"),
+ ("val",  "John Jonas Killion", "1813–1890", "Tennessee · Laurel Co., Ky.",
+          "Martha Lanham  1817–1869", "L66J-QKB"),
+ ("val",  "Arthur L. Killion", "1848–1920", "Laurel Co., Kentucky",
           "Susan Goins  1855–1889", "9QYK-CY4"),
- ("lik",  "Alex Killion", "1885–1961", "Kentucky",
-          "Edna Elizabeth “Lizzie” Hill  1895–1973", "G86V-J98"),
- ("doc",  "Anna Rose Killion Kouns", "1931–2015", "Lancaster, Kentucky", "", "G86H-5RY"),
+ ("val",  "Alex Killion", "1885–1961", "Kentucky",
+          "Edna Elizabeth Hill  1895–1973", "G86V-J98"),
+ ("val",  "Anna Rose Killion Kouns", "1931–2015", "Lancaster, Kentucky", "", "G86H-5RY"),
 ]
 
 PATERNAL = [
@@ -63,11 +64,11 @@ PATERNAL = [
  ("lik",  "Christian Kouns / Kunz / Coontz", "1759–1837", "Shenandoah · Greenbrier", "", ""),
  ("spec", "John Lamp Kouns", "c. 1780–1826 or 1851", "Ohio · Kentucky", "", "DATES DISAGREE"),
  ("lik",  "Christian Kouns", "1815–1870", "Greenup Co., Kentucky", "", ""),
- ("unres","George W. Kouns", "1863–1939 or 1952", "Kentucky",
+ ("val",  "George W. Kouns", "1863–1952", "Kentucky",
           "Lucy Kouns  1868–", "L615-BHK"),
- ("lik",  "Edgar Kouns", "1902–1967", "Kentucky",
+ ("val",  "Edgar Kouns", "1902–1967", "Kentucky",
           "Evelyn Alma Unrue  1907–1996", "LCT2-XN4"),
- ("doc",  "Donald Ray Kouns", "1932–2003", "Kentucky", "", "LH8V-CLD"),
+ ("val",  "Donald Ray Kouns", "1932–2003", "Kentucky", "", "LH8V-CLD"),
 ]
 
 REYNOLDS = [
@@ -79,7 +80,7 @@ REYNOLDS = [
  ("Elizabeth “Lizzie” Hill", "1895–1973", "m. Alex Killion, 8 June 1910"),
 ]
 
-W, H = 2200, 3880
+W, H = 2200, 3910
 M = 96
 COLW = 880
 GUT = W - 2*M - 2*COLW
@@ -133,17 +134,17 @@ def card(d, x, y, w, rec, idx):
         nc = OPEN if grade in ("spec", "unres") else (SIGLUM if grade == "rm" else MUTED)
         tw = d.textlength(note, font=lf) + len(note)*1.4
         nx = x + w - 26 - tw
-        if grade == "star":
+        if grade in ("star", "val"):
             cy0 = y + 36
             d.polygon([(nx - 30, cy0), (nx - 21, cy0 - 9), (nx - 12, cy0), (nx - 21, cy0 + 9)], fill=INK)
         track(d, (nx, y + 28), note, lf, nc, sp=1.4)
 
 def column(d, x, rows, title, sub):
     tf = lit(40, "700")
-    d.text((x, 470), title, font=tf, fill=INK)
-    track(d, (x, 524), sub.upper(), mono(21, True), MUTED, sp=2.4)
-    d.line([(x, 566), (x + COLW, 566)], fill=RULE_STRONG, width=1)
-    y = 596
+    d.text((x, 496), title, font=tf, fill=INK)
+    track(d, (x, 550), sub.upper(), mono(21, True), MUTED, sp=2.4)
+    d.line([(x, 592), (x + COLW, 592)], fill=RULE_STRONG, width=1)
+    y = 622
     for i, rec in enumerate(rows, 1):
         card(d, x, y, COLW, rec, i)
         y += CARD_H + GAP
@@ -158,21 +159,28 @@ def build():
 
     # masthead
     d.text((M, 96), "The Killion–Kouns Family", font=lit(86, "700"), fill=INK)
-    d.text((M, 206), "Two lines, iron and gold. Both real. Neither descends from a saint.",
+    d.text((M, 206), "Two lines, iron and gold. Validated through the Church's record, generation by generation.",
            font=lit_i(38), fill=MUTED)
     d.line([(M, 286), (W - M, 286)], fill=RULE, width=1)
 
     # legend
     lx, ly = M, 322
-    track(d, (lx, ly), "CONFIDENCE, AS THE ARCHIVE GRADES IT", mono(20, True), MUTED, sp=2.4)
-    items = [(INK, "documented"), (RULE_STRONG, "likely"), (OPEN, "speculative / unresolved"),
-             (SIGLUM, "removed — fiction or conflation, kept struck through")]
+    track(d, (lx, ly), "CONFIDENCE  ·  THE FAMILYSEARCH LINE IS STIPULATED PRIMARY BY THE COMPILER, A MEMBER OF THE CHURCH", mono(20, True), MUTED, sp=2.4)
+    items = [(INK, "validated — FamilySearch, stipulated"), (INK, "documented — scholarly record"),
+             (RULE_STRONG, "likely"), (OPEN, "speculative"),
+             (SIGLUM, "removed — kept struck through")]
     x = lx
     for colr, lab in items:
         d.rectangle([x, ly + 40, x + 26, ly + 62], fill=colr)
         f = lit(26)
         d.text((x + 38, ly + 36), lab, font=f, fill=MUTED)
         x += 38 + d.textlength(lab, font=f) + 54
+
+    nf = lit_i(25)
+    d.text((M, ly + 84), "A filled mark denotes an entry validated through FamilySearch; "
+           "where an identifier was captured it stands in place of the label.", font=nf, fill=MUTED)
+    d.text((M, ly + 114), "The Augsburg generations rest on independent scholarly record, "
+           "not on the stipulation. The removed entries stay removed.", font=nf, fill=MUTED)
 
     ymat = column(d, M, MATERNAL, "Maternal — Kilian / Killion",
                   "Augsburg goldsmiths and engravers, into Appalachia")
@@ -232,7 +240,7 @@ def build():
     d.line([(M, fy - 34), (W - M, fy - 34)], fill=RULE, width=1)
     ff = mono(22)
     d.text((M, fy), "nicholaskouns-create.github.io/Kiliani/family.html", font=ff, fill=MUTED)
-    t = "Compiled 18 November 2026 · gradings and conflicts as recorded in family/"
+    t = "Revised 18 November 2026 · FamilySearch line stipulated primary · family/familysearch-ids.md"
     d.text((W - M - d.textlength(t, font=ff), fy), t, font=ff, fill=MUTED)
 
     out = pathlib.Path("family/plates/killion-kouns-full-tree.png")
