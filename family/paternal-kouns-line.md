@@ -21,8 +21,8 @@ Labels: **documented** · **likely** · **speculative**. Defined in
 | 8 | **Christian Kouns / Kunz / Coontz** | 1759–1837 | Shenandoah → Greenbrier | **likely** |
 | 9 | **John Lamp Kouns** | c. 1780–1826 *(FamilySearch gives 1780–1851)* | Ohio / Kentucky | **likely**; dates disagree — see [discrepancies.md](discrepancies.md) |
 | 10 | **Christian Kouns** | 1815–1870 | Kentucky | **likely** |
-| 11 | **George W. Kouns** | 1863–1939 | Kentucky | ⚠ **unresolved — most urgent paternal problem.** Same-name confusion already visible in public material |
-| 12 | **Edgar Kouns** | 1902–1967 | Kentucky | **likely** — derivative but record-linked FamilySearch profile |
+| 11 | **George W. Kouns** | 1863–**1939 or 1952** | Kentucky | ⚠ **unresolved — most urgent paternal problem, and now a dated conflict.** This archive's plates give 1863–1939; FamilySearch (L615-BHK) gives **1863–1952**, with wife **Lucy Kouns** (1868–, LYR8-FLT). A thirteen-year disagreement on the death year — exactly the same-name confusion predicted below |
+| 12 | **Edgar Kouns** | 1902–1967 | Kentucky | **likely** — derivative but record-linked FamilySearch profile (LCT2-XN4). Wife **Evelyn Alma Unrue (1907–1996, MYPR-BVT)**, daughter of Edward Enoch Unrue (1872–1940, LWW8-276) and Martha Ann Deboard (1878–1952, K8Q1-DBS). This resolves the plate reading "Evelyn Alma / Ann Unrue", which had split one woman's name into two |
 | 13 | **Donald Ray Kouns** | 1932–2003 | Kentucky | **documented** — FamilySearch; confirmed as Anna Rose's husband by her obituary |
 | 14 | **Nicholas Shane Kouns** | 1965– | Danville, Kentucky | **documented** |
 
