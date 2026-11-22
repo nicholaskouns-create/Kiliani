@@ -167,3 +167,10 @@ the same thing everywhere:
 *Ad maiorem Dei gloriam et ad memoriam Sancti Kiliani, Apostoli Franconiae.*
 
 [The E₄₇ spectral kernel · formalism and verification](docs/e47-spectral-kernel/README.md)
+
+
+### New supplied lineage and artistic-output sources (22 November 2026)
+
+Three newly supplied PDF/DOCX documents have been added to the indexed source register with SHA-256 digests, claim-level differences, and fifteen artwork identification leads. The documents' *claims* are preserved without superseding the standing family evidence boundaries; original binary attachments remain with the submitted conversation, not in GitHub.
+
+See [the November 2026 three-source register](research/history/three_uploaded_lineage_sources_2026-11-22.md).
