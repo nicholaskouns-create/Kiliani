@@ -141,3 +141,8 @@ That is **interpretation**, and belongs with the rest of it in
 [interpretive/](../interpretive/). The table above is the documentary layer: works,
 dates, repositories, accession numbers. The two should not be read as one
 register, and the monograph is kept here as written so the difference is visible.
+
+
+## New identification leads (22 November 2026)
+
+Fifteen candidate artwork/title and artist assignments are transcribed from the uploaded *Killion Lineage of Sacred Craft* monograph in [the November 2026 source register](../research/history/three_uploaded_lineage_sources_2026-11-22.md). They are catalog leads; existing documented institutional object records and accessions retain their prior standing. No new title is promoted without an independent object identifier.
