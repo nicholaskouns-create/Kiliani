@@ -110,3 +110,8 @@ carrying technique, memory and names across four centuries.
 
 That is a harder and better claim than descent from a saint, and unlike descent
 from a saint, it is true.
+
+
+## Incoming research narratives — November 2026
+
+Three supplied modern lineage/artistic-output narratives are indexed in [the source report](../research/history/three_uploaded_lineage_sources_2026-11-22.md). They include earlier saint-descent, Clegwallabog, famine-immigration and unverified ancestor-identification claims. Those assertions remain source readings, not changes to this archive's genealogical status.
