@@ -174,3 +174,11 @@ the same thing everywhere:
 Three newly supplied PDF/DOCX documents have been added to the indexed source register with SHA-256 digests, claim-level differences, and fifteen artwork identification leads. The documents' *claims* are preserved without superseding the standing family evidence boundaries; original binary attachments remain with the submitted conversation, not in GitHub.
 
 See [the November 2026 three-source register](research/history/three_uploaded_lineage_sources_2026-11-22.md).
+
+
+<!-- FUN-WITH-EINSTEIN-2026 -->
+### 🪐 Fun With Einstein — mathematical research lab
+[Live interactive lab](https://nicholaskouns-create.github.io/fun-with-einstein/) · [Python, Lean, Coq certificate sources](https://github.com/nicholaskouns-create/E47-Kartekeya/tree/main/docs/fun-with-einstein) · [Continuous integration](https://github.com/nicholaskouns-create/E47-Kartekeya/actions/workflows/fun-with-einstein.yml)
+
+Exact C₅ ratio φ⁻², E₄₇ rank-47 projector, 250D ancilla measurement and separately scoped stationary Einstein recovery.
+<!-- /FUN-WITH-EINSTEIN-2026 -->
