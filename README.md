@@ -182,3 +182,12 @@ See [the November 2026 three-source register](research/history/three_uploaded_li
 
 Exact C₅ ratio φ⁻², E₄₇ rank-47 projector, 250D ancilla measurement and separately scoped stationary Einstein recovery.
 <!-- /FUN-WITH-EINSTEIN-2026 -->
+
+
+---
+
+### E₄₇ · Computed spectral geometry
+
+[Open the interactive E₄₇ visualizer](./e47-geometry/index.html) · [GitHub Pages instrument](https://nicholaskouns-create.github.io/Kiliani/e47-geometry/)
+
+Additive, mobile-friendly 125-site 3D projector-density lattice, five exact rational density slices, seven SU(2) spectral sectors, minimax contraction and five-stage polynomial projection. The 3D embedding is a coordinate visualization of the invariant spectral subspace, not a physical solid.
